@@ -1,0 +1,60 @@
+{
+  "type": "bar",
+  "title": "Out-of-sample RMSE by model and dataset",
+  "xlabel": "Dataset",
+  "ylabel": "OOS RMSE (\u00b0C)",
+  "aspect": "16:9",
+  "categories": [
+    "kurzweg_1988",
+    "manitoba_workshop",
+    "ferreira_2024_cup",
+    "lomen_lovelock"
+  ],
+  "series": [
+    {
+      "label": "B0_newton",
+      "values": [
+        1.526,
+        5.62,
+        3.838,
+        4.126
+      ]
+    },
+    {
+      "label": "B1_piecewise",
+      "values": [
+        1.364,
+        2.933,
+        2.162,
+        2.76
+      ]
+    },
+    {
+      "label": "C1_coupled_ode",
+      "values": [
+        1.855,
+        5.065,
+        4.141,
+        3.889
+      ]
+    },
+    {
+      "label": "C2_bayesian_changepoint",
+      "values": [
+        0.643,
+        2.05,
+        0.874,
+        2.059
+      ]
+    },
+    {
+      "label": "C3_flux_crossover",
+      "values": [
+        1.284,
+        2.544,
+        3.086,
+        2.731
+      ]
+    }
+  ]
+}

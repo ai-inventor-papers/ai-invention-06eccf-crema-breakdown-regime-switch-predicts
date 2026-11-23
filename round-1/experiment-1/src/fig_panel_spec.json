@@ -1,0 +1,186 @@
+{
+  "type": "panel",
+  "title": "Five-model coffee cooling comparison across published datasets",
+  "ncols": 2,
+  "aspect": "4:3",
+  "width_in": 6.5,
+  "panels": [
+    {
+      "type": "bar",
+      "title": "BIC (lower = better)",
+      "xlabel": "Dataset",
+      "ylabel": "BIC",
+      "categories": [
+        "kurzweg_1988",
+        "manitoba_workshop",
+        "ferreira_2024_cup",
+        "lomen_lovelock"
+      ],
+      "series": [
+        {
+          "label": "B0_newton",
+          "values": [
+            20.4,
+            43.0,
+            25.1,
+            21.0
+          ]
+        },
+        {
+          "label": "B1_piecewise",
+          "values": [
+            -21.5,
+            -14.4,
+            -10.6,
+            -16.0
+          ]
+        },
+        {
+          "label": "C1_coupled_ode",
+          "values": [
+            -13.2,
+            4.4,
+            2.1,
+            -6.3
+          ]
+        },
+        {
+          "label": "C2_bayesian_changepoint",
+          "values": [
+            -3.3,
+            4.8,
+            2.9,
+            -2.7
+          ]
+        },
+        {
+          "label": "C3_flux_crossover",
+          "values": [
+            -24.6,
+            -9.6,
+            -5.0,
+            -16.1
+          ]
+        }
+      ]
+    },
+    {
+      "type": "bar",
+      "title": "OOS RMSE (lower = better)",
+      "xlabel": "Dataset",
+      "ylabel": "RMSE (\u00b0C)",
+      "categories": [
+        "kurzweg_1988",
+        "manitoba_workshop",
+        "ferreira_2024_cup",
+        "lomen_lovelock"
+      ],
+      "series": [
+        {
+          "label": "B0_newton",
+          "values": [
+            1.526,
+            5.62,
+            3.838,
+            4.126
+          ]
+        },
+        {
+          "label": "B1_piecewise",
+          "values": [
+            1.364,
+            2.933,
+            2.162,
+            2.76
+          ]
+        },
+        {
+          "label": "C1_coupled_ode",
+          "values": [
+            1.855,
+            5.065,
+            4.141,
+            3.889
+          ]
+        },
+        {
+          "label": "C2_bayesian_changepoint",
+          "values": [
+            0.643,
+            2.05,
+            0.874,
+            2.059
+          ]
+        },
+        {
+          "label": "C3_flux_crossover",
+          "values": [
+            1.284,
+            2.544,
+            3.086,
+            2.731
+          ]
+        }
+      ]
+    },
+    {
+      "type": "bar",
+      "title": "Predicted t(50\u00b0C) (min)",
+      "xlabel": "Dataset",
+      "ylabel": "Time (min)",
+      "categories": [
+        "kurzweg_1988",
+        "manitoba_workshop",
+        "ferreira_2024_cup",
+        "lomen_lovelock"
+      ],
+      "series": [
+        {
+          "label": "B0_newton",
+          "values": [
+            15.9,
+            16.2,
+            18.2,
+            18.7
+          ]
+        },
+        {
+          "label": "B1_piecewise",
+          "values": [
+            14.9,
+            16.5,
+            17.3,
+            18.7
+          ]
+        },
+        {
+          "label": "C1_coupled_ode",
+          "values": [
+            14.9,
+            15.4,
+            17.0,
+            18.2
+          ]
+        },
+        {
+          "label": "C2_bayesian_changepoint",
+          "values": [
+            14.9,
+            17.4,
+            18.4,
+            19.3
+          ]
+        },
+        {
+          "label": "C3_flux_crossover",
+          "values": [
+            14.9,
+            16.1,
+            17.1,
+            18.6
+          ]
+        }
+      ]
+    }
+  ]
+}

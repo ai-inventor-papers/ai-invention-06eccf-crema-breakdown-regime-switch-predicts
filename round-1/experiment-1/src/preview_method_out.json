@@ -1,0 +1,194 @@
+{
+  "metadata": {
+    "method_name": "Five-model coffee cooling comparison",
+    "description": "Compares Newton (B0), piecewise two-exponential (B1), coupled mass-energy ODE (C1), Bayesian change-point (C2), and flux-crossover with evaporation suppression (C3) across published coffee cooling dat...",
+    "n_datasets": 4,
+    "n_examples": 16,
+    "models": [
+      "B0_newton",
+      "B1_piecewise",
+      "C1_coupled_ode"
+    ],
+    "tau_sweep_minutes": [
+      3.0,
+      4.0,
+      5.0
+    ],
+    "drinkable_temp_C": 50.0,
+    "split_ratios": [
+      0.7,
+      0.75,
+      0.8
+    ]
+  },
+  "datasets": [
+    {
+      "dataset": "kurzweg_1988",
+      "examples": [
+        {
+          "input": "Fit five coffee-cooling models (Newton, piecewise, coupled ODE, Bayesian change-point, flux-crossover) to the kurzweg_1988 dataset, fit on first 80%, evaluate OOS on last 20%, compute BIC and predicte...",
+          "output": "{\n  \"B0_newton\": {\n    \"model\": \"B0_newton\",\n    \"k\": 0.0008953645140971331,\n    \"T0\": 88.0,\n    \"rss\": 32.65610137412127,\n    \"bic\": 15.969500813241144,\n    \"params_count\": 2,\n    \"oos_rmse\": 1.78876...",
+          "metadata_dataset": "kurzweg_1988",
+          "metadata_n_points": "16",
+          "metadata_split_fit": "11",
+          "metadata_split_hold": "5",
+          "predict_b0_newton_rmse": "1.7888",
+          "predict_b1_piecewise_rmse": "1.4133",
+          "predict_c1_coupled_rmse": "1.9124",
+          "predict_c2_changepoint_rmse": "0.5706",
+          "predict_c3_flux_crossover_rmse": "1.3217",
+          "predict_b0_t_drinkable_min": "15.5876",
+          "predict_b1_t_drinkable_min": "14.8361",
+          "predict_c2_t_drinkable_min": "14.9602",
+          "predict_c3_t_drinkable_min": "14.8247"
+        },
+        {
+          "input": "Fit five coffee-cooling models (Newton, piecewise, coupled ODE, Bayesian change-point, flux-crossover) to the kurzweg_1988 dataset, fit on first 80%, evaluate OOS on last 20%, compute BIC and predicte...",
+          "output": "{\n  \"B0_newton\": {\n    \"model\": \"B0_newton\",\n    \"k\": 0.0008765266131950093,\n    \"T0\": 88.0,\n    \"rss\": 46.928425240530935,\n    \"bic\": 20.364603087501248,\n    \"params_count\": 2,\n    \"oos_rmse\": 1.5259...",
+          "metadata_dataset": "kurzweg_1988",
+          "metadata_n_points": "16",
+          "metadata_split_fit": "12",
+          "metadata_split_hold": "4",
+          "predict_b0_newton_rmse": "1.5260",
+          "predict_b1_piecewise_rmse": "1.3639",
+          "predict_c1_coupled_rmse": "1.8549",
+          "predict_c2_changepoint_rmse": "0.6427",
+          "predict_c3_flux_crossover_rmse": "1.2838",
+          "predict_b0_t_drinkable_min": "15.9226",
+          "predict_b1_t_drinkable_min": "14.8780",
+          "predict_c2_t_drinkable_min": "14.9147",
+          "predict_c3_t_drinkable_min": "14.8748"
+        },
+        {
+          "input": "Fit five coffee-cooling models (Newton, piecewise, coupled ODE, Bayesian change-point, flux-crossover) to the kurzweg_1988 dataset, fit on first 80%, evaluate OOS on last 20%, compute BIC and predicte...",
+          "output": "{\n  \"B0_newton\": {\n    \"model\": \"B0_newton\",\n    \"k\": 0.0008765266131950093,\n    \"T0\": 88.0,\n    \"rss\": 46.928425240530935,\n    \"bic\": 20.364603087501248,\n    \"params_count\": 2,\n    \"oos_rmse\": 1.5259...",
+          "metadata_dataset": "kurzweg_1988",
+          "metadata_n_points": "16",
+          "metadata_split_fit": "12",
+          "metadata_split_hold": "4",
+          "predict_b0_newton_rmse": "1.5260",
+          "predict_b1_piecewise_rmse": "1.3639",
+          "predict_c1_coupled_rmse": "1.8549",
+          "predict_c2_changepoint_rmse": "0.6427",
+          "predict_c3_flux_crossover_rmse": "1.2838",
+          "predict_b0_t_drinkable_min": "15.9226",
+          "predict_b1_t_drinkable_min": "14.8780",
+          "predict_c2_t_drinkable_min": "14.9147",
+          "predict_c3_t_drinkable_min": "14.8748"
+        }
+      ]
+    },
+    {
+      "dataset": "manitoba_workshop",
+      "examples": [
+        {
+          "input": "Fit five coffee-cooling models (Newton, piecewise, coupled ODE, Bayesian change-point, flux-crossover) to the manitoba_workshop dataset, fit on first 80%, evaluate OOS on last 20%, compute BIC and pre...",
+          "output": "{\n  \"B0_newton\": {\n    \"model\": \"B0_newton\",\n    \"k\": 0.0011050625832649172,\n    \"T0\": 95.0,\n    \"rss\": 54.082104702824125,\n    \"bic\": 22.067160394130344,\n    \"params_count\": 2,\n    \"oos_rmse\": 7.4450...",
+          "metadata_dataset": "manitoba_workshop",
+          "metadata_n_points": "18",
+          "metadata_split_fit": "12",
+          "metadata_split_hold": "6",
+          "predict_b0_newton_rmse": "7.4451",
+          "predict_b1_piecewise_rmse": "5.0766",
+          "predict_c1_coupled_rmse": "6.3824",
+          "predict_c2_changepoint_rmse": "3.6250",
+          "predict_c3_flux_crossover_rmse": "4.3623",
+          "predict_b0_t_drinkable_min": "14.1284",
+          "predict_b1_t_drinkable_min": "14.8627",
+          "predict_c2_t_drinkable_min": "15.6964",
+          "predict_c3_t_drinkable_min": "14.8147"
+        },
+        {
+          "input": "Fit five coffee-cooling models (Newton, piecewise, coupled ODE, Bayesian change-point, flux-crossover) to the manitoba_workshop dataset, fit on first 80%, evaluate OOS on last 20%, compute BIC and pre...",
+          "output": "{\n  \"B0_newton\": {\n    \"model\": \"B0_newton\",\n    \"k\": 0.0010311716989975614,\n    \"T0\": 95.0,\n    \"rss\": 124.2197993581493,\n    \"bic\": 33.3423417879095,\n    \"params_count\": 2,\n    \"oos_rmse\": 6.5086014...",
+          "metadata_dataset": "manitoba_workshop",
+          "metadata_n_points": "18",
+          "metadata_split_fit": "13",
+          "metadata_split_hold": "5",
+          "predict_b0_newton_rmse": "6.5086",
+          "predict_b1_piecewise_rmse": "3.2939",
+          "predict_c1_coupled_rmse": "5.6452",
+          "predict_c2_changepoint_rmse": "2.3988",
+          "predict_c3_flux_crossover_rmse": "3.2726",
+          "predict_b0_t_drinkable_min": "15.1409",
+          "predict_b1_t_drinkable_min": "16.0286",
+          "predict_c2_t_drinkable_min": "16.8539",
+          "predict_c3_t_drinkable_min": "15.5309"
+        },
+        {
+          "input": "Fit five coffee-cooling models (Newton, piecewise, coupled ODE, Bayesian change-point, flux-crossover) to the manitoba_workshop dataset, fit on first 80%, evaluate OOS on last 20%, compute BIC and pre...",
+          "output": "{\n  \"B0_newton\": {\n    \"model\": \"B0_newton\",\n    \"k\": 0.0009622618629574475,\n    \"T0\": 95.0,\n    \"rss\": 227.42793484874196,\n    \"bic\": 43.02886524177096,\n    \"params_count\": 2,\n    \"oos_rmse\": 5.62003...",
+          "metadata_dataset": "manitoba_workshop",
+          "metadata_n_points": "18",
+          "metadata_split_fit": "14",
+          "metadata_split_hold": "4",
+          "predict_b0_newton_rmse": "5.6200",
+          "predict_b1_piecewise_rmse": "2.9332",
+          "predict_c1_coupled_rmse": "5.0647",
+          "predict_c2_changepoint_rmse": "2.0497",
+          "predict_c3_flux_crossover_rmse": "2.5442",
+          "predict_b0_t_drinkable_min": "16.2251",
+          "predict_b1_t_drinkable_min": "16.4747",
+          "predict_c2_t_drinkable_min": "17.3542",
+          "predict_c3_t_drinkable_min": "16.1068"
+        }
+      ]
+    },
+    {
+      "dataset": "ferreira_2024_cup",
+      "examples": [
+        {
+          "input": "Fit five coffee-cooling models (Newton, piecewise, coupled ODE, Bayesian change-point, flux-crossover) to the ferreira_2024_cup dataset, fit on first 80%, evaluate OOS on last 20%, compute BIC and pre...",
+          "output": "{\n  \"B0_newton\": {\n    \"model\": \"B0_newton\",\n    \"k\": 0.0008680868769536188,\n    \"T0\": 90.0,\n    \"rss\": 34.95515118962965,\n    \"bic\": 16.21157141094821,\n    \"params_count\": 2,\n    \"oos_rmse\": 4.778364...",
+          "metadata_dataset": "ferreira_2024_cup",
+          "metadata_n_points": "13",
+          "metadata_split_fit": "9",
+          "metadata_split_hold": "4",
+          "predict_b0_newton_rmse": "4.7784",
+          "predict_b1_piecewise_rmse": "3.5357",
+          "predict_c1_coupled_rmse": "4.6367",
+          "predict_c2_changepoint_rmse": "1.7896",
+          "predict_c3_flux_crossover_rmse": "3.6945",
+          "predict_b0_t_drinkable_min": "17.0356",
+          "predict_b1_t_drinkable_min": "16.8351",
+          "predict_c2_t_drinkable_min": "17.5290",
+          "predict_c3_t_drinkable_min": "16.6327"
+        },
+        {
+          "input": "Fit five coffee-cooling models (Newton, piecewise, coupled ODE, Bayesian change-point, flux-crossover) to the ferreira_2024_cup dataset, fit on first 80%, evaluate OOS on last 20%, compute BIC and pre...",
+          "output": "{\n  \"B0_newton\": {\n    \"model\": \"B0_newton\",\n    \"k\": 0.0008680868769536188,\n    \"T0\": 90.0,\n    \"rss\": 34.95515118962965,\n    \"bic\": 16.21157141094821,\n    \"params_count\": 2,\n    \"oos_rmse\": 4.778364...",
+          "metadata_dataset": "ferreira_2024_cup",
+          "metadata_n_points": "13",
+          "metadata_split_fit": "9",
+          "metadata_split_hold": "4",
+          "predict_b0_newton_rmse": "4.7784",
+          "predict_b1_piecewise_rmse": "3.5357",
+          "predict_c1_coupled_rmse": "4.6367",
+          "predict_c2_changepoint_rmse": "1.7896",
+          "predict_c3_flux_crossover_rmse": "3.6945",
+          "predict_b0_t_drinkable_min": "17.0356",
+          "predict_b1_t_drinkable_min": "16.8351",
+          "predict_c2_t_drinkable_min": "17.5290",
+          "predict_c3_t_drinkable_min": "16.6327"
+        },
+        {
+          "input": "Fit five coffee-cooling models (Newton, piecewise, coupled ODE, Bayesian change-point, flux-crossover) to the ferreira_2024_cup dataset, fit on first 80%, evaluate OOS on last 20%, compute BIC and pre...",
+          "output": "{\n  \"B0_newton\": {\n    \"model\": \"B0_newton\",\n    \"k\": 0.0008107366039161747,\n    \"T0\": 90.0,\n    \"rss\": 82.43275845405334,\n    \"bic\": 25.093978189717507,\n    \"params_count\": 2,\n    \"oos_rmse\": 3.83836...",
+          "metadata_dataset": "ferreira_2024_cup",
+          "metadata_n_points": "13",
+          "metadata_split_fit": "10",
+          "metadata_split_hold": "3",
+          "predict_b0_newton_rmse": "3.8384",
+          "predict_b1_piecewise_rmse": "2.1617",
+          "predict_c1_coupled_rmse": "4.1414",
+          "predict_c2_changepoint_rmse": "0.8743",
+          "predict_c3_flux_crossover_rmse": "3.0860",
+          "predict_b0_t_drinkable_min": "18.2407",
+          "predict_b1_t_drinkable_min": "17.3069",
+          "predict_c2_t_drinkable_min": "18.4153",
+          "predict_c3_t_drinkable_min": "17.1436"
+        }
+      ]
+    }
+  ]
+}

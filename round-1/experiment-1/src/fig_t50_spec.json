@@ -1,0 +1,60 @@
+{
+  "type": "bar",
+  "title": "Predicted time to drinkable temperature (50\u00b0C)",
+  "xlabel": "Dataset",
+  "ylabel": "Time to 50\u00b0C (min)",
+  "aspect": "16:9",
+  "categories": [
+    "kurzweg_1988",
+    "manitoba_workshop",
+    "ferreira_2024_cup",
+    "lomen_lovelock"
+  ],
+  "series": [
+    {
+      "label": "B0_newton",
+      "values": [
+        15.92,
+        16.23,
+        18.24,
+        18.7
+      ]
+    },
+    {
+      "label": "B1_piecewise",
+      "values": [
+        14.88,
+        16.47,
+        17.31,
+        18.72
+      ]
+    },
+    {
+      "label": "C1_coupled_ode",
+      "values": [
+        14.93,
+        15.43,
+        17.04,
+        18.21
+      ]
+    },
+    {
+      "label": "C2_bayesian_changepoint",
+      "values": [
+        14.91,
+        17.35,
+        18.42,
+        19.29
+      ]
+    },
+    {
+      "label": "C3_flux_crossover",
+      "values": [
+        14.87,
+        16.11,
+        17.14,
+        18.57
+      ]
+    }
+  ]
+}

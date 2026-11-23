@@ -1,0 +1,60 @@
+{
+  "type": "bar",
+  "title": "BIC by model and dataset",
+  "xlabel": "Dataset",
+  "ylabel": "BIC",
+  "aspect": "16:9",
+  "categories": [
+    "kurzweg_1988",
+    "manitoba_workshop",
+    "ferreira_2024_cup",
+    "lomen_lovelock"
+  ],
+  "series": [
+    {
+      "label": "B0_newton",
+      "values": [
+        20.36,
+        43.03,
+        25.09,
+        20.95
+      ]
+    },
+    {
+      "label": "B1_piecewise",
+      "values": [
+        -21.54,
+        -14.37,
+        -10.6,
+        -15.98
+      ]
+    },
+    {
+      "label": "C1_coupled_ode",
+      "values": [
+        -13.16,
+        4.41,
+        2.07,
+        -6.3
+      ]
+    },
+    {
+      "label": "C2_bayesian_changepoint",
+      "values": [
+        -3.26,
+        4.77,
+        2.92,
+        -2.67
+      ]
+    },
+    {
+      "label": "C3_flux_crossover",
+      "values": [
+        -24.55,
+        -9.65,
+        -4.96,
+        -16.15
+      ]
+    }
+  ]
+}
