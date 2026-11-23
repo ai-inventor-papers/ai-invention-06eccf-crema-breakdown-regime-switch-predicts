@@ -1,0 +1,460 @@
+{
+  "metadata": {
+    "evaluation_name": "Pre-registered model-screen evaluation with reserved-fold confirmation",
+    "description": "Evaluation of five cooling model candidates (B0-B1-C1-C2-C3) on a panel of 3 independent published datasets. Applies pre-registered survival rule: lowest heldout OOS RMSE on >=80% of datasets AND mean...",
+    "candidates": [
+      "B0",
+      "B1",
+      "C1"
+    ],
+    "survivors": [],
+    "closest_candidate": "C1",
+    "n_datasets": 3,
+    "per_candidate_summary": {
+      "B0": {
+        "mean_heldout_rmse": 1.3315283509357057,
+        "std_heldout_rmse": 0.7414229282254707,
+        "mean_delta_bic_vs_b0": 0.0,
+        "mean_cross_time_error": 1.551303763715575,
+        "std_cross_time_error": 0.40865804321802734,
+        "n_cross_valid": 2
+      },
+      "B1": {
+        "mean_heldout_rmse": 4.194449801569136,
+        "std_heldout_rmse": 1.2280355794128932,
+        "mean_delta_bic_vs_b0": 60.91083356656415,
+        "mean_cross_time_error": 7.8560692680061095,
+        "std_cross_time_error": 1.1874870911490305,
+        "n_cross_valid": 2
+      },
+      "C1": {
+        "mean_heldout_rmse": 2.0224755696579555,
+        "std_heldout_rmse": 0.773683952414256,
+        "mean_delta_bic_vs_b0": 38.84610939119015,
+        "mean_cross_time_error": 25.412637947205198,
+        "std_cross_time_error": 1.358342287347421,
+        "n_cross_valid": 2
+      },
+      "C2": {
+        "mean_heldout_rmse": 6.098173857730941,
+        "std_heldout_rmse": 3.056586192022728,
+        "mean_delta_bic_vs_b0": 59.294966875152504,
+        "mean_cross_time_error": 12.856069268006278,
+        "std_cross_time_error": 1.1874870911488973,
+        "n_cross_valid": 2
+      },
+      "C3": {
+        "mean_heldout_rmse": 0.33090276939339447,
+        "std_heldout_rmse": 0.06721018200296841,
+        "mean_delta_bic_vs_b0": -29.825622087938427,
+        "mean_cross_time_error": 0.188380904011078,
+        "std_cross_time_error": 0.022962472417175306,
+        "n_cross_valid": 2
+      }
+    },
+    "survival_rule": {
+      "threshold_win_rate": 0.8,
+      "threshold_delta_bic": 10.0,
+      "wins_per_candidate": {
+        "B0": 1,
+        "B1": 0,
+        "C1": 0,
+        "C2": 0,
+        "C3": 2
+      },
+      "win_rates": {
+        "B0": 0.3333333333333333,
+        "B1": 0.0,
+        "C1": 0.0,
+        "C2": 0.0,
+        "C3": 0.6666666666666666
+      },
+      "mean_delta_bic": {
+        "B0": 0.0,
+        "B1": 60.91083356656415,
+        "C1": 38.84610939119015,
+        "C2": 59.294966875152504,
+        "C3": -29.825622087938427
+      },
+      "survives": {
+        "B0": false,
+        "B1": false,
+        "C1": false,
+        "C2": false,
+        "C3": false
+      }
+    },
+    "bootstrap_cis": {
+      "rmse_B0_vs_C1": {
+        "mean_diff": -0.69094721872225,
+        "ci_lower": -1.2956934137032692,
+        "ci_upper": 0.19597177378876118,
+        "n_datasets": 3
+      },
+      "rmse_B1_vs_C1": {
+        "mean_diff": 2.171974231911181,
+        "ci_lower": 1.1992616323410141,
+        "ci_upper": 3.373168050670179,
+        "n_datasets": 3
+      },
+      "rmse_C2_vs_C1": {
+        "mean_diff": 4.075698288072985,
+        "ci_lower": 0.5344017775841068,
+        "ci_upper": 6.184974926634246,
+        "n_datasets": 3
+      },
+      "rmse_C3_vs_C1": {
+        "mean_diff": -1.691572800264561,
+        "ci_lower": -2.6649645557986448,
+        "ci_upper": -0.9386665243676791,
+        "n_datasets": 3
+      }
+    },
+    "c3_tau_ablation": {
+      "ferreira_cup_2024": {
+        "tau_mle": 8.0,
+        "heldout_rmse_at_mle": 0.41799877195566537,
+        "best_sweep_tau": 7.0,
+        "best_sweep_heldout_rmse": 0.4031969043271061,
+        "ablation_effect": 0.014801867628559284
+      },
+      "kurzweg_ufl_2017": {
+        "tau_mle": 3.0,
+        "heldout_rmse_at_mle": 0.3203172862284904,
+        "best_sweep_tau": 3.0,
+        "best_sweep_heldout_rmse": 0.3203172862284904,
+        "ablation_effect": 0.0
+      },
+      "manitoba": {
+        "tau_mle": 5.0,
+        "heldout_rmse_at_mle": 0.2543922499960276,
+        "best_sweep_tau": 6.0,
+        "best_sweep_heldout_rmse": 0.2355481689377448,
+        "ablation_effect": 0.018844081058282808
+      }
+    },
+    "c3_ablation_mean_effect": 0.011215316228947364,
+    "power_note": {
+      "n_datasets": 3,
+      "min_wins_for_80pct": 3,
+      "effective_rule": "unanimity",
+      "avg_bootstrap_ci_width_rmse": 2.7606106965755752,
+      "approx_mde_95pct_power": 1.971864783268268
+    },
+    "per_dataset": [
+      {
+        "source_id": "ferreira_cup_2024",
+        "heldout_rmse": {
+          "B0": 1.787269914051041,
+          "B1": 5.026456340476661,
+          "C1": 3.0829633277543103,
+          "C2": 8.590681487754912,
+          "C3": 0.41799877195566537
+        },
+        "delta_bic_vs_b0": {
+          "B0": 0.0,
+          "B1": 58.78485372609367,
+          "C1": 20.964152242332275,
+          "C2": 59.72624565531779,
+          "C3": -30.729913311989293
+        },
+        "t_pred_cross": {
+          "B0": 28.73094204148622,
+          "B1": 35.81453659370776,
+          "C1": 0.0,
+          "C2": 40.81453659370779,
+          "C3": 26.559636858124364
+        },
+        "t_obs_cross": 26.770980234552617
+      },
+      {
+        "source_id": "kurzweg_ufl_2017",
+        "heldout_rmse": {
+          "B0": 0.2858637943439279,
+          "B1": 2.4582454429371836,
+          "C1": 1.2589838105961695,
+          "C2": 1.7933855881802763,
+          "C3": 0.3203172862284904
+        },
+        "delta_bic_vs_b0": {
+          "B0": 0.0,
+          "B1": 85.8287459125672,
+          "C1": 37.220866475573445,
+          "C2": 32.186636630755544,
+          "C3": 0.4316673962838209
+        },
+        "t_pred_cross": {
+          "B0": 32.676957074783516,
+          "B1": 36.21294507616659,
+          "C1": 0.0,
+          "C2": 41.21294507616662,
+          "C3": 32.13739098909555
+        },
+        "t_obs_cross": null
+      },
+      {
+        "source_id": "manitoba",
+        "heldout_rmse": {
+          "B0": 1.9214513444121477,
+          "B1": 5.098647621293566,
+          "C1": 1.7254795706233865,
+          "C2": 7.910454497257633,
+          "C3": 0.2543922499960276
+        },
+        "delta_bic_vs_b0": {
+          "B0": 0.0,
+          "B1": 38.118901061031586,
+          "C1": 58.353309455664736,
+          "C2": 85.97201833938416,
+          "C3": -59.17862034810982
+        },
+        "t_pred_cross": {
+          "B0": 22.911649939360228,
+          "B1": 30.722877836714854,
+          "C1": 0.0,
+          "C2": 35.722877836715156,
+          "C3": 24.219714091451678
+        },
+        "t_obs_cross": 24.054295659857775
+      }
+    ]
+  },
+  "metrics_agg": {
+    "n_datasets": 3,
+    "n_survivors": 0,
+    "closest_candidate_rank": 1,
+    "mean_heldout_rmse_b0": 1.3315283509357057,
+    "mean_heldout_rmse_b1": 4.194449801569136,
+    "mean_heldout_rmse_c1": 2.0224755696579555,
+    "mean_heldout_rmse_c2": 6.098173857730941,
+    "mean_heldout_rmse_c3": 0.33090276939339447,
+    "mean_delta_bic_b0": 0.0,
+    "mean_delta_bic_b1": 60.91083356656415,
+    "mean_delta_bic_c1": 38.84610939119015,
+    "mean_delta_bic_c2": 59.294966875152504,
+    "mean_delta_bic_c3": -29.825622087938427,
+    "mean_cross_error_b0": 1.551303763715575,
+    "mean_cross_error_b1": 7.8560692680061095,
+    "mean_cross_error_c1": 25.412637947205198,
+    "mean_cross_error_c2": 12.856069268006278,
+    "mean_cross_error_c3": 0.188380904011078,
+    "best_candidate_mean_rmse": 0.33090276939339447,
+    "c3_mean_ablation": 0.011215316228947364,
+    "bootstrap_ci_width_rmse": 2.7606106965755752
+  },
+  "datasets": [
+    {
+      "dataset": "ferreira_cup_2024",
+      "examples": [
+        {
+          "input": "{\"time_min\": 0.0, \"temperature_C\": 91.70336956990234}",
+          "output": "{\"temperature_C\": 91.70336956990234}",
+          "metadata_fold": "screen",
+          "metadata_source_id": "ferreira_cup_2024",
+          "metadata_ambient_temperature_C": 22.0,
+          "predict_b0": "92.0",
+          "eval_b0_abs_error": 0.2966,
+          "eval_b0_squared_error": 0.08799,
+          "predict_b1": "92.0",
+          "eval_b1_abs_error": 0.2966,
+          "eval_b1_squared_error": 0.08799,
+          "predict_c1": "92.0",
+          "eval_c1_abs_error": 0.2966,
+          "eval_c1_squared_error": 0.08799,
+          "predict_c2": "92.0",
+          "eval_c2_abs_error": 0.2966,
+          "eval_c2_squared_error": 0.08799,
+          "predict_c3": "92.0",
+          "eval_c3_abs_error": 0.2966,
+          "eval_c3_squared_error": 0.08799
+        },
+        {
+          "input": "{\"time_min\": 1.0, \"temperature_C\": 90.24247454541704}",
+          "output": "{\"temperature_C\": 90.24247454541704}",
+          "metadata_fold": "screen",
+          "metadata_source_id": "ferreira_cup_2024",
+          "metadata_ambient_temperature_C": 22.0,
+          "predict_b0": "89.8028",
+          "eval_b0_abs_error": 0.4397,
+          "eval_b0_squared_error": 0.193336,
+          "predict_b1": "89.2553",
+          "eval_b1_abs_error": 0.9872,
+          "eval_b1_squared_error": 0.974591,
+          "predict_c1": "89.9277",
+          "eval_c1_abs_error": 0.3147,
+          "eval_c1_squared_error": 0.099054,
+          "predict_c2": "89.9312",
+          "eval_c2_abs_error": 0.3113,
+          "eval_c2_squared_error": 0.0969,
+          "predict_c3": "90.1865",
+          "eval_c3_abs_error": 0.056,
+          "eval_c3_squared_error": 0.003138
+        },
+        {
+          "input": "{\"time_min\": 2.0, \"temperature_C\": 87.94909003299611}",
+          "output": "{\"temperature_C\": 87.94909003299611}",
+          "metadata_fold": "screen",
+          "metadata_source_id": "ferreira_cup_2024",
+          "metadata_ambient_temperature_C": 22.0,
+          "predict_b0": "87.6745",
+          "eval_b0_abs_error": 0.2746,
+          "eval_b0_squared_error": 0.07539,
+          "predict_b1": "86.6181",
+          "eval_b1_abs_error": 1.3309,
+          "eval_b1_squared_error": 1.771417,
+          "predict_c1": "87.9164",
+          "eval_c1_abs_error": 0.0327,
+          "eval_c1_squared_error": 0.001068,
+          "predict_c2": "87.9235",
+          "eval_c2_abs_error": 0.0256,
+          "eval_c2_squared_error": 0.000654,
+          "predict_c3": "88.3268",
+          "eval_c3_abs_error": 0.3777,
+          "eval_c3_squared_error": 0.142672
+        }
+      ]
+    },
+    {
+      "dataset": "kurzweg_ufl_2017",
+      "examples": [
+        {
+          "input": "{\"time_min\": 0.0, \"temperature_C\": 87.75271966241304}",
+          "output": "{\"temperature_C\": 87.75271966241304}",
+          "metadata_fold": "screen",
+          "metadata_source_id": "kurzweg_ufl_2017",
+          "metadata_ambient_temperature_C": 25.0,
+          "predict_b0": "88.0",
+          "eval_b0_abs_error": 0.2473,
+          "eval_b0_squared_error": 0.061148,
+          "predict_b1": "88.0",
+          "eval_b1_abs_error": 0.2473,
+          "eval_b1_squared_error": 0.061148,
+          "predict_c1": "88.0",
+          "eval_c1_abs_error": 0.2473,
+          "eval_c1_squared_error": 0.061148,
+          "predict_c2": "88.0",
+          "eval_c2_abs_error": 0.2473,
+          "eval_c2_squared_error": 0.061148,
+          "predict_c3": "88.0",
+          "eval_c3_abs_error": 0.2473,
+          "eval_c3_squared_error": 0.061148
+        },
+        {
+          "input": "{\"time_min\": 1.0, \"temperature_C\": 86.1547146290122}",
+          "output": "{\"temperature_C\": 86.1547146290122}",
+          "metadata_fold": "screen",
+          "metadata_source_id": "kurzweg_ufl_2017",
+          "metadata_ambient_temperature_C": 25.0,
+          "predict_b0": "86.243",
+          "eval_b0_abs_error": 0.0883,
+          "eval_b0_squared_error": 0.007799,
+          "predict_b1": "85.5297",
+          "eval_b1_abs_error": 0.625,
+          "eval_b1_squared_error": 0.3906,
+          "predict_c1": "86.1334",
+          "eval_c1_abs_error": 0.0213,
+          "eval_c1_squared_error": 0.000456,
+          "predict_c2": "86.1381",
+          "eval_c2_abs_error": 0.0166,
+          "eval_c2_squared_error": 0.000277,
+          "predict_c3": "86.3126",
+          "eval_c3_abs_error": 0.1579,
+          "eval_c3_squared_error": 0.024931
+        },
+        {
+          "input": "{\"time_min\": 2.0, \"temperature_C\": 84.86371644436247}",
+          "output": "{\"temperature_C\": 84.86371644436247}",
+          "metadata_fold": "screen",
+          "metadata_source_id": "kurzweg_ufl_2017",
+          "metadata_ambient_temperature_C": 25.0,
+          "predict_b0": "84.5351",
+          "eval_b0_abs_error": 0.3287,
+          "eval_b0_squared_error": 0.10802,
+          "predict_b1": "83.1563",
+          "eval_b1_abs_error": 1.7074,
+          "eval_b1_squared_error": 2.915169,
+          "predict_c1": "84.3215",
+          "eval_c1_abs_error": 0.5422,
+          "eval_c1_squared_error": 0.294015,
+          "predict_c2": "84.3312",
+          "eval_c2_abs_error": 0.5326,
+          "eval_c2_squared_error": 0.28361,
+          "predict_c3": "84.6398",
+          "eval_c3_abs_error": 0.2239,
+          "eval_c3_squared_error": 0.050129
+        }
+      ]
+    },
+    {
+      "dataset": "manitoba",
+      "examples": [
+        {
+          "input": "{\"time_min\": 0.0, \"temperature_C\": 85.69141512392632}",
+          "output": "{\"temperature_C\": 85.69141512392632}",
+          "metadata_fold": "screen",
+          "metadata_source_id": "manitoba",
+          "metadata_ambient_temperature_C": 21.7,
+          "predict_b0": "85.6",
+          "eval_b0_abs_error": 0.0914,
+          "eval_b0_squared_error": 0.008357,
+          "predict_b1": "85.6",
+          "eval_b1_abs_error": 0.0914,
+          "eval_b1_squared_error": 0.008357,
+          "predict_c1": "85.6",
+          "eval_c1_abs_error": 0.0914,
+          "eval_c1_squared_error": 0.008357,
+          "predict_c2": "85.6",
+          "eval_c2_abs_error": 0.0914,
+          "eval_c2_squared_error": 0.008357,
+          "predict_c3": "85.6",
+          "eval_c3_abs_error": 0.0914,
+          "eval_c3_squared_error": 0.008357
+        },
+        {
+          "input": "{\"time_min\": 1.0, \"temperature_C\": 82.54857573381278}",
+          "output": "{\"temperature_C\": 82.54857573381278}",
+          "metadata_fold": "screen",
+          "metadata_source_id": "manitoba",
+          "metadata_ambient_temperature_C": 21.7,
+          "predict_b0": "83.3684",
+          "eval_b0_abs_error": 0.8198,
+          "eval_b0_squared_error": 0.672109,
+          "predict_b1": "83.0944",
+          "eval_b1_abs_error": 0.5459,
+          "eval_b1_squared_error": 0.297973,
+          "predict_c1": "83.707",
+          "eval_c1_abs_error": 1.1584,
+          "eval_c1_squared_error": 1.341847,
+          "predict_c2": "83.7115",
+          "eval_c2_abs_error": 1.1629,
+          "eval_c2_squared_error": 1.352322,
+          "predict_c3": "82.792",
+          "eval_c3_abs_error": 0.2435,
+          "eval_c3_squared_error": 0.059272
+        },
+        {
+          "input": "{\"time_min\": 2.0, \"temperature_C\": 80.58801656149411}",
+          "output": "{\"temperature_C\": 80.58801656149411}",
+          "metadata_fold": "screen",
+          "metadata_source_id": "manitoba",
+          "metadata_ambient_temperature_C": 21.7,
+          "predict_b0": "81.2147",
+          "eval_b0_abs_error": 0.6267,
+          "eval_b0_squared_error": 0.392771,
+          "predict_b1": "80.6871",
+          "eval_b1_abs_error": 0.0991,
+          "eval_b1_squared_error": 0.009824,
+          "predict_c1": "81.8695",
+          "eval_c1_abs_error": 1.2814,
+          "eval_c1_squared_error": 1.642087,
+          "predict_c2": "81.8788",
+          "eval_c2_abs_error": 1.2907,
+          "eval_c2_squared_error": 1.666002,
+          "predict_c3": "80.2624",
+          "eval_c3_abs_error": 0.3256,
+          "eval_c3_squared_error": 0.106046
+        }
+      ]
+    }
+  ]
+}

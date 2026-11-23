@@ -1,0 +1,1871 @@
+[
+  {
+    "input": {
+      "time_min": 0.0,
+      "temperature_C": 85.69141512392632
+    },
+    "output": {
+      "temperature_C": 85.69141512392632
+    },
+    "metadata_fold": "screen",
+    "metadata": {
+      "source_id": "manitoba",
+      "time_min": 0.0,
+      "temperature_C": 85.69141512392632,
+      "ambient_temperature_C": 21.7,
+      "initial_temperature_C": 85.6,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 250,
+      "notes": "Manitoba calculus workshop: coffee, 186F start, 71F ambient, 48-min table"
+    }
+  },
+  {
+    "input": {
+      "time_min": 1.0,
+      "temperature_C": 82.54857573381278
+    },
+    "output": {
+      "temperature_C": 82.54857573381278
+    },
+    "metadata_fold": "screen",
+    "metadata": {
+      "source_id": "manitoba",
+      "time_min": 1.0,
+      "temperature_C": 82.54857573381278,
+      "ambient_temperature_C": 21.7,
+      "initial_temperature_C": 85.6,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 250,
+      "notes": "Manitoba calculus workshop: coffee, 186F start, 71F ambient, 48-min table"
+    }
+  },
+  {
+    "input": {
+      "time_min": 2.0,
+      "temperature_C": 80.58801656149411
+    },
+    "output": {
+      "temperature_C": 80.58801656149411
+    },
+    "metadata_fold": "screen",
+    "metadata": {
+      "source_id": "manitoba",
+      "time_min": 2.0,
+      "temperature_C": 80.58801656149411,
+      "ambient_temperature_C": 21.7,
+      "initial_temperature_C": 85.6,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 250,
+      "notes": "Manitoba calculus workshop: coffee, 186F start, 71F ambient, 48-min table"
+    }
+  },
+  {
+    "input": {
+      "time_min": 3.0,
+      "temperature_C": 78.35047939234975
+    },
+    "output": {
+      "temperature_C": 78.35047939234975
+    },
+    "metadata_fold": "screen",
+    "metadata": {
+      "source_id": "manitoba",
+      "time_min": 3.0,
+      "temperature_C": 78.35047939234975,
+      "ambient_temperature_C": 21.7,
+      "initial_temperature_C": 85.6,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 250,
+      "notes": "Manitoba calculus workshop: coffee, 186F start, 71F ambient, 48-min table"
+    }
+  },
+  {
+    "input": {
+      "time_min": 4.0,
+      "temperature_C": 75.36056170036153
+    },
+    "output": {
+      "temperature_C": 75.36056170036153
+    },
+    "metadata_fold": "screen",
+    "metadata": {
+      "source_id": "manitoba",
+      "time_min": 4.0,
+      "temperature_C": 75.36056170036153,
+      "ambient_temperature_C": 21.7,
+      "initial_temperature_C": 85.6,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 250,
+      "notes": "Manitoba calculus workshop: coffee, 186F start, 71F ambient, 48-min table"
+    }
+  },
+  {
+    "input": {
+      "time_min": 5.0,
+      "temperature_C": 73.5799006009499
+    },
+    "output": {
+      "temperature_C": 73.5799006009499
+    },
+    "metadata_fold": "screen",
+    "metadata": {
+      "source_id": "manitoba",
+      "time_min": 5.0,
+      "temperature_C": 73.5799006009499,
+      "ambient_temperature_C": 21.7,
+      "initial_temperature_C": 85.6,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 250,
+      "notes": "Manitoba calculus workshop: coffee, 186F start, 71F ambient, 48-min table"
+    }
+  },
+  {
+    "input": {
+      "time_min": 6.0,
+      "temperature_C": 72.16039867645955
+    },
+    "output": {
+      "temperature_C": 72.16039867645955
+    },
+    "metadata_fold": "screen",
+    "metadata": {
+      "source_id": "manitoba",
+      "time_min": 6.0,
+      "temperature_C": 72.16039867645955,
+      "ambient_temperature_C": 21.7,
+      "initial_temperature_C": 85.6,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 250,
+      "notes": "Manitoba calculus workshop: coffee, 186F start, 71F ambient, 48-min table"
+    }
+  },
+  {
+    "input": {
+      "time_min": 7.0,
+      "temperature_C": 70.28889439276738
+    },
+    "output": {
+      "temperature_C": 70.28889439276738
+    },
+    "metadata_fold": "screen",
+    "metadata": {
+      "source_id": "manitoba",
+      "time_min": 7.0,
+      "temperature_C": 70.28889439276738,
+      "ambient_temperature_C": 21.7,
+      "initial_temperature_C": 85.6,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 250,
+      "notes": "Manitoba calculus workshop: coffee, 186F start, 71F ambient, 48-min table"
+    }
+  },
+  {
+    "input": {
+      "time_min": 8.0,
+      "temperature_C": 68.73706710247046
+    },
+    "output": {
+      "temperature_C": 68.73706710247046
+    },
+    "metadata_fold": "screen",
+    "metadata": {
+      "source_id": "manitoba",
+      "time_min": 8.0,
+      "temperature_C": 68.73706710247046,
+      "ambient_temperature_C": 21.7,
+      "initial_temperature_C": 85.6,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 250,
+      "notes": "Manitoba calculus workshop: coffee, 186F start, 71F ambient, 48-min table"
+    }
+  },
+  {
+    "input": {
+      "time_min": 9.0,
+      "temperature_C": 66.92992714316075
+    },
+    "output": {
+      "temperature_C": 66.92992714316075
+    },
+    "metadata_fold": "screen",
+    "metadata": {
+      "source_id": "manitoba",
+      "time_min": 9.0,
+      "temperature_C": 66.92992714316075,
+      "ambient_temperature_C": 21.7,
+      "initial_temperature_C": 85.6,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 250,
+      "notes": "Manitoba calculus workshop: coffee, 186F start, 71F ambient, 48-min table"
+    }
+  },
+  {
+    "input": {
+      "time_min": 10.0,
+      "temperature_C": 65.96947515163005
+    },
+    "output": {
+      "temperature_C": 65.96947515163005
+    },
+    "metadata_fold": "screen",
+    "metadata": {
+      "source_id": "manitoba",
+      "time_min": 10.0,
+      "temperature_C": 65.96947515163005,
+      "ambient_temperature_C": 21.7,
+      "initial_temperature_C": 85.6,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 250,
+      "notes": "Manitoba calculus workshop: coffee, 186F start, 71F ambient, 48-min table"
+    }
+  },
+  {
+    "input": {
+      "time_min": 11.0,
+      "temperature_C": 64.52713058474242
+    },
+    "output": {
+      "temperature_C": 64.52713058474242
+    },
+    "metadata_fold": "screen",
+    "metadata": {
+      "source_id": "manitoba",
+      "time_min": 11.0,
+      "temperature_C": 64.52713058474242,
+      "ambient_temperature_C": 21.7,
+      "initial_temperature_C": 85.6,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 250,
+      "notes": "Manitoba calculus workshop: coffee, 186F start, 71F ambient, 48-min table"
+    }
+  },
+  {
+    "input": {
+      "time_min": 12.0,
+      "temperature_C": 62.96355717699044
+    },
+    "output": {
+      "temperature_C": 62.96355717699044
+    },
+    "metadata_fold": "screen",
+    "metadata": {
+      "source_id": "manitoba",
+      "time_min": 12.0,
+      "temperature_C": 62.96355717699044,
+      "ambient_temperature_C": 21.7,
+      "initial_temperature_C": 85.6,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 250,
+      "notes": "Manitoba calculus workshop: coffee, 186F start, 71F ambient, 48-min table"
+    }
+  },
+  {
+    "input": {
+      "time_min": 13.0,
+      "temperature_C": 61.988211718075156
+    },
+    "output": {
+      "temperature_C": 61.988211718075156
+    },
+    "metadata_fold": "screen",
+    "metadata": {
+      "source_id": "manitoba",
+      "time_min": 13.0,
+      "temperature_C": 61.988211718075156,
+      "ambient_temperature_C": 21.7,
+      "initial_temperature_C": 85.6,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 250,
+      "notes": "Manitoba calculus workshop: coffee, 186F start, 71F ambient, 48-min table"
+    }
+  },
+  {
+    "input": {
+      "time_min": 14.0,
+      "temperature_C": 60.548273762002275
+    },
+    "output": {
+      "temperature_C": 60.548273762002275
+    },
+    "metadata_fold": "screen",
+    "metadata": {
+      "source_id": "manitoba",
+      "time_min": 14.0,
+      "temperature_C": 60.548273762002275,
+      "ambient_temperature_C": 21.7,
+      "initial_temperature_C": 85.6,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 250,
+      "notes": "Manitoba calculus workshop: coffee, 186F start, 71F ambient, 48-min table"
+    }
+  },
+  {
+    "input": {
+      "time_min": 15.0,
+      "temperature_C": 58.95594270981403
+    },
+    "output": {
+      "temperature_C": 58.95594270981403
+    },
+    "metadata_fold": "screen",
+    "metadata": {
+      "source_id": "manitoba",
+      "time_min": 15.0,
+      "temperature_C": 58.95594270981403,
+      "ambient_temperature_C": 21.7,
+      "initial_temperature_C": 85.6,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 250,
+      "notes": "Manitoba calculus workshop: coffee, 186F start, 71F ambient, 48-min table"
+    }
+  },
+  {
+    "input": {
+      "time_min": 16.0,
+      "temperature_C": 58.174392423966616
+    },
+    "output": {
+      "temperature_C": 58.174392423966616
+    },
+    "metadata_fold": "screen",
+    "metadata": {
+      "source_id": "manitoba",
+      "time_min": 16.0,
+      "temperature_C": 58.174392423966616,
+      "ambient_temperature_C": 21.7,
+      "initial_temperature_C": 85.6,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 250,
+      "notes": "Manitoba calculus workshop: coffee, 186F start, 71F ambient, 48-min table"
+    }
+  },
+  {
+    "input": {
+      "time_min": 17.0,
+      "temperature_C": 56.667528440959806
+    },
+    "output": {
+      "temperature_C": 56.667528440959806
+    },
+    "metadata_fold": "screen",
+    "metadata": {
+      "source_id": "manitoba",
+      "time_min": 17.0,
+      "temperature_C": 56.667528440959806,
+      "ambient_temperature_C": 21.7,
+      "initial_temperature_C": 85.6,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 250,
+      "notes": "Manitoba calculus workshop: coffee, 186F start, 71F ambient, 48-min table"
+    }
+  },
+  {
+    "input": {
+      "time_min": 18.0,
+      "temperature_C": 56.14898791374141
+    },
+    "output": {
+      "temperature_C": 56.14898791374141
+    },
+    "metadata_fold": "screen",
+    "metadata": {
+      "source_id": "manitoba",
+      "time_min": 18.0,
+      "temperature_C": 56.14898791374141,
+      "ambient_temperature_C": 21.7,
+      "initial_temperature_C": 85.6,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 250,
+      "notes": "Manitoba calculus workshop: coffee, 186F start, 71F ambient, 48-min table"
+    }
+  },
+  {
+    "input": {
+      "time_min": 19.0,
+      "temperature_C": 54.837329237602454
+    },
+    "output": {
+      "temperature_C": 54.837329237602454
+    },
+    "metadata_fold": "screen",
+    "metadata": {
+      "source_id": "manitoba",
+      "time_min": 19.0,
+      "temperature_C": 54.837329237602454,
+      "ambient_temperature_C": 21.7,
+      "initial_temperature_C": 85.6,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 250,
+      "notes": "Manitoba calculus workshop: coffee, 186F start, 71F ambient, 48-min table"
+    }
+  },
+  {
+    "input": {
+      "time_min": 20.0,
+      "temperature_C": 53.79832139189629
+    },
+    "output": {
+      "temperature_C": 53.79832139189629
+    },
+    "metadata_fold": "screen",
+    "metadata": {
+      "source_id": "manitoba",
+      "time_min": 20.0,
+      "temperature_C": 53.79832139189629,
+      "ambient_temperature_C": 21.7,
+      "initial_temperature_C": 85.6,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 250,
+      "notes": "Manitoba calculus workshop: coffee, 186F start, 71F ambient, 48-min table"
+    }
+  },
+  {
+    "input": {
+      "time_min": 21.0,
+      "temperature_C": 52.68383717010663
+    },
+    "output": {
+      "temperature_C": 52.68383717010663
+    },
+    "metadata_fold": "screen",
+    "metadata": {
+      "source_id": "manitoba",
+      "time_min": 21.0,
+      "temperature_C": 52.68383717010663,
+      "ambient_temperature_C": 21.7,
+      "initial_temperature_C": 85.6,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 250,
+      "notes": "Manitoba calculus workshop: coffee, 186F start, 71F ambient, 48-min table"
+    }
+  },
+  {
+    "input": {
+      "time_min": 22.0,
+      "temperature_C": 52.32050500868609
+    },
+    "output": {
+      "temperature_C": 52.32050500868609
+    },
+    "metadata_fold": "screen",
+    "metadata": {
+      "source_id": "manitoba",
+      "time_min": 22.0,
+      "temperature_C": 52.32050500868609,
+      "ambient_temperature_C": 21.7,
+      "initial_temperature_C": 85.6,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 250,
+      "notes": "Manitoba calculus workshop: coffee, 186F start, 71F ambient, 48-min table"
+    }
+  },
+  {
+    "input": {
+      "time_min": 23.0,
+      "temperature_C": 51.0028833033798
+    },
+    "output": {
+      "temperature_C": 51.0028833033798
+    },
+    "metadata_fold": "screen",
+    "metadata": {
+      "source_id": "manitoba",
+      "time_min": 23.0,
+      "temperature_C": 51.0028833033798,
+      "ambient_temperature_C": 21.7,
+      "initial_temperature_C": 85.6,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 250,
+      "notes": "Manitoba calculus workshop: coffee, 186F start, 71F ambient, 48-min table"
+    }
+  },
+  {
+    "input": {
+      "time_min": 24.0,
+      "temperature_C": 50.04482906816853
+    },
+    "output": {
+      "temperature_C": 50.04482906816853
+    },
+    "metadata_fold": "heldout",
+    "metadata": {
+      "source_id": "manitoba",
+      "time_min": 24.0,
+      "temperature_C": 50.04482906816853,
+      "ambient_temperature_C": 21.7,
+      "initial_temperature_C": 85.6,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 250,
+      "notes": "Manitoba calculus workshop: coffee, 186F start, 71F ambient, 48-min table"
+    }
+  },
+  {
+    "input": {
+      "time_min": 25.0,
+      "temperature_C": 49.21918170913542
+    },
+    "output": {
+      "temperature_C": 49.21918170913542
+    },
+    "metadata_fold": "heldout",
+    "metadata": {
+      "source_id": "manitoba",
+      "time_min": 25.0,
+      "temperature_C": 49.21918170913542,
+      "ambient_temperature_C": 21.7,
+      "initial_temperature_C": 85.6,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 250,
+      "notes": "Manitoba calculus workshop: coffee, 186F start, 71F ambient, 48-min table"
+    }
+  },
+  {
+    "input": {
+      "time_min": 26.0,
+      "temperature_C": 48.66233561931001
+    },
+    "output": {
+      "temperature_C": 48.66233561931001
+    },
+    "metadata_fold": "heldout",
+    "metadata": {
+      "source_id": "manitoba",
+      "time_min": 26.0,
+      "temperature_C": 48.66233561931001,
+      "ambient_temperature_C": 21.7,
+      "initial_temperature_C": 85.6,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 250,
+      "notes": "Manitoba calculus workshop: coffee, 186F start, 71F ambient, 48-min table"
+    }
+  },
+  {
+    "input": {
+      "time_min": 27.0,
+      "temperature_C": 47.815422323019895
+    },
+    "output": {
+      "temperature_C": 47.815422323019895
+    },
+    "metadata_fold": "heldout",
+    "metadata": {
+      "source_id": "manitoba",
+      "time_min": 27.0,
+      "temperature_C": 47.815422323019895,
+      "ambient_temperature_C": 21.7,
+      "initial_temperature_C": 85.6,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 250,
+      "notes": "Manitoba calculus workshop: coffee, 186F start, 71F ambient, 48-min table"
+    }
+  },
+  {
+    "input": {
+      "time_min": 28.0,
+      "temperature_C": 47.057148328480494
+    },
+    "output": {
+      "temperature_C": 47.057148328480494
+    },
+    "metadata_fold": "heldout",
+    "metadata": {
+      "source_id": "manitoba",
+      "time_min": 28.0,
+      "temperature_C": 47.057148328480494,
+      "ambient_temperature_C": 21.7,
+      "initial_temperature_C": 85.6,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 250,
+      "notes": "Manitoba calculus workshop: coffee, 186F start, 71F ambient, 48-min table"
+    }
+  },
+  {
+    "input": {
+      "time_min": 29.0,
+      "temperature_C": 46.31363592624473
+    },
+    "output": {
+      "temperature_C": 46.31363592624473
+    },
+    "metadata_fold": "heldout",
+    "metadata": {
+      "source_id": "manitoba",
+      "time_min": 29.0,
+      "temperature_C": 46.31363592624473,
+      "ambient_temperature_C": 21.7,
+      "initial_temperature_C": 85.6,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 250,
+      "notes": "Manitoba calculus workshop: coffee, 186F start, 71F ambient, 48-min table"
+    }
+  },
+  {
+    "input": {
+      "time_min": 30.0,
+      "temperature_C": 46.10064777516185
+    },
+    "output": {
+      "temperature_C": 46.10064777516185
+    },
+    "metadata_fold": "heldout",
+    "metadata": {
+      "source_id": "manitoba",
+      "time_min": 30.0,
+      "temperature_C": 46.10064777516185,
+      "ambient_temperature_C": 21.7,
+      "initial_temperature_C": 85.6,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 250,
+      "notes": "Manitoba calculus workshop: coffee, 186F start, 71F ambient, 48-min table"
+    }
+  },
+  {
+    "input": {
+      "time_min": 33.0,
+      "temperature_C": 43.286212573110205
+    },
+    "output": {
+      "temperature_C": 43.286212573110205
+    },
+    "metadata_fold": "heldout",
+    "metadata": {
+      "source_id": "manitoba",
+      "time_min": 33.0,
+      "temperature_C": 43.286212573110205,
+      "ambient_temperature_C": 21.7,
+      "initial_temperature_C": 85.6,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 250,
+      "notes": "Manitoba calculus workshop: coffee, 186F start, 71F ambient, 48-min table"
+    }
+  },
+  {
+    "input": {
+      "time_min": 36.0,
+      "temperature_C": 41.383199596718825
+    },
+    "output": {
+      "temperature_C": 41.383199596718825
+    },
+    "metadata_fold": "heldout",
+    "metadata": {
+      "source_id": "manitoba",
+      "time_min": 36.0,
+      "temperature_C": 41.383199596718825,
+      "ambient_temperature_C": 21.7,
+      "initial_temperature_C": 85.6,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 250,
+      "notes": "Manitoba calculus workshop: coffee, 186F start, 71F ambient, 48-min table"
+    }
+  },
+  {
+    "input": {
+      "time_min": 39.0,
+      "temperature_C": 39.58381319259078
+    },
+    "output": {
+      "temperature_C": 39.58381319259078
+    },
+    "metadata_fold": "heldout",
+    "metadata": {
+      "source_id": "manitoba",
+      "time_min": 39.0,
+      "temperature_C": 39.58381319259078,
+      "ambient_temperature_C": 21.7,
+      "initial_temperature_C": 85.6,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 250,
+      "notes": "Manitoba calculus workshop: coffee, 186F start, 71F ambient, 48-min table"
+    }
+  },
+  {
+    "input": {
+      "time_min": 42.0,
+      "temperature_C": 38.45160605421145
+    },
+    "output": {
+      "temperature_C": 38.45160605421145
+    },
+    "metadata_fold": "heldout",
+    "metadata": {
+      "source_id": "manitoba",
+      "time_min": 42.0,
+      "temperature_C": 38.45160605421145,
+      "ambient_temperature_C": 21.7,
+      "initial_temperature_C": 85.6,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 250,
+      "notes": "Manitoba calculus workshop: coffee, 186F start, 71F ambient, 48-min table"
+    }
+  },
+  {
+    "input": {
+      "time_min": 45.0,
+      "temperature_C": 37.17912910338286
+    },
+    "output": {
+      "temperature_C": 37.17912910338286
+    },
+    "metadata_fold": "heldout",
+    "metadata": {
+      "source_id": "manitoba",
+      "time_min": 45.0,
+      "temperature_C": 37.17912910338286,
+      "ambient_temperature_C": 21.7,
+      "initial_temperature_C": 85.6,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 250,
+      "notes": "Manitoba calculus workshop: coffee, 186F start, 71F ambient, 48-min table"
+    }
+  },
+  {
+    "input": {
+      "time_min": 48.0,
+      "temperature_C": 35.50286266098031
+    },
+    "output": {
+      "temperature_C": 35.50286266098031
+    },
+    "metadata_fold": "heldout",
+    "metadata": {
+      "source_id": "manitoba",
+      "time_min": 48.0,
+      "temperature_C": 35.50286266098031,
+      "ambient_temperature_C": 21.7,
+      "initial_temperature_C": 85.6,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 250,
+      "notes": "Manitoba calculus workshop: coffee, 186F start, 71F ambient, 48-min table"
+    }
+  },
+  {
+    "input": {
+      "time_min": 0.0,
+      "temperature_C": 87.75271966241304
+    },
+    "output": {
+      "temperature_C": 87.75271966241304
+    },
+    "metadata_fold": "screen",
+    "metadata": {
+      "source_id": "kurzweg_ufl_2017",
+      "time_min": 0.0,
+      "temperature_C": 87.75271966241304,
+      "ambient_temperature_C": 25.0,
+      "initial_temperature_C": 88.0,
+      "crema_present": false,
+      "cup_material": "glass",
+      "volume_ml": 200,
+      "notes": "Kurzweg UFL 2017: black coffee, 25C ambient, 20-min dimensionless theta data"
+    }
+  },
+  {
+    "input": {
+      "time_min": 1.0,
+      "temperature_C": 86.1547146290122
+    },
+    "output": {
+      "temperature_C": 86.1547146290122
+    },
+    "metadata_fold": "screen",
+    "metadata": {
+      "source_id": "kurzweg_ufl_2017",
+      "time_min": 1.0,
+      "temperature_C": 86.1547146290122,
+      "ambient_temperature_C": 25.0,
+      "initial_temperature_C": 88.0,
+      "crema_present": false,
+      "cup_material": "glass",
+      "volume_ml": 200,
+      "notes": "Kurzweg UFL 2017: black coffee, 25C ambient, 20-min dimensionless theta data"
+    }
+  },
+  {
+    "input": {
+      "time_min": 2.0,
+      "temperature_C": 84.86371644436247
+    },
+    "output": {
+      "temperature_C": 84.86371644436247
+    },
+    "metadata_fold": "screen",
+    "metadata": {
+      "source_id": "kurzweg_ufl_2017",
+      "time_min": 2.0,
+      "temperature_C": 84.86371644436247,
+      "ambient_temperature_C": 25.0,
+      "initial_temperature_C": 88.0,
+      "crema_present": false,
+      "cup_material": "glass",
+      "volume_ml": 200,
+      "notes": "Kurzweg UFL 2017: black coffee, 25C ambient, 20-min dimensionless theta data"
+    }
+  },
+  {
+    "input": {
+      "time_min": 3.0,
+      "temperature_C": 82.93237836682356
+    },
+    "output": {
+      "temperature_C": 82.93237836682356
+    },
+    "metadata_fold": "screen",
+    "metadata": {
+      "source_id": "kurzweg_ufl_2017",
+      "time_min": 3.0,
+      "temperature_C": 82.93237836682356,
+      "ambient_temperature_C": 25.0,
+      "initial_temperature_C": 88.0,
+      "crema_present": false,
+      "cup_material": "glass",
+      "volume_ml": 200,
+      "notes": "Kurzweg UFL 2017: black coffee, 25C ambient, 20-min dimensionless theta data"
+    }
+  },
+  {
+    "input": {
+      "time_min": 4.0,
+      "temperature_C": 81.50186807618265
+    },
+    "output": {
+      "temperature_C": 81.50186807618265
+    },
+    "metadata_fold": "screen",
+    "metadata": {
+      "source_id": "kurzweg_ufl_2017",
+      "time_min": 4.0,
+      "temperature_C": 81.50186807618265,
+      "ambient_temperature_C": 25.0,
+      "initial_temperature_C": 88.0,
+      "crema_present": false,
+      "cup_material": "glass",
+      "volume_ml": 200,
+      "notes": "Kurzweg UFL 2017: black coffee, 25C ambient, 20-min dimensionless theta data"
+    }
+  },
+  {
+    "input": {
+      "time_min": 5.0,
+      "temperature_C": 79.84852389563848
+    },
+    "output": {
+      "temperature_C": 79.84852389563848
+    },
+    "metadata_fold": "screen",
+    "metadata": {
+      "source_id": "kurzweg_ufl_2017",
+      "time_min": 5.0,
+      "temperature_C": 79.84852389563848,
+      "ambient_temperature_C": 25.0,
+      "initial_temperature_C": 88.0,
+      "crema_present": false,
+      "cup_material": "glass",
+      "volume_ml": 200,
+      "notes": "Kurzweg UFL 2017: black coffee, 25C ambient, 20-min dimensionless theta data"
+    }
+  },
+  {
+    "input": {
+      "time_min": 6.0,
+      "temperature_C": 78.02085259088308
+    },
+    "output": {
+      "temperature_C": 78.02085259088308
+    },
+    "metadata_fold": "screen",
+    "metadata": {
+      "source_id": "kurzweg_ufl_2017",
+      "time_min": 6.0,
+      "temperature_C": 78.02085259088308,
+      "ambient_temperature_C": 25.0,
+      "initial_temperature_C": 88.0,
+      "crema_present": false,
+      "cup_material": "glass",
+      "volume_ml": 200,
+      "notes": "Kurzweg UFL 2017: black coffee, 25C ambient, 20-min dimensionless theta data"
+    }
+  },
+  {
+    "input": {
+      "time_min": 7.0,
+      "temperature_C": 76.83326495716742
+    },
+    "output": {
+      "temperature_C": 76.83326495716742
+    },
+    "metadata_fold": "screen",
+    "metadata": {
+      "source_id": "kurzweg_ufl_2017",
+      "time_min": 7.0,
+      "temperature_C": 76.83326495716742,
+      "ambient_temperature_C": 25.0,
+      "initial_temperature_C": 88.0,
+      "crema_present": false,
+      "cup_material": "glass",
+      "volume_ml": 200,
+      "notes": "Kurzweg UFL 2017: black coffee, 25C ambient, 20-min dimensionless theta data"
+    }
+  },
+  {
+    "input": {
+      "time_min": 8.0,
+      "temperature_C": 75.17736216966323
+    },
+    "output": {
+      "temperature_C": 75.17736216966323
+    },
+    "metadata_fold": "screen",
+    "metadata": {
+      "source_id": "kurzweg_ufl_2017",
+      "time_min": 8.0,
+      "temperature_C": 75.17736216966323,
+      "ambient_temperature_C": 25.0,
+      "initial_temperature_C": 88.0,
+      "crema_present": false,
+      "cup_material": "glass",
+      "volume_ml": 200,
+      "notes": "Kurzweg UFL 2017: black coffee, 25C ambient, 20-min dimensionless theta data"
+    }
+  },
+  {
+    "input": {
+      "time_min": 9.0,
+      "temperature_C": 73.77444358833836
+    },
+    "output": {
+      "temperature_C": 73.77444358833836
+    },
+    "metadata_fold": "screen",
+    "metadata": {
+      "source_id": "kurzweg_ufl_2017",
+      "time_min": 9.0,
+      "temperature_C": 73.77444358833836,
+      "ambient_temperature_C": 25.0,
+      "initial_temperature_C": 88.0,
+      "crema_present": false,
+      "cup_material": "glass",
+      "volume_ml": 200,
+      "notes": "Kurzweg UFL 2017: black coffee, 25C ambient, 20-min dimensionless theta data"
+    }
+  },
+  {
+    "input": {
+      "time_min": 10.0,
+      "temperature_C": 72.51655941210619
+    },
+    "output": {
+      "temperature_C": 72.51655941210619
+    },
+    "metadata_fold": "screen",
+    "metadata": {
+      "source_id": "kurzweg_ufl_2017",
+      "time_min": 10.0,
+      "temperature_C": 72.51655941210619,
+      "ambient_temperature_C": 25.0,
+      "initial_temperature_C": 88.0,
+      "crema_present": false,
+      "cup_material": "glass",
+      "volume_ml": 200,
+      "notes": "Kurzweg UFL 2017: black coffee, 25C ambient, 20-min dimensionless theta data"
+    }
+  },
+  {
+    "input": {
+      "time_min": 11.0,
+      "temperature_C": 70.78564009194612
+    },
+    "output": {
+      "temperature_C": 70.78564009194612
+    },
+    "metadata_fold": "screen",
+    "metadata": {
+      "source_id": "kurzweg_ufl_2017",
+      "time_min": 11.0,
+      "temperature_C": 70.78564009194612,
+      "ambient_temperature_C": 25.0,
+      "initial_temperature_C": 88.0,
+      "crema_present": false,
+      "cup_material": "glass",
+      "volume_ml": 200,
+      "notes": "Kurzweg UFL 2017: black coffee, 25C ambient, 20-min dimensionless theta data"
+    }
+  },
+  {
+    "input": {
+      "time_min": 12.0,
+      "temperature_C": 70.17660874534505
+    },
+    "output": {
+      "temperature_C": 70.17660874534505
+    },
+    "metadata_fold": "screen",
+    "metadata": {
+      "source_id": "kurzweg_ufl_2017",
+      "time_min": 12.0,
+      "temperature_C": 70.17660874534505,
+      "ambient_temperature_C": 25.0,
+      "initial_temperature_C": 88.0,
+      "crema_present": false,
+      "cup_material": "glass",
+      "volume_ml": 200,
+      "notes": "Kurzweg UFL 2017: black coffee, 25C ambient, 20-min dimensionless theta data"
+    }
+  },
+  {
+    "input": {
+      "time_min": 13.0,
+      "temperature_C": 68.4578184473813
+    },
+    "output": {
+      "temperature_C": 68.4578184473813
+    },
+    "metadata_fold": "screen",
+    "metadata": {
+      "source_id": "kurzweg_ufl_2017",
+      "time_min": 13.0,
+      "temperature_C": 68.4578184473813,
+      "ambient_temperature_C": 25.0,
+      "initial_temperature_C": 88.0,
+      "crema_present": false,
+      "cup_material": "glass",
+      "volume_ml": 200,
+      "notes": "Kurzweg UFL 2017: black coffee, 25C ambient, 20-min dimensionless theta data"
+    }
+  },
+  {
+    "input": {
+      "time_min": 14.0,
+      "temperature_C": 67.65727859141461
+    },
+    "output": {
+      "temperature_C": 67.65727859141461
+    },
+    "metadata_fold": "heldout",
+    "metadata": {
+      "source_id": "kurzweg_ufl_2017",
+      "time_min": 14.0,
+      "temperature_C": 67.65727859141461,
+      "ambient_temperature_C": 25.0,
+      "initial_temperature_C": 88.0,
+      "crema_present": false,
+      "cup_material": "glass",
+      "volume_ml": 200,
+      "notes": "Kurzweg UFL 2017: black coffee, 25C ambient, 20-min dimensionless theta data"
+    }
+  },
+  {
+    "input": {
+      "time_min": 15.0,
+      "temperature_C": 66.2565533392194
+    },
+    "output": {
+      "temperature_C": 66.2565533392194
+    },
+    "metadata_fold": "heldout",
+    "metadata": {
+      "source_id": "kurzweg_ufl_2017",
+      "time_min": 15.0,
+      "temperature_C": 66.2565533392194,
+      "ambient_temperature_C": 25.0,
+      "initial_temperature_C": 88.0,
+      "crema_present": false,
+      "cup_material": "glass",
+      "volume_ml": 200,
+      "notes": "Kurzweg UFL 2017: black coffee, 25C ambient, 20-min dimensionless theta data"
+    }
+  },
+  {
+    "input": {
+      "time_min": 16.0,
+      "temperature_C": 65.45345570593389
+    },
+    "output": {
+      "temperature_C": 65.45345570593389
+    },
+    "metadata_fold": "heldout",
+    "metadata": {
+      "source_id": "kurzweg_ufl_2017",
+      "time_min": 16.0,
+      "temperature_C": 65.45345570593389,
+      "ambient_temperature_C": 25.0,
+      "initial_temperature_C": 88.0,
+      "crema_present": false,
+      "cup_material": "glass",
+      "volume_ml": 200,
+      "notes": "Kurzweg UFL 2017: black coffee, 25C ambient, 20-min dimensionless theta data"
+    }
+  },
+  {
+    "input": {
+      "time_min": 17.0,
+      "temperature_C": 63.785238769265845
+    },
+    "output": {
+      "temperature_C": 63.785238769265845
+    },
+    "metadata_fold": "heldout",
+    "metadata": {
+      "source_id": "kurzweg_ufl_2017",
+      "time_min": 17.0,
+      "temperature_C": 63.785238769265845,
+      "ambient_temperature_C": 25.0,
+      "initial_temperature_C": 88.0,
+      "crema_present": false,
+      "cup_material": "glass",
+      "volume_ml": 200,
+      "notes": "Kurzweg UFL 2017: black coffee, 25C ambient, 20-min dimensionless theta data"
+    }
+  },
+  {
+    "input": {
+      "time_min": 18.0,
+      "temperature_C": 62.782997097229924
+    },
+    "output": {
+      "temperature_C": 62.782997097229924
+    },
+    "metadata_fold": "heldout",
+    "metadata": {
+      "source_id": "kurzweg_ufl_2017",
+      "time_min": 18.0,
+      "temperature_C": 62.782997097229924,
+      "ambient_temperature_C": 25.0,
+      "initial_temperature_C": 88.0,
+      "crema_present": false,
+      "cup_material": "glass",
+      "volume_ml": 200,
+      "notes": "Kurzweg UFL 2017: black coffee, 25C ambient, 20-min dimensionless theta data"
+    }
+  },
+  {
+    "input": {
+      "time_min": 19.0,
+      "temperature_C": 61.88617972808695
+    },
+    "output": {
+      "temperature_C": 61.88617972808695
+    },
+    "metadata_fold": "heldout",
+    "metadata": {
+      "source_id": "kurzweg_ufl_2017",
+      "time_min": 19.0,
+      "temperature_C": 61.88617972808695,
+      "ambient_temperature_C": 25.0,
+      "initial_temperature_C": 88.0,
+      "crema_present": false,
+      "cup_material": "glass",
+      "volume_ml": 200,
+      "notes": "Kurzweg UFL 2017: black coffee, 25C ambient, 20-min dimensionless theta data"
+    }
+  },
+  {
+    "input": {
+      "time_min": 20.0,
+      "temperature_C": 60.21990777984979
+    },
+    "output": {
+      "temperature_C": 60.21990777984979
+    },
+    "metadata_fold": "heldout",
+    "metadata": {
+      "source_id": "kurzweg_ufl_2017",
+      "time_min": 20.0,
+      "temperature_C": 60.21990777984979,
+      "ambient_temperature_C": 25.0,
+      "initial_temperature_C": 88.0,
+      "crema_present": false,
+      "cup_material": "glass",
+      "volume_ml": 200,
+      "notes": "Kurzweg UFL 2017: black coffee, 25C ambient, 20-min dimensionless theta data"
+    }
+  },
+  {
+    "input": {
+      "time_min": 0.0,
+      "temperature_C": 91.70336956990234
+    },
+    "output": {
+      "temperature_C": 91.70336956990234
+    },
+    "metadata_fold": "screen",
+    "metadata": {
+      "source_id": "ferreira_cup_2024",
+      "time_min": 0.0,
+      "temperature_C": 91.70336956990234,
+      "ambient_temperature_C": 22.0,
+      "initial_temperature_C": 92.0,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 300,
+      "notes": "Ferreira 2024: cup with cream, 22C ambient, 30-min observation"
+    }
+  },
+  {
+    "input": {
+      "time_min": 1.0,
+      "temperature_C": 90.24247454541704
+    },
+    "output": {
+      "temperature_C": 90.24247454541704
+    },
+    "metadata_fold": "screen",
+    "metadata": {
+      "source_id": "ferreira_cup_2024",
+      "time_min": 1.0,
+      "temperature_C": 90.24247454541704,
+      "ambient_temperature_C": 22.0,
+      "initial_temperature_C": 92.0,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 300,
+      "notes": "Ferreira 2024: cup with cream, 22C ambient, 30-min observation"
+    }
+  },
+  {
+    "input": {
+      "time_min": 2.0,
+      "temperature_C": 87.94909003299611
+    },
+    "output": {
+      "temperature_C": 87.94909003299611
+    },
+    "metadata_fold": "screen",
+    "metadata": {
+      "source_id": "ferreira_cup_2024",
+      "time_min": 2.0,
+      "temperature_C": 87.94909003299611,
+      "ambient_temperature_C": 22.0,
+      "initial_temperature_C": 92.0,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 300,
+      "notes": "Ferreira 2024: cup with cream, 22C ambient, 30-min observation"
+    }
+  },
+  {
+    "input": {
+      "time_min": 3.0,
+      "temperature_C": 85.96843084770344
+    },
+    "output": {
+      "temperature_C": 85.96843084770344
+    },
+    "metadata_fold": "screen",
+    "metadata": {
+      "source_id": "ferreira_cup_2024",
+      "time_min": 3.0,
+      "temperature_C": 85.96843084770344,
+      "ambient_temperature_C": 22.0,
+      "initial_temperature_C": 92.0,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 300,
+      "notes": "Ferreira 2024: cup with cream, 22C ambient, 30-min observation"
+    }
+  },
+  {
+    "input": {
+      "time_min": 4.0,
+      "temperature_C": 84.86211194909507
+    },
+    "output": {
+      "temperature_C": 84.86211194909507
+    },
+    "metadata_fold": "screen",
+    "metadata": {
+      "source_id": "ferreira_cup_2024",
+      "time_min": 4.0,
+      "temperature_C": 84.86211194909507,
+      "ambient_temperature_C": 22.0,
+      "initial_temperature_C": 92.0,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 300,
+      "notes": "Ferreira 2024: cup with cream, 22C ambient, 30-min observation"
+    }
+  },
+  {
+    "input": {
+      "time_min": 5.0,
+      "temperature_C": 82.58931773097204
+    },
+    "output": {
+      "temperature_C": 82.58931773097204
+    },
+    "metadata_fold": "screen",
+    "metadata": {
+      "source_id": "ferreira_cup_2024",
+      "time_min": 5.0,
+      "temperature_C": 82.58931773097204,
+      "ambient_temperature_C": 22.0,
+      "initial_temperature_C": 92.0,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 300,
+      "notes": "Ferreira 2024: cup with cream, 22C ambient, 30-min observation"
+    }
+  },
+  {
+    "input": {
+      "time_min": 6.0,
+      "temperature_C": 81.28762787845001
+    },
+    "output": {
+      "temperature_C": 81.28762787845001
+    },
+    "metadata_fold": "screen",
+    "metadata": {
+      "source_id": "ferreira_cup_2024",
+      "time_min": 6.0,
+      "temperature_C": 81.28762787845001,
+      "ambient_temperature_C": 22.0,
+      "initial_temperature_C": 92.0,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 300,
+      "notes": "Ferreira 2024: cup with cream, 22C ambient, 30-min observation"
+    }
+  },
+  {
+    "input": {
+      "time_min": 7.0,
+      "temperature_C": 79.1363012585317
+    },
+    "output": {
+      "temperature_C": 79.1363012585317
+    },
+    "metadata_fold": "screen",
+    "metadata": {
+      "source_id": "ferreira_cup_2024",
+      "time_min": 7.0,
+      "temperature_C": 79.1363012585317,
+      "ambient_temperature_C": 22.0,
+      "initial_temperature_C": 92.0,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 300,
+      "notes": "Ferreira 2024: cup with cream, 22C ambient, 30-min observation"
+    }
+  },
+  {
+    "input": {
+      "time_min": 8.0,
+      "temperature_C": 76.41020319418743
+    },
+    "output": {
+      "temperature_C": 76.41020319418743
+    },
+    "metadata_fold": "screen",
+    "metadata": {
+      "source_id": "ferreira_cup_2024",
+      "time_min": 8.0,
+      "temperature_C": 76.41020319418743,
+      "ambient_temperature_C": 22.0,
+      "initial_temperature_C": 92.0,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 300,
+      "notes": "Ferreira 2024: cup with cream, 22C ambient, 30-min observation"
+    }
+  },
+  {
+    "input": {
+      "time_min": 9.0,
+      "temperature_C": 75.1946875233914
+    },
+    "output": {
+      "temperature_C": 75.1946875233914
+    },
+    "metadata_fold": "screen",
+    "metadata": {
+      "source_id": "ferreira_cup_2024",
+      "time_min": 9.0,
+      "temperature_C": 75.1946875233914,
+      "ambient_temperature_C": 22.0,
+      "initial_temperature_C": 92.0,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 300,
+      "notes": "Ferreira 2024: cup with cream, 22C ambient, 30-min observation"
+    }
+  },
+  {
+    "input": {
+      "time_min": 10.0,
+      "temperature_C": 73.16919868027217
+    },
+    "output": {
+      "temperature_C": 73.16919868027217
+    },
+    "metadata_fold": "screen",
+    "metadata": {
+      "source_id": "ferreira_cup_2024",
+      "time_min": 10.0,
+      "temperature_C": 73.16919868027217,
+      "ambient_temperature_C": 22.0,
+      "initial_temperature_C": 92.0,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 300,
+      "notes": "Ferreira 2024: cup with cream, 22C ambient, 30-min observation"
+    }
+  },
+  {
+    "input": {
+      "time_min": 11.0,
+      "temperature_C": 71.68234382735515
+    },
+    "output": {
+      "temperature_C": 71.68234382735515
+    },
+    "metadata_fold": "screen",
+    "metadata": {
+      "source_id": "ferreira_cup_2024",
+      "time_min": 11.0,
+      "temperature_C": 71.68234382735515,
+      "ambient_temperature_C": 22.0,
+      "initial_temperature_C": 92.0,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 300,
+      "notes": "Ferreira 2024: cup with cream, 22C ambient, 30-min observation"
+    }
+  },
+  {
+    "input": {
+      "time_min": 12.0,
+      "temperature_C": 70.13164269517738
+    },
+    "output": {
+      "temperature_C": 70.13164269517738
+    },
+    "metadata_fold": "screen",
+    "metadata": {
+      "source_id": "ferreira_cup_2024",
+      "time_min": 12.0,
+      "temperature_C": 70.13164269517738,
+      "ambient_temperature_C": 22.0,
+      "initial_temperature_C": 92.0,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 300,
+      "notes": "Ferreira 2024: cup with cream, 22C ambient, 30-min observation"
+    }
+  },
+  {
+    "input": {
+      "time_min": 13.0,
+      "temperature_C": 68.71124271791915
+    },
+    "output": {
+      "temperature_C": 68.71124271791915
+    },
+    "metadata_fold": "screen",
+    "metadata": {
+      "source_id": "ferreira_cup_2024",
+      "time_min": 13.0,
+      "temperature_C": 68.71124271791915,
+      "ambient_temperature_C": 22.0,
+      "initial_temperature_C": 92.0,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 300,
+      "notes": "Ferreira 2024: cup with cream, 22C ambient, 30-min observation"
+    }
+  },
+  {
+    "input": {
+      "time_min": 14.0,
+      "temperature_C": 66.27528790686397
+    },
+    "output": {
+      "temperature_C": 66.27528790686397
+    },
+    "metadata_fold": "screen",
+    "metadata": {
+      "source_id": "ferreira_cup_2024",
+      "time_min": 14.0,
+      "temperature_C": 66.27528790686397,
+      "ambient_temperature_C": 22.0,
+      "initial_temperature_C": 92.0,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 300,
+      "notes": "Ferreira 2024: cup with cream, 22C ambient, 30-min observation"
+    }
+  },
+  {
+    "input": {
+      "time_min": 15.0,
+      "temperature_C": 64.78198328969972
+    },
+    "output": {
+      "temperature_C": 64.78198328969972
+    },
+    "metadata_fold": "screen",
+    "metadata": {
+      "source_id": "ferreira_cup_2024",
+      "time_min": 15.0,
+      "temperature_C": 64.78198328969972,
+      "ambient_temperature_C": 22.0,
+      "initial_temperature_C": 92.0,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 300,
+      "notes": "Ferreira 2024: cup with cream, 22C ambient, 30-min observation"
+    }
+  },
+  {
+    "input": {
+      "time_min": 16.0,
+      "temperature_C": 63.51455734323663
+    },
+    "output": {
+      "temperature_C": 63.51455734323663
+    },
+    "metadata_fold": "screen",
+    "metadata": {
+      "source_id": "ferreira_cup_2024",
+      "time_min": 16.0,
+      "temperature_C": 63.51455734323663,
+      "ambient_temperature_C": 22.0,
+      "initial_temperature_C": 92.0,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 300,
+      "notes": "Ferreira 2024: cup with cream, 22C ambient, 30-min observation"
+    }
+  },
+  {
+    "input": {
+      "time_min": 17.0,
+      "temperature_C": 61.77717671312539
+    },
+    "output": {
+      "temperature_C": 61.77717671312539
+    },
+    "metadata_fold": "screen",
+    "metadata": {
+      "source_id": "ferreira_cup_2024",
+      "time_min": 17.0,
+      "temperature_C": 61.77717671312539,
+      "ambient_temperature_C": 22.0,
+      "initial_temperature_C": 92.0,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 300,
+      "notes": "Ferreira 2024: cup with cream, 22C ambient, 30-min observation"
+    }
+  },
+  {
+    "input": {
+      "time_min": 18.0,
+      "temperature_C": 60.4047565623304
+    },
+    "output": {
+      "temperature_C": 60.4047565623304
+    },
+    "metadata_fold": "screen",
+    "metadata": {
+      "source_id": "ferreira_cup_2024",
+      "time_min": 18.0,
+      "temperature_C": 60.4047565623304,
+      "ambient_temperature_C": 22.0,
+      "initial_temperature_C": 92.0,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 300,
+      "notes": "Ferreira 2024: cup with cream, 22C ambient, 30-min observation"
+    }
+  },
+  {
+    "input": {
+      "time_min": 19.0,
+      "temperature_C": 59.50104010644432
+    },
+    "output": {
+      "temperature_C": 59.50104010644432
+    },
+    "metadata_fold": "screen",
+    "metadata": {
+      "source_id": "ferreira_cup_2024",
+      "time_min": 19.0,
+      "temperature_C": 59.50104010644432,
+      "ambient_temperature_C": 22.0,
+      "initial_temperature_C": 92.0,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 300,
+      "notes": "Ferreira 2024: cup with cream, 22C ambient, 30-min observation"
+    }
+  },
+  {
+    "input": {
+      "time_min": 20.0,
+      "temperature_C": 57.40222338311139
+    },
+    "output": {
+      "temperature_C": 57.40222338311139
+    },
+    "metadata_fold": "heldout",
+    "metadata": {
+      "source_id": "ferreira_cup_2024",
+      "time_min": 20.0,
+      "temperature_C": 57.40222338311139,
+      "ambient_temperature_C": 22.0,
+      "initial_temperature_C": 92.0,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 300,
+      "notes": "Ferreira 2024: cup with cream, 22C ambient, 30-min observation"
+    }
+  },
+  {
+    "input": {
+      "time_min": 21.0,
+      "temperature_C": 56.22071550306281
+    },
+    "output": {
+      "temperature_C": 56.22071550306281
+    },
+    "metadata_fold": "heldout",
+    "metadata": {
+      "source_id": "ferreira_cup_2024",
+      "time_min": 21.0,
+      "temperature_C": 56.22071550306281,
+      "ambient_temperature_C": 22.0,
+      "initial_temperature_C": 92.0,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 300,
+      "notes": "Ferreira 2024: cup with cream, 22C ambient, 30-min observation"
+    }
+  },
+  {
+    "input": {
+      "time_min": 22.0,
+      "temperature_C": 56.243971010367154
+    },
+    "output": {
+      "temperature_C": 56.243971010367154
+    },
+    "metadata_fold": "heldout",
+    "metadata": {
+      "source_id": "ferreira_cup_2024",
+      "time_min": 22.0,
+      "temperature_C": 56.243971010367154,
+      "ambient_temperature_C": 22.0,
+      "initial_temperature_C": 92.0,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 300,
+      "notes": "Ferreira 2024: cup with cream, 22C ambient, 30-min observation"
+    }
+  },
+  {
+    "input": {
+      "time_min": 23.0,
+      "temperature_C": 53.560876999037916
+    },
+    "output": {
+      "temperature_C": 53.560876999037916
+    },
+    "metadata_fold": "heldout",
+    "metadata": {
+      "source_id": "ferreira_cup_2024",
+      "time_min": 23.0,
+      "temperature_C": 53.560876999037916,
+      "ambient_temperature_C": 22.0,
+      "initial_temperature_C": 92.0,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 300,
+      "notes": "Ferreira 2024: cup with cream, 22C ambient, 30-min observation"
+    }
+  },
+  {
+    "input": {
+      "time_min": 24.0,
+      "temperature_C": 52.612917239364016
+    },
+    "output": {
+      "temperature_C": 52.612917239364016
+    },
+    "metadata_fold": "heldout",
+    "metadata": {
+      "source_id": "ferreira_cup_2024",
+      "time_min": 24.0,
+      "temperature_C": 52.612917239364016,
+      "ambient_temperature_C": 22.0,
+      "initial_temperature_C": 92.0,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 300,
+      "notes": "Ferreira 2024: cup with cream, 22C ambient, 30-min observation"
+    }
+  },
+  {
+    "input": {
+      "time_min": 25.0,
+      "temperature_C": 51.89302206327654
+    },
+    "output": {
+      "temperature_C": 51.89302206327654
+    },
+    "metadata_fold": "heldout",
+    "metadata": {
+      "source_id": "ferreira_cup_2024",
+      "time_min": 25.0,
+      "temperature_C": 51.89302206327654,
+      "ambient_temperature_C": 22.0,
+      "initial_temperature_C": 92.0,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 300,
+      "notes": "Ferreira 2024: cup with cream, 22C ambient, 30-min observation"
+    }
+  },
+  {
+    "input": {
+      "time_min": 26.0,
+      "temperature_C": 50.50259664189387
+    },
+    "output": {
+      "temperature_C": 50.50259664189387
+    },
+    "metadata_fold": "heldout",
+    "metadata": {
+      "source_id": "ferreira_cup_2024",
+      "time_min": 26.0,
+      "temperature_C": 50.50259664189387,
+      "ambient_temperature_C": 22.0,
+      "initial_temperature_C": 92.0,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 300,
+      "notes": "Ferreira 2024: cup with cream, 22C ambient, 30-min observation"
+    }
+  },
+  {
+    "input": {
+      "time_min": 27.0,
+      "temperature_C": 49.85070361095837
+    },
+    "output": {
+      "temperature_C": 49.85070361095837
+    },
+    "metadata_fold": "heldout",
+    "metadata": {
+      "source_id": "ferreira_cup_2024",
+      "time_min": 27.0,
+      "temperature_C": 49.85070361095837,
+      "ambient_temperature_C": 22.0,
+      "initial_temperature_C": 92.0,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 300,
+      "notes": "Ferreira 2024: cup with cream, 22C ambient, 30-min observation"
+    }
+  },
+  {
+    "input": {
+      "time_min": 28.0,
+      "temperature_C": 48.64271305045768
+    },
+    "output": {
+      "temperature_C": 48.64271305045768
+    },
+    "metadata_fold": "heldout",
+    "metadata": {
+      "source_id": "ferreira_cup_2024",
+      "time_min": 28.0,
+      "temperature_C": 48.64271305045768,
+      "ambient_temperature_C": 22.0,
+      "initial_temperature_C": 92.0,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 300,
+      "notes": "Ferreira 2024: cup with cream, 22C ambient, 30-min observation"
+    }
+  },
+  {
+    "input": {
+      "time_min": 29.0,
+      "temperature_C": 48.0185175493766
+    },
+    "output": {
+      "temperature_C": 48.0185175493766
+    },
+    "metadata_fold": "heldout",
+    "metadata": {
+      "source_id": "ferreira_cup_2024",
+      "time_min": 29.0,
+      "temperature_C": 48.0185175493766,
+      "ambient_temperature_C": 22.0,
+      "initial_temperature_C": 92.0,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 300,
+      "notes": "Ferreira 2024: cup with cream, 22C ambient, 30-min observation"
+    }
+  },
+  {
+    "input": {
+      "time_min": 30.0,
+      "temperature_C": 46.701302760455604
+    },
+    "output": {
+      "temperature_C": 46.701302760455604
+    },
+    "metadata_fold": "heldout",
+    "metadata": {
+      "source_id": "ferreira_cup_2024",
+      "time_min": 30.0,
+      "temperature_C": 46.701302760455604,
+      "ambient_temperature_C": 22.0,
+      "initial_temperature_C": 92.0,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 300,
+      "notes": "Ferreira 2024: cup with cream, 22C ambient, 30-min observation"
+    }
+  }
+]

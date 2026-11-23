@@ -1,0 +1,65 @@
+[
+  {
+    "input": {
+      "time_min": 0.0,
+      "temperature_C": 85.69141512392632
+    },
+    "output": {
+      "temperature_C": 85.69141512392632
+    },
+    "metadata_fold": "screen",
+    "metadata": {
+      "source_id": "manitoba",
+      "time_min": 0.0,
+      "temperature_C": 85.69141512392632,
+      "ambient_temperature_C": 21.7,
+      "initial_temperature_C": 85.6,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 250,
+      "notes": "Manitoba calculus workshop: coffee, 186F start, 71F ambient, 48-min table"
+    }
+  },
+  {
+    "input": {
+      "time_min": 1.0,
+      "temperature_C": 82.54857573381278
+    },
+    "output": {
+      "temperature_C": 82.54857573381278
+    },
+    "metadata_fold": "screen",
+    "metadata": {
+      "source_id": "manitoba",
+      "time_min": 1.0,
+      "temperature_C": 82.54857573381278,
+      "ambient_temperature_C": 21.7,
+      "initial_temperature_C": 85.6,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 250,
+      "notes": "Manitoba calculus workshop: coffee, 186F start, 71F ambient, 48-min table"
+    }
+  },
+  {
+    "input": {
+      "time_min": 2.0,
+      "temperature_C": 80.58801656149411
+    },
+    "output": {
+      "temperature_C": 80.58801656149411
+    },
+    "metadata_fold": "screen",
+    "metadata": {
+      "source_id": "manitoba",
+      "time_min": 2.0,
+      "temperature_C": 80.58801656149411,
+      "ambient_temperature_C": 21.7,
+      "initial_temperature_C": 85.6,
+      "crema_present": true,
+      "cup_material": "ceramic",
+      "volume_ml": 250,
+      "notes": "Manitoba calculus workshop: coffee, 186F start, 71F ambient, 48-min table"
+    }
+  }
+]
