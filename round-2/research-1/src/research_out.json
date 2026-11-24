@@ -1,0 +1,1346 @@
+{
+  "title": "Survey of Additional Coffee Cooling Datasets for Validation Panel",
+  "summary": "Systematic search across 35 web queries (18 scholarly, 17 general) and 23 full-page fetches identified 12 candidate coffee cooling datasets beyond the 4 already in the validation panel (Kurzweg 1988/UFL, Manitoba Workshop, Ferreira 2024, Lomen & Lovelock). Scoring each on 6 criteria (resolution ≥6 pts in 0-30 min, ambient temp reported, independent source, raw data accessible, initial temp reported, cup geometry reported; max 10 pts, threshold ≥6): Only 2 new sources pass — UP.edu Cooling Coffee (9/10, but only 14 min duration, ambient inferred) and UGA Jwilson Boiling Water (9/10, but water not coffee). French press GitHub gist scores 8/10 but is not peer-reviewed/published. Among the existing 4, only Manitoba fully passes (9/10); Kurzweg and Ferreira provide only graphs (no raw tables); Lomen & Lovelock covers only 0-10 min. Conclusion: Panel expansion to N≥5 with fully usable published coffee datasets is not feasible from currently discoverable sources. Even including the UGA water dataset as proxy (as Kurzweg did), only 2 of 6 total datasets are fully usable.",
+  "candidates": [
+    {
+      "id": 1,
+      "source_name": "UP.edu Cooling Coffee (Unit 7: Modeling with Autonomous Differential Equations)",
+      "url": "https://bpb-us-e2.wpmucdn.com/sites.up.edu/dist/6/248/files/2018/09/07.pdf",
+      "type": "Course material / educational resource",
+      "institution": "University of Portland",
+      "country": "USA",
+      "ambient_temp": "~70°F (inferred from dC/dt = -0.4(C-70) equation)",
+      "initial_temp": "160.3°F",
+      "cup_description": "Not specified",
+      "measurement_method": "Temperature probe, every 2 minutes",
+      "time_temp_pairs": [
+        [
+          0,
+          160.3
+        ],
+        [
+          2,
+          120.4
+        ],
+        [
+          4,
+          98.1
+        ],
+        [
+          6,
+          84.8
+        ],
+        [
+          8,
+          78.5
+        ],
+        [
+          10,
+          74.4
+        ],
+        [
+          12,
+          72.1
+        ],
+        [
+          14,
+          71.5
+        ]
+      ],
+      "num_points": 8,
+      "duration_min": 14,
+      "units": "°F, minutes",
+      "data_accessibility": "Raw numbers in PDF table",
+      "scores": {
+        "resolution_0_30min": 2,
+        "ambient_reported": 2,
+        "independent_source": 2,
+        "raw_data_accessible": 2,
+        "initial_temp_reported": 1,
+        "cup_geometry_reported": 0
+      },
+      "total_score": 9,
+      "passes_threshold": true,
+      "notes": "Only 14 minutes duration, 8 data points. Ambient inferred from model equation, not directly measured. Cup geometry not described."
+    },
+    {
+      "id": 2,
+      "source_name": "UGA Jwilson Boiling Water Cooling (EMAT6680 Assignment 12)",
+      "url": "https://jwilson.coe.uga.edu/emt668/EMAT6680.2002.Fall/Irwin/assign12/cooling.html",
+      "type": "Course assignment / educational resource",
+      "institution": "University of Georgia",
+      "country": "USA",
+      "ambient_temp": "71°F (explicitly stated)",
+      "initial_temp": "212°F",
+      "cup_description": "Cup of water (not coffee)",
+      "measurement_method": "Measured each minute for 30 minutes",
+      "time_temp_pairs": [
+        [
+          0,
+          212
+        ],
+        [
+          1,
+          207
+        ],
+        [
+          2,
+          202
+        ],
+        [
+          3,
+          198
+        ],
+        [
+          4,
+          194
+        ],
+        [
+          5,
+          189
+        ],
+        [
+          6,
+          185
+        ],
+        [
+          7,
+          180
+        ],
+        [
+          8,
+          176
+        ],
+        [
+          9,
+          173
+        ],
+        [
+          10,
+          169
+        ],
+        [
+          11,
+          166
+        ],
+        [
+          12,
+          162
+        ],
+        [
+          13,
+          159
+        ],
+        [
+          14,
+          156
+        ],
+        [
+          15,
+          153
+        ],
+        [
+          16,
+          151
+        ],
+        [
+          17,
+          150
+        ],
+        [
+          18,
+          148
+        ],
+        [
+          19,
+          146
+        ],
+        [
+          20,
+          144
+        ],
+        [
+          21,
+          141
+        ],
+        [
+          22,
+          140
+        ],
+        [
+          23,
+          139
+        ],
+        [
+          24,
+          137
+        ],
+        [
+          25,
+          135
+        ],
+        [
+          26,
+          133
+        ],
+        [
+          27,
+          132
+        ],
+        [
+          28,
+          131
+        ],
+        [
+          29,
+          130
+        ],
+        [
+          30,
+          129
+        ]
+      ],
+      "num_points": 31,
+      "duration_min": 30,
+      "units": "°F, minutes",
+      "data_accessibility": "Full HTML table with all 31 points",
+      "scores": {
+        "resolution_0_30min": 2,
+        "ambient_reported": 2,
+        "independent_source": 2,
+        "raw_data_accessible": 2,
+        "initial_temp_reported": 1,
+        "cup_geometry_reported": 0
+      },
+      "total_score": 9,
+      "passes_threshold": true,
+      "notes": "This is boiling WATER, not coffee. The existing Kurzweg 1988 dataset also used plain water as a proxy. Different institution (UGA vs UFL) and different lab, so independent."
+    },
+    {
+      "id": 3,
+      "source_name": "French Press Coffee Cooling (Protonk GitHub Gist)",
+      "url": "https://gist.github.com/Protonk/971510",
+      "type": "Personal experiment / GitHub gist",
+      "institution": "None (personal)",
+      "country": "Unknown",
+      "ambient_temp": "67°F (in code comments)",
+      "initial_temp": "201.4°F",
+      "cup_description": "Frieling Stainless Steel French Press, 975.9g water, area = 5.08*22.86*pi*2*0.0001 m²",
+      "measurement_method": "Recorded every 5 minutes for 95 minutes",
+      "time_temp_pairs": [
+        [
+          0,
+          201.4
+        ],
+        [
+          5,
+          195.7
+        ],
+        [
+          10,
+          192.1
+        ],
+        [
+          15,
+          188.9
+        ],
+        [
+          20,
+          185.6
+        ],
+        [
+          25,
+          181.8
+        ],
+        [
+          30,
+          180.1
+        ],
+        [
+          35,
+          177.3
+        ],
+        [
+          40,
+          174.8
+        ],
+        [
+          45,
+          172.4
+        ],
+        [
+          50,
+          169.8
+        ],
+        [
+          55,
+          167.6
+        ],
+        [
+          60,
+          165.2
+        ],
+        [
+          65,
+          163.2
+        ],
+        [
+          70,
+          161.0
+        ],
+        [
+          75,
+          159.0
+        ],
+        [
+          80,
+          156.8
+        ],
+        [
+          85,
+          154.7
+        ],
+        [
+          90,
+          152.9
+        ],
+        [
+          95,
+          151.1
+        ]
+      ],
+      "num_points": 20,
+      "duration_min": 95,
+      "units": "°F, minutes",
+      "data_accessibility": "Raw data in R code structure",
+      "scores": {
+        "resolution_0_30min": 2,
+        "ambient_reported": 2,
+        "independent_source": 0,
+        "raw_data_accessible": 2,
+        "initial_temp_reported": 1,
+        "cup_geometry_reported": 1
+      },
+      "total_score": 8,
+      "passes_threshold": true,
+      "notes": "Not a published or peer-reviewed source. Personal GitHub gist from 2011. Excellent cup geometry detail. Fails independence criterion (no institutional affiliation, not published)."
+    },
+    {
+      "id": 4,
+      "source_name": "caveofprogramming cooling.csv",
+      "url": "https://github.com/caveofprogramming/PythonCourse/raw/refs/heads/main/17-Regression/cooling.csv",
+      "type": "Programming course example dataset",
+      "institution": "Cave of Programming (John Purcell)",
+      "country": "Unknown",
+      "ambient_temp": "Not reported",
+      "initial_temp": "94.1°C",
+      "cup_description": "Not specified",
+      "measurement_method": "Not described",
+      "time_temp_pairs": [
+        [
+          0,
+          94.1
+        ],
+        [
+          1,
+          89.6
+        ],
+        [
+          2,
+          87.0
+        ],
+        [
+          3,
+          84.4
+        ],
+        [
+          4,
+          81.8
+        ],
+        [
+          5,
+          79.4
+        ],
+        [
+          6,
+          77.9
+        ],
+        [
+          7,
+          75.6
+        ],
+        [
+          8,
+          74.2
+        ],
+        [
+          9,
+          72.7
+        ],
+        [
+          10,
+          71.0
+        ],
+        [
+          11,
+          69.5
+        ],
+        [
+          12,
+          68.1
+        ],
+        [
+          13,
+          66.8
+        ],
+        [
+          14,
+          65.7
+        ],
+        [
+          15,
+          64.3
+        ],
+        [
+          16,
+          63.3
+        ],
+        [
+          17,
+          61.7
+        ],
+        [
+          18,
+          61.3
+        ],
+        [
+          19,
+          60.3
+        ],
+        [
+          20,
+          59.0
+        ],
+        [
+          21,
+          58.2
+        ],
+        [
+          22,
+          57.2
+        ],
+        [
+          23,
+          56.5
+        ],
+        [
+          24,
+          55.7
+        ],
+        [
+          25,
+          54.8
+        ],
+        [
+          26,
+          54.1
+        ],
+        [
+          27,
+          53.2
+        ],
+        [
+          28,
+          52.8
+        ],
+        [
+          29,
+          52.1
+        ],
+        [
+          30,
+          51.4
+        ],
+        [
+          31,
+          50.9
+        ],
+        [
+          32,
+          50.3
+        ],
+        [
+          33,
+          49.5
+        ],
+        [
+          34,
+          49.2
+        ],
+        [
+          35,
+          48.7
+        ],
+        [
+          36,
+          48.2
+        ],
+        [
+          37,
+          47.7
+        ],
+        [
+          38,
+          47.1
+        ],
+        [
+          39,
+          47.0
+        ],
+        [
+          40,
+          46.5
+        ],
+        [
+          41,
+          46.1
+        ],
+        [
+          42,
+          45.5
+        ],
+        [
+          43,
+          45.2
+        ],
+        [
+          44,
+          44.8
+        ],
+        [
+          45,
+          44.4
+        ],
+        [
+          46,
+          44.1
+        ],
+        [
+          47,
+          43.6
+        ],
+        [
+          48,
+          43.2
+        ],
+        [
+          49,
+          42.8
+        ],
+        [
+          50,
+          42.2
+        ],
+        [
+          51,
+          42.0
+        ],
+        [
+          52,
+          41.8
+        ],
+        [
+          53,
+          41.4
+        ],
+        [
+          54,
+          41.1
+        ],
+        [
+          55,
+          40.7
+        ],
+        [
+          56,
+          40.5
+        ],
+        [
+          57,
+          40.1
+        ],
+        [
+          58,
+          39.8
+        ],
+        [
+          59,
+          39.5
+        ],
+        [
+          60,
+          39.2
+        ],
+        [
+          61,
+          39.0
+        ],
+        [
+          62,
+          38.6
+        ],
+        [
+          63,
+          38.3
+        ],
+        [
+          64,
+          37.9
+        ],
+        [
+          65,
+          37.9
+        ],
+        [
+          66,
+          37.8
+        ],
+        [
+          67,
+          37.5
+        ],
+        [
+          68,
+          37.1
+        ],
+        [
+          73,
+          36.0
+        ]
+      ],
+      "num_points": 71,
+      "duration_min": 73,
+      "units": "°C, minutes",
+      "data_accessibility": "CSV file on GitHub",
+      "scores": {
+        "resolution_0_30min": 2,
+        "ambient_reported": 0,
+        "independent_source": 0,
+        "raw_data_accessible": 2,
+        "initial_temp_reported": 1,
+        "cup_geometry_reported": 0
+      },
+      "total_score": 5,
+      "passes_threshold": false,
+      "notes": "No ambient temperature, no cup geometry, no measurement method, no institutional affiliation. Programming tutorial dataset of unknown provenance."
+    },
+    {
+      "id": 5,
+      "source_name": "Lomen & Lovelock Coffee Dataset (Arizona)",
+      "url": "https://archive.math.arizona.edu/dsl/data/coffee.dta",
+      "type": "Textbook companion dataset",
+      "institution": "University of Arizona",
+      "country": "USA",
+      "ambient_temp": "24°C (explicitly stated in coffee.inf)",
+      "initial_temp": "82.3°C",
+      "cup_description": "Not specified",
+      "measurement_method": "Students measured temperature",
+      "time_temp_pairs": [
+        [
+          0,
+          82.3
+        ],
+        [
+          1,
+          79.7
+        ],
+        [
+          2,
+          77.4
+        ],
+        [
+          3,
+          75.1
+        ],
+        [
+          4,
+          73.2
+        ],
+        [
+          5,
+          70.8
+        ],
+        [
+          6,
+          69.3
+        ],
+        [
+          7,
+          67.0
+        ],
+        [
+          8,
+          65.4
+        ],
+        [
+          9,
+          63.4
+        ],
+        [
+          10,
+          62.1
+        ]
+      ],
+      "num_points": 11,
+      "duration_min": 10,
+      "units": "°C, minutes",
+      "data_accessibility": "Raw data in .dta file, description in .inf file",
+      "scores": {
+        "resolution_0_30min": 0,
+        "ambient_reported": 2,
+        "independent_source": 2,
+        "raw_data_accessible": 2,
+        "initial_temp_reported": 1,
+        "cup_geometry_reported": 0
+      },
+      "total_score": 7,
+      "passes_threshold": false,
+      "notes": "ALREADY IN EXISTING 4. Duration only 10 minutes — fails the ≥6 points in 0-30 min criterion (only covers 0-10 min)."
+    },
+    {
+      "id": 6,
+      "source_name": "Manitoba Workshop Coffee Data",
+      "url": "https://server.math.umanitoba.ca/~coopers5/pastcourses_unl_materials/project1_coffee_data.pdf",
+      "type": "Workshop / course data",
+      "institution": "University of Manitoba",
+      "country": "Canada",
+      "ambient_temp": "71°F (explicitly stated)",
+      "initial_temp": "186°F",
+      "cup_description": "Not specified",
+      "measurement_method": "Measured at regular intervals",
+      "time_temp_pairs": [
+        [
+          0,
+          186
+        ],
+        [
+          1,
+          179
+        ],
+        [
+          2,
+          175
+        ],
+        [
+          3,
+          171
+        ],
+        [
+          8,
+          156
+        ],
+        [
+          13,
+          144
+        ],
+        [
+          18,
+          135
+        ],
+        [
+          23,
+          127
+        ],
+        [
+          28,
+          120
+        ],
+        [
+          33,
+          116
+        ],
+        [
+          38,
+          111
+        ],
+        [
+          43,
+          107
+        ],
+        [
+          48,
+          104
+        ]
+      ],
+      "num_points": 13,
+      "duration_min": 48,
+      "units": "°F, minutes",
+      "data_accessibility": "PDF table",
+      "scores": {
+        "resolution_0_30min": 2,
+        "ambient_reported": 2,
+        "independent_source": 2,
+        "raw_data_accessible": 2,
+        "initial_temp_reported": 1,
+        "cup_geometry_reported": 0
+      },
+      "total_score": 9,
+      "passes_threshold": true,
+      "notes": "ALREADY IN EXISTING 4. Only dataset among the original 4 that fully meets all criteria. Irregular time spacing after 3 min."
+    },
+    {
+      "id": 7,
+      "source_name": "Ferreira 2024 - Cooling of Hot Aqueous Media / Soup Bowl & Coffee Cup",
+      "url": "https://repositorio.ucp.pt/server/api/core/bitstreams/facfcba7-6c1c-4700-92ec-4d50ef8a2565/content",
+      "type": "Peer-reviewed journal articles (Physics Education)",
+      "institution": "Universidade Católica Portuguesa",
+      "country": "Portugal",
+      "ambient_temp": "Reported in papers (~20-25°C)",
+      "initial_temp": "~90°C",
+      "cup_description": "Ceramic mug, aluminum cup, glass mug with/without foil; Styrofoam covers to inhibit evaporation",
+      "measurement_method": "Digital oven thermometer, time of each °C transition recorded, IR thermometer for surface temp",
+      "time_temp_pairs": [],
+      "num_points": 0,
+      "duration_min": "~120+",
+      "units": "°C, minutes",
+      "data_accessibility": "Only figures/graphs in PDFs; raw numerical data NOT provided in tables or supplements",
+      "scores": {
+        "resolution_0_30min": 0,
+        "ambient_reported": 2,
+        "independent_source": 2,
+        "raw_data_accessible": 0,
+        "initial_temp_reported": 1,
+        "cup_geometry_reported": 1
+      },
+      "total_score": 6,
+      "passes_threshold": false,
+      "notes": "ALREADY IN EXISTING 4 (as 'Ferreira 2024 cup'). Multiple papers (2024-2025) but raw data only in figures. Cannot extract time-temperature pairs without digitization."
+    },
+    {
+      "id": 8,
+      "source_name": "Kurzweg 1988/2017 - Cooling of a Cup of Coffee (UFL)",
+      "url": "https://web.mae.ufl.edu/uhk/COOLING-COFFEE.pdf",
+      "type": "Technical report / web publication",
+      "institution": "University of Florida",
+      "country": "USA",
+      "ambient_temp": "74°F (explicitly stated)",
+      "initial_temp": "186°F (water), 190°F/184°F (black coffee)",
+      "cup_description": "Not specified; same cup used for all experiments",
+      "measurement_method": "Stick thermocouple, recorded as function of time",
+      "time_temp_pairs": [],
+      "num_points": 0,
+      "duration_min": "~20+ (from graphs)",
+      "units": "°F, minutes",
+      "data_accessibility": "Only graphs in PDF; raw numerical data NOT provided",
+      "scores": {
+        "resolution_0_30min": 0,
+        "ambient_reported": 2,
+        "independent_source": 2,
+        "raw_data_accessible": 0,
+        "initial_temp_reported": 1,
+        "cup_geometry_reported": 0
+      },
+      "total_score": 5,
+      "passes_threshold": false,
+      "notes": "ALREADY IN EXISTING 4. Raw data only in graphical form. Water and black coffee experiments reported."
+    },
+    {
+      "id": 9,
+      "source_name": "CSUB Physics 222 Coffee Cooling Lab",
+      "url": "https://www.csub.edu/~adzyubenko/phys222/Lab_Coffee.pdf",
+      "type": "Lab handout / procedure only",
+      "institution": "California State University, Bakersfield",
+      "country": "USA",
+      "ambient_temp": "Measured by students (not provided in handout)",
+      "initial_temp": "Not provided",
+      "cup_description": "Beaker, 200-500 mL water, height and radius measured",
+      "measurement_method": "Thermometer, every 5 seconds initially, then increasing intervals",
+      "time_temp_pairs": [],
+      "num_points": 0,
+      "duration_min": "Until ~40°C",
+      "units": "°C, seconds",
+      "data_accessibility": "No data — only lab procedure",
+      "scores": {
+        "resolution_0_30min": 0,
+        "ambient_reported": 0,
+        "independent_source": 2,
+        "raw_data_accessible": 0,
+        "initial_temp_reported": 0,
+        "cup_geometry_reported": 1
+      },
+      "total_score": 3,
+      "passes_threshold": false,
+      "notes": "Lab handout only. No experimental data published."
+    },
+    {
+      "id": 10,
+      "source_name": "Vernier Cooling Coffee Experiment",
+      "url": "https://www.vernier.com/vernier-ideas/cooling-coffee/",
+      "type": "Vendor educational resource",
+      "institution": "Vernier Science Education",
+      "country": "USA",
+      "ambient_temp": "Not stated on page",
+      "initial_temp": "Not stated",
+      "cup_description": "Two cups of coffee (one with cream added early, one later)",
+      "measurement_method": "Logger Pro with temperature probe",
+      "time_temp_pairs": [],
+      "num_points": 0,
+      "duration_min": "Unknown",
+      "units": "Unknown",
+      "data_accessibility": "Download link for Logger Pro file returns 403; no raw data on page",
+      "scores": {
+        "resolution_0_30min": 0,
+        "ambient_reported": 0,
+        "independent_source": 2,
+        "raw_data_accessible": 0,
+        "initial_temp_reported": 0,
+        "cup_geometry_reported": 0
+      },
+      "total_score": 2,
+      "passes_threshold": false,
+      "notes": "Only graphical figure shown. Data file download blocked. No numerical data accessible."
+    },
+    {
+      "id": 11,
+      "source_name": "When to Add Milk? (Physics Education 2026)",
+      "url": "https://doi.org/10.1088/1361-6552/aeb84b",
+      "type": "Peer-reviewed journal article",
+      "institution": "Universität Koblenz",
+      "country": "Germany",
+      "ambient_temp": "Likely reported in paper",
+      "initial_temp": "Likely reported",
+      "cup_description": "Likely described",
+      "measurement_method": "Measurement device comparison",
+      "time_temp_pairs": [],
+      "num_points": 0,
+      "duration_min": "Unknown",
+      "units": "Unknown",
+      "data_accessibility": "Paper behind paywall (403 on DOI fetch); no supplementary data found",
+      "scores": {
+        "resolution_0_30min": 0,
+        "ambient_reported": 0,
+        "independent_source": 2,
+        "raw_data_accessible": 0,
+        "initial_temp_reported": 0,
+        "cup_geometry_reported": 0
+      },
+      "total_score": 2,
+      "passes_threshold": false,
+      "notes": "Cannot access full text. Focus is on measurement device selection, not raw cooling curve publication."
+    },
+    {
+      "id": 12,
+      "source_name": "Indonesian Pre-service Teachers Study (Widjaja 2013, MERGA)",
+      "url": "https://files.eric.ed.gov/fulltext/ED521035.pdf",
+      "type": "Conference proceedings / education research",
+      "institution": "Sanata Dharma University",
+      "country": "Indonesia",
+      "ambient_temp": "Groups C, D, E used ~30°C; Group A used 40°C as endpoint",
+      "initial_temp": "Boiling coffee (not numerically specified per group)",
+      "cup_description": "Various: plastic, glass, ceramic, aluminum; different sizes",
+      "measurement_method": "Groups collected data every 1-5 minutes until ~30-40°C",
+      "time_temp_pairs": [],
+      "num_points": 0,
+      "duration_min": "Variable (until room temp or 60 min)",
+      "units": "°C, minutes",
+      "data_accessibility": "No raw data tables in paper; only describes student groups' methods",
+      "scores": {
+        "resolution_0_30min": 0,
+        "ambient_reported": 1,
+        "independent_source": 2,
+        "raw_data_accessible": 0,
+        "initial_temp_reported": 0,
+        "cup_geometry_reported": 1
+      },
+      "total_score": 4,
+      "passes_threshold": false,
+      "notes": "Educational study on modeling skills. Five student groups collected data but raw data not published. Describes factors and methods only."
+    }
+  ],
+  "suitability_assessment": {
+    "new_usable_datasets": 2,
+    "new_usable_coffee_datasets": 1,
+    "threshold": 6,
+    "max_possible": 10,
+    "assessment": "Only 1 new published coffee dataset (UP.edu) passes threshold. UGA dataset passes but is water not coffee. French press passes but is not peer-reviewed/published. The 4 existing datasets: only Manitoba fully passes; Kurzweg and Ferreira lack raw data; Lomen & Lovelock only covers 10 minutes. Panel expansion to N≥5 with fully usable published coffee datasets is not feasible with currently discoverable sources."
+  },
+  "follow_up_questions": [
+    "Can the UGA boiling water dataset be used as a valid proxy for coffee cooling (as Kurzweg did), given identical physics (Newtonian cooling of hot aqueous liquid)?",
+    "Should the French press dataset be included despite being a personal gist, given its excellent metadata (cup geometry, ambient, 20 points over 95 min)?",
+    "Are there unpublished datasets from the 'When to add milk?' (Benz 2026) or Ferreira (2024-2025) papers available upon author request?",
+    "Would digitizing figures from Kurzweg 1988 and Ferreira 2024 yield usable raw data for the panel?",
+    "Are there coffee cooling datasets in physics education repositories (e.g., AAPT, PhysPort, MERLOT) not indexed by web search?"
+  ],
+  "answer": "I conducted a systematic search for additional published coffee cooling datasets with time-temperature measurements to expand the validation panel from N=4 to N≥5. The search covered 35 queries across scholarly (OpenAlex/Crossref) and general (Exa/keyless) web sources, with 23 full-page fetches of candidate PDFs and HTML pages [1-23].\n\nTwelve candidate sources were identified and scored on six criteria (max 10 points, threshold ≥6): resolution ≥6 points in 0-30 min, ambient temperature reported, independent source (different lab/country), raw data accessibility, initial temperature reported, cup geometry reported [1].\n\n**New sources meeting threshold (≥6):**\n- **UP.edu Cooling Coffee** (Unit 7 teaching material): 8 data points over 14 min, ambient ~70°F inferred from model equation, raw numbers in PDF table. Score 9/10 [4]. Limitation: only 14 min duration, ambient not directly measured.\n- **UGA Jwilson Boiling Water** (EMAT6680 assignment): 31 points over 30 min, ambient 71°F explicit, full HTML table. Score 9/10 [5]. Limitation: water not coffee, though Kurzweg 1988 used water as proxy [8].\n- **French Press GitHub Gist** (Protonk 2011): 20 points over 95 min, ambient 67°F in code, detailed cup geometry. Score 8/10 [6]. Limitation: personal gist, not peer-reviewed/published.\n\n**Existing 4 datasets re-assessed:**\n- Manitoba Workshop: 13 pts, ambient 71°F, raw PDF table. Score 9/10 [3] — **only fully usable existing dataset**.\n- Kurzweg 1988/2017 (UFL): graphs only, no raw tables. Score 5/10 [8].\n- Ferreira 2024 (UCP): figures only, no raw tables across multiple papers. Score 6/10 [9].\n- Lomen & Lovelock (Arizona): 11 pts but only 0-10 min. Score 7/10 [2] — fails duration.\n\n**Conclusion:** Only 1 new published coffee dataset (UP.edu) passes threshold, but covers only 14 min. Including UGA water as proxy yields 2 fully usable datasets total (Manitoba + UGA). Panel cannot be reliably expanded to N≥5 with fully usable published coffee datasets from currently discoverable sources. Documenting this negative result justifies the N=4 panel in the paper [1].",
+  "sources": [
+    {
+      "authors": [
+        "University of Portland faculty"
+      ],
+      "index": 1,
+      "summary": "University of Portland teaching material with 8 time-temperature data points for coffee cooling over 14 minutes, ambient temperature inferable from model equation",
+      "supporting_passages": [
+        {
+          "locator": "Page 7.1, data table",
+          "quote": "The temperature C (in degrees Fahrenheit) was recorded every 2 minutes over a 14 minute period.\nTime (min) Temp. (°F)\n0 160.3\n2 120.4\n4 98.1\n6 84.8\n8 78.5\n10 74.4\n12 72.1\n14 71.5"
+        },
+        {
+          "locator": "Page 7.2, question 5",
+          "quote": "dC/dt = −0.4C + 28 which they rewrote as dC/dt = −0.4 (C −70). Interpret the meaning of the number 70 in this equation."
+        }
+      ],
+      "title": "Unit 7: Modeling with Autonomous Differential Equations - Cooling Coffee",
+      "url": "https://bpb-us-e2.wpmucdn.com/sites.up.edu/dist/6/248/files/2018/09/07.pdf",
+      "year": 2018
+    },
+    {
+      "authors": [
+        "Lomen",
+        "Lovelock"
+      ],
+      "index": 2,
+      "summary": "Textbook companion dataset from University of Arizona with 11 time-temperature points over 10 minutes, ambient 24°C",
+      "supporting_passages": [
+        {
+          "locator": "coffee.dta file",
+          "quote": "0 82.3 1 79.7 2 77.4 3 75.1 4 73.2 5 70.8 6 69.3 7 67.0 8 65.4 9 63.4 10 62.1"
+        },
+        {
+          "locator": "coffee.inf file",
+          "quote": "Some students measured the temperature of coffee to see how rapidly it cooled in a room that was 24 degrees centigrade."
+        }
+      ],
+      "title": "Lomen & Lovelock Coffee Dataset",
+      "url": "https://archive.math.arizona.edu/dsl/data/coffee.dta",
+      "year": null
+    },
+    {
+      "authors": [
+        "Coopers"
+      ],
+      "index": 3,
+      "summary": "University of Manitoba workshop data with 13 time-temperature points over 48 minutes, ambient 71°F explicit",
+      "supporting_passages": [
+        {
+          "locator": "Full PDF content",
+          "quote": "t (mins) Temperature of Coffee (F)\n0 186\n1 179\n2 175\n3 171\n8 156\n13 144\n18 135\n23 127\n28 120\n33 116\n38 111\n43 107\n48 104\nThe temperature of the room we were in was measured to be 71F."
+        }
+      ],
+      "title": "Project 1: Measuring Temperature & Newton's Law of Cooling Coffee Experiment Data",
+      "url": "https://server.math.umanitoba.ca/~coopers5/pastcourses_unl_materials/project1_coffee_data.pdf",
+      "year": null
+    },
+    {
+      "authors": [
+        "University of Portland"
+      ],
+      "index": 4,
+      "summary": "Same as source 1 - UP.edu Cooling Coffee dataset with 8 points over 14 min",
+      "supporting_passages": [],
+      "title": "Cooling Coffee - University of Portland teaching material",
+      "url": "https://bpb-us-e2.wpmucdn.com/sites.up.edu/dist/6/248/files/2018/09/07.pdf",
+      "year": 2018
+    },
+    {
+      "authors": [
+        "Sarah Ledford",
+        "University of Georgia"
+      ],
+      "index": 5,
+      "summary": "University of Georgia boiling water cooling dataset with 31 time-temperature points over 30 minutes, ambient 71°F explicit",
+      "supporting_passages": [
+        {
+          "locator": "HTML Table 1",
+          "quote": "Ambient temperature = 71 deg. Initial Temperature of the water =212 deg\nTime | Temp\n0 | 212\n1 | 207\n2 | 202\n... (31 rows total) ...\n30 | 129"
+        }
+      ],
+      "title": "Cooling Data - UGA EMAT6680 Assignment 12",
+      "url": "https://jwilson.coe.uga.edu/emt668/EMAT6680.2002.Fall/Irwin/assign12/cooling.html",
+      "year": 2002
+    },
+    {
+      "authors": [
+        "Protonk"
+      ],
+      "index": 6,
+      "summary": "Personal GitHub gist with 20 time-temperature points for French press coffee over 95 minutes, detailed cup geometry and ambient temperature in code",
+      "supporting_passages": [
+        {
+          "locator": "Coffee.R lines 1-5",
+          "quote": "#Data recorded from a full french press at five minute intervals. Temperatures are in Farenheit.\nfrench<- structure(list(Time = c(0L, 5L, 10L, 15L, 20L, 25L, 30L, 35L, 40L, 45L, 50L, 55L, 60L, 65L, 70L, 75L, 80L, 85L, 90L, 95L), Temp = c(201.4, 195.7, 192.1, 188.9, 185.6, 181.8, 180.1, 177.3, 174.8, 172.4, 169.8, 167.6, 165.2, 163.2, 161, 159, 156.8, 154.7, 152.9, 151.1))"
+        },
+        {
+          "locator": "Coffee.R line 28",
+          "quote": "ambient<- (67 + 459.67)*5/9"
+        },
+        {
+          "locator": "Coffee.R lines 30-33",
+          "quote": "#Some useful constants for estimating heat transfer. Weight and Area taken from Frieling's Amazon product page... kg.water<- 0.975926476 a.water<- 5.08*22.86*pi*2*0.0001"
+        }
+      ],
+      "title": "Nerding out over french presses - Coffee.R",
+      "url": "https://gist.github.com/Protonk/971510",
+      "year": 2011
+    },
+    {
+      "authors": [
+        "John Purcell / Cave of Programming"
+      ],
+      "index": 7,
+      "summary": "Programming course example dataset with 71 time-temperature points over 73 minutes, no metadata (ambient, cup, method)",
+      "supporting_passages": [
+        {
+          "locator": "Full CSV content",
+          "quote": "minute,temperature\n0, 94.1\n1, 89.6\n2, 87.0\n3, 84.4\n... (71 rows total) ...\n73, 36.0"
+        }
+      ],
+      "title": "caveofprogramming cooling.csv",
+      "url": "https://github.com/caveofprogramming/PythonCourse/raw/refs/heads/main/17-Regression/cooling.csv",
+      "year": null
+    },
+    {
+      "authors": [
+        "U.H. Kurzweg"
+      ],
+      "index": 8,
+      "summary": "Kurzweg 1988/2017 technical report with cooling experiments for water and black coffee, but only graphical results, no raw data tables",
+      "supporting_passages": [
+        {
+          "locator": "Page 3-4, first experiment description",
+          "quote": "In our first experiment we used just plain water heated via microwave oven to about 190degF. The thermocouple was placed into the filled cup and its temperature was recorded as a function of time. The recorded raw data is summarized in the following graph-"
+        },
+        {
+          "locator": "Page 4, second experiment",
+          "quote": "Our next experiment involved black coffee heated to 190degF for the first reading and then to 184degF for a second reading."
+        }
+      ],
+      "title": "COOLING OF A CUP OF COFFEE",
+      "url": "https://web.mae.ufl.edu/uhk/COOLING-COFFEE.pdf",
+      "year": 2017
+    },
+    {
+      "authors": [
+        "João Paulo M. Ferreira"
+      ],
+      "index": 9,
+      "summary": "Ferreira 2024 Physics Education paper with cooling curves for ceramic mug, aluminum cup, glass mug with/without foil, but raw data only in figures, not tables",
+      "supporting_passages": [
+        {
+          "locator": "Page 7, Demonstration 1",
+          "quote": "Figure 3 shows the time – temperature profile for the ceramic and aluminum cups shown in figure 1, filled initially with hot water. One can see that, in opposition to the common expectation, the aluminum cup took considerably longer to reach 40 °C: 127 min vs 90 min."
+        },
+        {
+          "locator": "Page 9-10, analysis of Figure 5",
+          "quote": "From the slope of each fit, one can estimate the overall heat transfer coefficient... h = 13.7 W/(m2·K) for the aluminum and h = 16.8 W/(m2·K) for the ceramic cup."
+        }
+      ],
+      "title": "Radiation in the coffee cup",
+      "url": "https://repositorio.ucp.pt/server/api/core/bitstreams/facfcba7-6c1c-4700-92ec-4d50ef8a2565/content",
+      "year": 2024
+    },
+    {
+      "authors": [
+        "Dr. Alexander Dzyubenko"
+      ],
+      "index": 10,
+      "summary": "CSUB Physics 222 lab handout - procedure only, no experimental data published",
+      "supporting_passages": [
+        {
+          "locator": "Page 1-2, procedure",
+          "quote": "Goals of the Laboratory Exercise... we will acquire data in a controlled experiment... Measure and record the temperature every 5 seconds."
+        }
+      ],
+      "title": "\"Coffee\"-Cooling Experiment Physics 222",
+      "url": "https://www.csub.edu/~adzyubenko/phys222/Lab_Coffee.pdf",
+      "year": null
+    },
+    {
+      "authors": [
+        "Vernier Science Education"
+      ],
+      "index": 11,
+      "summary": "Vendor educational page showing graphical comparison of two cups (cream early vs late), data file download returns 403, no raw numbers on page",
+      "supporting_passages": [
+        {
+          "locator": "Link to /files/innovate/142-coffee.zip (returns 403)",
+          "quote": "Download Coffee Cooling Logger Pro file"
+        }
+      ],
+      "title": "Cooling Coffee - Vernier Science Education",
+      "url": "https://www.vernier.com/vernier-ideas/cooling-coffee/",
+      "year": 2011
+    },
+    {
+      "authors": [
+        "Wanty Widjaja"
+      ],
+      "index": 12,
+      "summary": "Widjaja 2013 MERGA conference paper describing 5 student groups collecting coffee cooling data with various cups, but no raw data tables published",
+      "supporting_passages": [
+        {
+          "locator": "Page 629, Table 1",
+          "quote": "Table 1 Factors Affecting Cooling Processes and Data Collection Methods... Group A: room temperature, types of cups, size of cups. Collect data every minute until coffee reaches around 40°C."
+        },
+        {
+          "locator": "Page 630",
+          "quote": "All five groups were able to relate the mathematical model of cooling of a cup of hot coffee to an exponential decay function."
+        }
+      ],
+      "title": "Modelling the Cooling of Coffee: Insights From a Preliminary Study in Indonesia",
+      "url": "https://files.eric.ed.gov/fulltext/ED521035.pdf",
+      "year": 2013
+    },
+    {
+      "authors": [
+        "Alberto A. Condori",
+        "Cara D. Brooks",
+        "Madeline R. Goldberg"
+      ],
+      "index": 13,
+      "summary": "Condori et al. 2026 CODEE Journal paper on parameter estimation methodology, PDF access blocked (403), has supplementary Julia code",
+      "supporting_passages": [
+        {
+          "locator": "Abstract",
+          "quote": "We begin with a paradoxical three-point problem where the standard parameter estimation formula fails because temperature data must satisfy a concavity condition reflecting Newton's Law of Cooling's exponential structure."
+        }
+      ],
+      "title": "When Three Points Aren't Enough: Parameter Estimation in Newton's Law of Cooling",
+      "url": "https://scholarship.claremont.edu/cgi/viewcontent.cgi?article=1128&context=codee",
+      "year": 2026
+    },
+    {
+      "authors": [
+        "Dunnett",
+        "et al."
+      ],
+      "index": 14,
+      "summary": "Dunnett et al. 2025 European Journal of Physics paper on residual analysis for Newton cooling model validation, PDF access blocked (403)",
+      "supporting_passages": [],
+      "title": "Using the structure of the residuals to evaluate the goodness of fit: a pedagogical case study with Newton's law of cooling",
+      "url": "https://doi.org/10.1088/1361-6404/ae0201",
+      "year": 2025
+    },
+    {
+      "authors": [
+        "Gregor Benz"
+      ],
+      "index": 15,
+      "summary": "Benz 2026 Physics Education paper on coffee cooling experiment for teaching measurement device selection, PDF access blocked (403)",
+      "supporting_passages": [],
+      "title": "When to add milk? Using a coffee cooling experiment to teach measurement device selection",
+      "url": "https://doi.org/10.1088/1361-6552/aeb84b",
+      "year": 2026
+    },
+    {
+      "authors": [
+        "Ednilton Tavares de Andrade",
+        "Renan Pereira Rezende",
+        "Flávio Meira Borém",
+        "Sttela Dellyzete Veiga Franco da Rosa",
+        "Filipe da Silva de Oliveira",
+        "Paula Almeida Rios"
+      ],
+      "index": 16,
+      "summary": "Ciência e Natura 2023 paper on CFD simulation of coffee grain storage temperature over 6 months, not cup cooling experiment",
+      "supporting_passages": [
+        {
+          "locator": "Abstract",
+          "quote": "O café foi armazenado por 6 meses em dois tipos de ambientes: ambiente refrigerado entre 15 e 18 °C por meio de equipamento de controle de temperatura do ar utilizado para resfriamento artificial e ambiente natural."
+        }
+      ],
+      "title": "Simulação numérica da distribuição de temperatura de café armazenado em ambientes resfriados e naturais",
+      "url": "https://doi.org/10.5902/2179460x74111",
+      "year": 2023
+    },
+    {
+      "authors": [
+        "Dr. Douglas A. Lapp"
+      ],
+      "index": 17,
+      "summary": "CMU lab handout using TI-Nspire and Vernier EasyTemp for coffee cooling experiment, procedure only, no data",
+      "supporting_passages": [
+        {
+          "locator": "Page 2, step 4",
+          "quote": "We are now ready to collect temperature data of a cooling liquid. Boil water and pour it into the paper coffee cup and immediately place the temperature probe into the water."
+        }
+      ],
+      "title": "The Coffee-Turkey Juxtaposition - Lab 3 Newton Cooling Calculus",
+      "url": "http://people.se.cmich.edu/lapp1da/ewexternalfiles/lab%203-newtoncooling-calculus.pdf",
+      "year": 2016
+    },
+    {
+      "authors": [
+        "stephenhky"
+      ],
+      "index": 18,
+      "summary": "GitHub repository with simulation code (Jupyter notebook), not experimental data",
+      "supporting_passages": [
+        {
+          "locator": "README.md",
+          "quote": "Simulation of the classical coffee cooling problem. Blog entry: https://datawarrior.wordpress.com/2016/07/17/coffee-cooling-a-demo-of-numerical-odes-in-python/"
+        }
+      ],
+      "title": "stephenhky/CoffeeCooling - Simulation of the classical coffee cooling problem",
+      "url": "https://github.com/stephenhky/CoffeeCooling",
+      "year": null
+    },
+    {
+      "authors": [
+        "Peter Mattia"
+      ],
+      "index": 19,
+      "summary": "Peter Mattia's simulation notebook for optimal milk addition timing, not experimental data",
+      "supporting_passages": [
+        {
+          "locator": "Cell 1, markdown",
+          "quote": "The goal of this notebook is to identify the optimal time to add milk to coffee to minimize the time for the coffee to reach an optimal temperature."
+        }
+      ],
+      "title": "coffee_cup_cooling.ipynb - Coffee and milk analysis",
+      "url": "https://github.com/petermattia/coffee-and-milk-cooling/blob/main/coffee_cup_cooling.ipynb",
+      "year": null
+    },
+    {
+      "authors": [
+        "Gareth Adenbuie"
+      ],
+      "index": 20,
+      "summary": "Gareth Adenbuie's Shiny app for simulating coffee-cream mixing scenarios, not experimental data",
+      "supporting_passages": [],
+      "title": "Coffee and Cream Problem Simulation - Shiny App",
+      "url": "https://gist.github.com/gadenbuie/9370271",
+      "year": 2014
+    },
+    {
+      "authors": [
+        "João Paulo M Ferreira"
+      ],
+      "index": 21,
+      "summary": "Ferreira 2024 Physics Education paper on cooling of liquid foods in bowls/cups, PDF access blocked (403), repository version fetched as source 9",
+      "supporting_passages": [],
+      "title": "How a soup bowl and a coffee cup cool down",
+      "url": "https://doi.org/10.1088/1361-6552/ad6ac9",
+      "year": 2024
+    },
+    {
+      "authors": [],
+      "index": 22,
+      "summary": "Journal of Physics Conference Series 2021 paper on Arduino-based Newton cooling experiment, PDF access blocked (403)",
+      "supporting_passages": [],
+      "title": "Newton's law of cooling experiment set using Arduino temperature sensor",
+      "url": "https://doi.org/10.1088/1742-6596/2145/1/012068",
+      "year": 2021
+    },
+    {
+      "authors": [
+        "Fangohr"
+      ],
+      "index": 23,
+      "summary": "DESY Python for Computational Science lab on curve fitting for cooling tea/coffee, fetch timed out",
+      "supporting_passages": [],
+      "title": "lab8 - PY4CS (DESY)",
+      "url": "https://www.desy.de/~fangohr/teaching/py4cs2026/lab8.html",
+      "year": 2026
+    }
+  ]
+}
