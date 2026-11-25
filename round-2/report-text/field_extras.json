@@ -1,0 +1,37 @@
+[
+  {
+    "extra": "Complete raw data tables in appendix or supplement",
+    "claim_kind": "reproducibility",
+    "seen_in": ["Dunnett et al. (2025)", "Cataldo et al. (2016)"],
+    "needs_during_run": "Save all raw measurement data, not just fitted parameters",
+    "delivered_in": "appendix"
+  },
+  {
+    "extra": "Multiple model comparison on same data (not just one proposed model)",
+    "claim_kind": "model evaluation",
+    "seen_in": ["Cataldo et al. (2016)", "Dunnett et al. (2025)"],
+    "needs_during_run": "Fit all candidate models to each dataset",
+    "delivered_in": "results"
+  },
+  {
+    "extra": "Explicit uncertainty analysis with propagated errors",
+    "claim_kind": "measurement rigor",
+    "seen_in": ["Cataldo et al. (2016)", "Zhao (2022)"],
+    "needs_during_run": "Compute and report parameter uncertainties",
+    "delivered_in": "methods/results"
+  },
+  {
+    "extra": "Physical interpretation of fitted parameters (not just numerical values)",
+    "claim_kind": "physical insight",
+    "seen_in": ["Cataldo et al. (2016) - energy gap", "Zhao (2022) - convective coefficients"],
+    "needs_during_run": "Map fitted parameters to physical quantities",
+    "delivered_in": "discussion"
+  },
+  {
+    "extra": "Code and analysis scripts released",
+    "claim_kind": "reproducibility",
+    "seen_in": ["Cataldo et al. (2016) - mentions LabVIEW/automation"],
+    "needs_during_run": "Version-control analysis scripts",
+    "delivered_in": "repo"
+  }
+]

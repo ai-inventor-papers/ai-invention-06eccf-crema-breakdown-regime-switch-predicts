@@ -1,0 +1,22 @@
+[
+  {"term": "Newton's law of cooling", "gloss": "Single-exponential temperature decay model dT/dt = -k(T - T_env)", "source_title": "Zhao 2022"},
+  {"term": "convective heat transfer coefficient", "gloss": "Ratio of convective heat flux to surface-to-ambient temperature difference", "source_title": "Zhao 2022"},
+  {"term": "evaporative heat loss", "gloss": "Latent heat flux from phase change at liquid surface", "source_title": "Arii 2017"},
+  {"term": "crema", "gloss": "Emulsion foam layer on espresso composed of CO2 bubbles stabilized by lipids and melanoidins", "source_title": "Arii 2017"},
+  {"term": "residual structure", "gloss": "Systematic pattern in model fit residuals indicating missing physics", "source_title": "Dunnett 2025"},
+  {"term": "regime transition", "gloss": "Change in dominant heat-loss mechanism during cooling trajectory", "source_title": "Dunnett 2025"},
+  {"term": "Bayesian information criterion", "gloss": "BIC = n ln(RSS/n) + k ln(n), penalizes model complexity", "source_title": "Zhao 2022"},
+  {"term": "out-of-sample RMSE", "gloss": "Root mean squared error on held-out test data", "source_title": "Dunnett 2025"},
+  {"term": "drinkable-temperature crossing", "gloss": "Time when coffee reaches 50 degrees Celsius plus/minus 5", "source_title": "This work"},
+  {"term": "flux-crossover model", "gloss": "Piecewise model where evaporative flux drops below convective flux at crema breakdown", "source_title": "This work"},
+  {"term": "coupled mass-energy ODE", "gloss": "Joint temperature and mass evolution with temperature-dependent evaporation", "source_title": "This work"},
+  {"term": "Bayesian change-point", "gloss": "Statistical detection of regime transition in residual structure", "source_title": "This work"},
+  {"term": "piecewise two-exponential", "gloss": "Two Newtonian regimes joined at free transition time", "source_title": "This work"},
+  {"term": "heldout fold", "gloss": "Reserved data portion not used for model fitting", "source_title": "Dunnett 2025"},
+  {"term": "survival rule", "gloss": "Pre-registered criterion requiring lowest OOS RMSE on >=80% of datasets and delta-BIC > 10", "source_title": "This work"},
+  {"term": "paired bootstrap confidence interval", "gloss": "Resampling-based CI for mean difference between paired model metrics", "source_title": "This work"},
+  {"term": "minimum detectable effect", "gloss": "Smallest effect size detectable at given power and sample size", "source_title": "This work"},
+  {"term": "crema decay time constant", "gloss": "Exponential time scale of crema thickness reduction in minutes", "source_title": "This work"},
+  {"term": "evaporation suppression factor", "gloss": "Fractional reduction in evaporative flux due to crema coverage", "source_title": "This work"},
+  {"term": "Akaike information criterion", "gloss": "AIC = n ln(RSS/n) + 2k, alternative to BIC with weaker penalty", "source_title": "Zhao 2022"}
+]

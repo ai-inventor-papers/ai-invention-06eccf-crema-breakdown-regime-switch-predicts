@@ -1,0 +1,5980 @@
+{
+ "format": "aii-domain-vocabulary/1",
+ "built": "2026-11-24T04:13:49+00:00",
+ "corpus_dir": "domain_corpus",
+ "min_papers": 4,
+ "min_words": 15000,
+ "papers": [
+  {
+   "id": "zhao2022",
+   "files": [
+    "zhao2022.txt"
+   ],
+   "url": "https://doi.org/10.1038/s41598-022-18961-8",
+   "title": "Integrity of Newton's cooling law based on thermal convection theory of heat transfer and entropy transfer",
+   "words": 2570
+  },
+  {
+   "id": "dunnett2025",
+   "files": [
+    "dunnett2025.txt"
+   ],
+   "url": "https://doi.org/10.1088/1361-6404/ae0201",
+   "title": "Using the structure of the residuals to evaluate the goodness of fit: a pedagogical case study with Newton's law of cooling",
+   "words": 1065
+  },
+  {
+   "id": "arii2017",
+   "files": [
+    "arii2017.txt"
+   ],
+   "url": "https://doi.org/10.1080/09168451.2017.1280662",
+   "title": "Espresso coffee foam delays cooling of the liquid phase",
+   "words": 0
+  },
+  {
+   "id": "revisited2009",
+   "files": [
+    "revisited2009.txt"
+   ],
+   "url": "https://doi.org/10.1088/0143-0807/30/5/014",
+   "title": "Newton's law of cooling revisited",
+   "words": 0
+  },
+  {
+   "id": "soupbowl2024",
+   "files": [
+    "soupbowl2024.txt"
+   ],
+   "url": "https://doi.org/10.1088/1361-6552/ad6ac9",
+   "title": "How a soup bowl and a coffee cup cool down",
+   "words": 0
+  }
+ ],
+ "corpus_words": 3635,
+ "sufficient": false,
+ "phrases": [
+  {
+   "phrase": "open access",
+   "count": 9,
+   "papers": [
+    "dunnett2025",
+    "zhao2022"
+   ]
+  },
+  {
+   "phrase": "surface temperature",
+   "count": 3,
+   "papers": [
+    "dunnett2025",
+    "zhao2022"
+   ]
+  }
+ ],
+ "connectives": {
+  "however": [
+   "zhao2022"
+  ],
+  "thus": [
+   "zhao2022"
+  ],
+  "hence": [
+   "zhao2022"
+  ],
+  "therefore": [
+   "zhao2022"
+  ],
+  "moreover": [],
+  "furthermore": [
+   "zhao2022"
+  ],
+  "additionally": [
+   "zhao2022"
+  ],
+  "in addition": [
+   "zhao2022"
+  ],
+  "consequently": [],
+  "conversely": [],
+  "similarly": [],
+  "likewise": [],
+  "nevertheless": [],
+  "nonetheless": [],
+  "instead": [],
+  "indeed": [],
+  "notably": [
+   "zhao2022"
+  ],
+  "specifically": [],
+  "in particular": [],
+  "for example": [
+   "zhao2022"
+  ],
+  "for instance": [
+   "zhao2022"
+  ],
+  "that is": [
+   "zhao2022"
+  ],
+  "namely": [],
+  "to this end": [],
+  "as a result": [],
+  "in turn": [],
+  "overall": [],
+  "finally": [],
+  "in contrast": [],
+  "by contrast": [],
+  "on the other hand": [],
+  "meanwhile": [],
+  "accordingly": [
+   "zhao2022"
+  ],
+  "importantly": [],
+  "interestingly": [],
+  "surprisingly": [],
+  "crucially": [],
+  "ultimately": [],
+  "essentially": [],
+  "in summary": [],
+  "in short": [],
+  "in practice": [],
+  "in other words": [],
+  "at the same time": [],
+  "subsequently": [],
+  "rather": [
+   "zhao2022"
+  ]
+ },
+ "habitual_phrases": {
+  "it is worth noting": [],
+  "it is important to note": [],
+  "plays a crucial role": [],
+  "plays a pivotal role": [],
+  "plays a vital role": [],
+  "in the realm of": [],
+  "shed light on": [],
+  "sheds light on": [],
+  "pave the way": [],
+  "paves the way": [],
+  "a testament to": [],
+  "delve into": [],
+  "a deeper understanding": [],
+  "the landscape of": [],
+  "in today's": [],
+  "rich tapestry": [],
+  "serves as a testament": [],
+  "a myriad of": [],
+  "at its core": [],
+  "underscores the importance": [],
+  "highlights the importance": [],
+  "opens new avenues": [],
+  "opens up new avenues": [],
+  "a nuanced understanding": [],
+  "the intricate interplay": [],
+  "navigate the complexities": [],
+  "in the ever-evolving": [],
+  "a holistic approach": [],
+  "key insights": []
+ },
+ "words": {
+  "a": [
+   71,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "about": [
+   4,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "above": [
+   3,
+   [
+    "zhao2022"
+   ]
+  ],
+  "abstract": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "access": [
+   11,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "accesses": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "accessibility": [
+   2,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "accessiop": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "accompanied": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "according": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "accordingly": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "across": [
+   7,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "actively": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "activities": [
+   2,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "ad": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "added": [
+   2,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "addition": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "additionally": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "addressed": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "adiabatic": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "adjacent": [
+   4,
+   [
+    "zhao2022"
+   ]
+  ],
+  "advection": [
+   15,
+   [
+    "zhao2022"
+   ]
+  ],
+  "advective": [
+   16,
+   [
+    "zhao2022"
+   ]
+  ],
+  "advertisement": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "ae": [
+   2,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "aerodynamic": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "affected": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "affiliations": [
+   3,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "after": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "air": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "al": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "alcohol": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "alerts": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "aligning": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "all": [
+   10,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "along": [
+   3,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "also": [
+   4,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "although": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "always": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "ambient": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "among": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "an": [
+   13,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "analysed": [
+   2,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "analysis": [
+   5,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "analytical": [
+   6,
+   [
+    "zhao2022"
+   ]
+  ],
+  "and": [
+   138,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "any": [
+   6,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "appendix": [
+   2,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "applications": [
+   2,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "applied": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "approach": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "approximate": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "arbitrary": [
+   4,
+   [
+    "zhao2022"
+   ]
+  ],
+  "are": [
+   25,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "area": [
+   4,
+   [
+    "zhao2022"
+   ]
+  ],
+  "arena": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "argued": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "argument": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "arm": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "article": [
+   13,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "articles": [
+   3,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "as": [
+   25,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "associated": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "association": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "assumed": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "assuming": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "asymmetric": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "at": [
+   16,
+   [
+    "zhao2022"
+   ]
+  ],
+  "author": [
+   3,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "authors": [
+   2,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "automated": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "available": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "axial": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "b": [
+   3,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "back": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "balance": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "bar": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "based": [
+   4,
+   [
+    "zhao2022"
+   ]
+  ],
+  "be": [
+   19,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "beaker": [
+   8,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "becomes": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "been": [
+   4,
+   [
+    "zhao2022"
+   ]
+  ],
+  "before": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "behalf": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "being": [
+   3,
+   [
+    "zhao2022"
+   ]
+  ],
+  "below": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "benchmark": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "best": [
+   2,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "between": [
+   11,
+   [
+    "zhao2022"
+   ]
+  ],
+  "black": [
+   3,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "blue": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "bluesky": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "bo": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "body": [
+   4,
+   [
+    "zhao2022"
+   ]
+  ],
+  "books": [
+   2,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "both": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "bottom": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "boundary": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "bring": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "broaden": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "browser": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "bulk": [
+   3,
+   [
+    "zhao2022"
+   ]
+  ],
+  "but": [
+   4,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "by": [
+   21,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "c": [
+   20,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "calculate": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "calculated": [
+   2,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "calculation": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "called": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "cambridge": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "can": [
+   13,
+   [
+    "zhao2022"
+   ]
+  ],
+  "cannot": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "capacity": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "cartesian": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "case": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "caused": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "central": [
+   2,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "change": [
+   7,
+   [
+    "zhao2022"
+   ]
+  ],
+  "changes": [
+   3,
+   [
+    "zhao2022"
+   ]
+  ],
+  "characterized": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "circular": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "circumferential": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "citation": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "citations": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "cite": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "clarified": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "clarifies": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "classroom": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "clear": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "clearly": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "closed": [
+   2,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "cm": [
+   9,
+   [
+    "zhao2022"
+   ]
+  ],
+  "code": [
+   2,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "coefficient": [
+   6,
+   [
+    "zhao2022"
+   ]
+  ],
+  "coefficients": [
+   6,
+   [
+    "zhao2022"
+   ]
+  ],
+  "cold": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "collected": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "collectionsread": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "colour": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "column": [
+   8,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "com": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "combination": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "combining": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "common": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "comparison": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "comparisons": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "compatibility": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "complete": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "completely": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "complex": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "components": [
+   5,
+   [
+    "zhao2022"
+   ]
+  ],
+  "compressibility": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "compressible": [
+   7,
+   [
+    "zhao2022"
+   ]
+  ],
+  "compression": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "con": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "concern": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "conclusion": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "condition": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "conditions": [
+   2,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "conduction": [
+   9,
+   [
+    "zhao2022"
+   ]
+  ],
+  "conductive": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "conductivity": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "conference": [
+   3,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "conferences": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "confirming": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "consider": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "considered": [
+   4,
+   [
+    "zhao2022"
+   ]
+  ],
+  "considering": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "consistent": [
+   3,
+   [
+    "zhao2022"
+   ]
+  ],
+  "consistently": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "constant": [
+   14,
+   [
+    "zhao2022"
+   ]
+  ],
+  "contact": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "container": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "containers": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "content": [
+   5,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "contentsearch": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "continued": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "continuous": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "control": [
+   8,
+   [
+    "zhao2022"
+   ]
+  ],
+  "controls": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "controversy": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "convection": [
+   17,
+   [
+    "zhao2022"
+   ]
+  ],
+  "convective": [
+   18,
+   [
+    "zhao2022"
+   ]
+  ],
+  "cookie": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "cool": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "cooled": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "cooling": [
+   11,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "coordinate": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "copyright": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "correspondence": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "corresponding": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "could": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "countries": [
+   2,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "covarying": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "created": [
+   2,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "critical": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "cross": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "cross-sectional": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "crossing": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "css": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "csv": [
+   2,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "cumulative": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "cuong": [
+   2,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "cv": [
+   9,
+   [
+    "zhao2022"
+   ]
+  ],
+  "cylindrical": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "d": [
+   16,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "dark": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "data": [
+   11,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "date": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "deducted": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "define": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "defined": [
+   4,
+   [
+    "zhao2022"
+   ]
+  ],
+  "definition": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "degenerates": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "demonstrated": [
+   4,
+   [
+    "zhao2022"
+   ]
+  ],
+  "denote": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "denotes": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "density": [
+   4,
+   [
+    "zhao2022"
+   ]
+  ],
+  "department": [
+   4,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "depend": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "dependence": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "dependent": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "depends": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "derived": [
+   5,
+   [
+    "zhao2022"
+   ]
+  ],
+  "describe": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "description": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "design": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "designates": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "detailed": [
+   2,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "determination": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "determined": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "developed": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "developing": [
+   2,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "development": [
+   2,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "difference": [
+   6,
+   [
+    "zhao2022"
+   ]
+  ],
+  "differences": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "different": [
+   4,
+   [
+    "zhao2022"
+   ]
+  ],
+  "difficult": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "difficulty": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "diffusivity": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "dimensional": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "direct": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "direction": [
+   3,
+   [
+    "zhao2022"
+   ]
+  ],
+  "directly": [
+   3,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "disclaimer": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "discover": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "displaying": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "dissipation": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "distinct": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "distinguished": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "divergence": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "doi": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "download": [
+   5,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "driven": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "driving": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "due": [
+   12,
+   [
+    "zhao2022"
+   ]
+  ],
+  "dunnett": [
+   3,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "duration": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "dynamic": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "e": [
+   11,
+   [
+    "zhao2022"
+   ]
+  ],
+  "each": [
+   3,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "education": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "either": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "elucidated": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "email": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "emphasize": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "employing": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "enclosed": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "end": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "energy": [
+   30,
+   [
+    "zhao2022"
+   ]
+  ],
+  "engages": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "engines": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "enhanced": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "ensure": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "entered": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "entering": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "enthalpy": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "entropy": [
+   20,
+   [
+    "zhao2022"
+   ]
+  ],
+  "eps": [
+   3,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "eq": [
+   6,
+   [
+    "zhao2022"
+   ]
+  ],
+  "eqs": [
+   4,
+   [
+    "zhao2022"
+   ]
+  ],
+  "equal": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "equals": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "equation": [
+   4,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "equilibrium": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "equivalent": [
+   5,
+   [
+    "zhao2022"
+   ]
+  ],
+  "estimation": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "et": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "eur": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "europe": [
+   2,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "european": [
+   6,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "evaluate": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "eventually": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "evolve": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "examine": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "example": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "examples": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "excel": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "exchange": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "exists": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "expansion": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "experience": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "experimental": [
+   2,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "experiments": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "explains": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "explore": [
+   3,
+   [
+    "zhao2022"
+   ]
+  ],
+  "explored": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "explorer": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "exposure": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "expressed": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "expressions": [
+   4,
+   [
+    "zhao2022"
+   ]
+  ],
+  "exterior": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "extremely": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "f": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "facebook": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "federation": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "feed": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "field": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "fields": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "fig": [
+   9,
+   [
+    "zhao2022"
+   ]
+  ],
+  "figure": [
+   10,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "figures": [
+   4,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "file": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "findings": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "first": [
+   5,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "fit": [
+   7,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "fits": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "flask": [
+   10,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "floor": [
+   6,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "flow": [
+   24,
+   [
+    "zhao2022"
+   ]
+  ],
+  "flowing": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "flows": [
+   10,
+   [
+    "zhao2022"
+   ]
+  ],
+  "fluctuation": [
+   3,
+   [
+    "zhao2022"
+   ]
+  ],
+  "fluctuations": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "fluid": [
+   22,
+   [
+    "zhao2022"
+   ]
+  ],
+  "flux": [
+   19,
+   [
+    "zhao2022"
+   ]
+  ],
+  "focus": [
+   2,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "following": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "follows": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "for": [
+   39,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "force": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "foregoing": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "form": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "format": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "formulae": [
+   4,
+   [
+    "zhao2022"
+   ]
+  ],
+  "fourier": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "fracture": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "framework": [
+   2,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "free": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "freeman": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "from": [
+   21,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "full": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "function": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "fundamental": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "fundamentally": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "furthermore": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "general": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "generally": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "generation": [
+   6,
+   [
+    "zhao2022"
+   ]
+  ],
+  "geosciences": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "given": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "gives": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "gnuplot": [
+   2,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "goodness": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "gradient": [
+   2,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "graphical": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "gravitation": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "gross": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "guide": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "gum": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "h": [
+   4,
+   [
+    "zhao2022"
+   ]
+  ],
+  "had": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "has": [
+   7,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "have": [
+   4,
+   [
+    "zhao2022"
+   ]
+  ],
+  "heat": [
+   64,
+   [
+    "zhao2022"
+   ]
+  ],
+  "heating": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "help": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "hence": [
+   3,
+   [
+    "zhao2022"
+   ]
+  ],
+  "here": [
+   4,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "hereafter": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "high": [
+   5,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "high-quality": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "high-resolution": [
+   3,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "higher": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "highest": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "holmqvist": [
+   2,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "home": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "hot": [
+   3,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "hottest": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "however": [
+   4,
+   [
+    "zhao2022"
+   ]
+  ],
+  "hypersonic": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "i": [
+   9,
+   [
+    "zhao2022"
+   ]
+  ],
+  "identical": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "identified": [
+   2,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "if": [
+   5,
+   [
+    "zhao2022"
+   ]
+  ],
+  "ignored": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "ii": [
+   14,
+   [
+    "zhao2022"
+   ]
+  ],
+  "iii": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "image": [
+   11,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "images": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "imagining": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "impact": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "implication": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "implications": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "implies": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "important": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "in": [
+   72,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "include": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "includes": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "including": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "incompressible": [
+   3,
+   [
+    "zhao2022"
+   ]
+  ],
+  "incorporated": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "increase": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "independent": [
+   5,
+   [
+    "zhao2022"
+   ]
+  ],
+  "indicate": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "indicates": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "individuals": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "induced": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "influence": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "infrared": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "inherently": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "initial": [
+   2,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "inlet": [
+   11,
+   [
+    "zhao2022"
+   ]
+  ],
+  "inside": [
+   5,
+   [
+    "zhao2022"
+   ]
+  ],
+  "insights": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "instance": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "instant": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "institute": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "institutions": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "insulated": [
+   4,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "integrated": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "integrating": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "integrity": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "interactions": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "internal": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "internet": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "interval": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "into": [
+   7,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "introducing": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "introduction": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "introductory": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "inverts": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "investigation": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "involved": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "iop": [
+   17,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "iopscience": [
+   5,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "ir": [
+   2,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "is": [
+   59,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "isothermal": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "isotropic": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "issues": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "it": [
+   3,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "its": [
+   9,
+   [
+    "zhao2022"
+   ]
+  ],
+  "j": [
+   4,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "january": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "javascript": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "journal": [
+   5,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "journals": [
+   6,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "just": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "k": [
+   13,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "kim": [
+   2,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "laboratory": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "laminar": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "large": [
+   2,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "last": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "latent": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "latest": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "law": [
+   9,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "laws": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "le": [
+   2,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "learned": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "leaving": [
+   3,
+   [
+    "zhao2022"
+   ]
+  ],
+  "led": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "length": [
+   3,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "less": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "let": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "light": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "like": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "limited": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "lines": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "linkedin": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "listbrowse": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "listed": [
+   3,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "lists": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "loading": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "loads": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "local": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "log": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "logging": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "login": [
+   2,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "long": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "lookup": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "ltd": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "lund": [
+   6,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "m": [
+   9,
+   [
+    "zhao2022"
+   ]
+  ],
+  "macroscopic": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "magnitude": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "magnitudes": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "main": [
+   4,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "maintained": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "maintaining": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "majority": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "make": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "makes": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "management": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "manual": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "mark": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "marked": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "mass": [
+   20,
+   [
+    "zhao2022"
+   ]
+  ],
+  "material": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "may": [
+   3,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "mean": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "means": [
+   3,
+   [
+    "zhao2022"
+   ]
+  ],
+  "meantime": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "measurement": [
+   4,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "measurements": [
+   5,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "mechanical": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "mechanism": [
+   4,
+   [
+    "zhao2022"
+   ]
+  ],
+  "medium": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "members": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "metal": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "method": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "metrics": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "min": [
+   5,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "minimum": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "mining": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "ml": [
+   3,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "mode": [
+   5,
+   [
+    "zhao2022"
+   ]
+  ],
+  "modelling": [
+   2,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "modern": [
+   3,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "modes": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "molecular": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "moment": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "more": [
+   3,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "motion": [
+   6,
+   [
+    "zhao2022"
+   ]
+  ],
+  "moved": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "movement": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "moves": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "must": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "n": [
+   3,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "national": [
+   2,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "natural": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "nature": [
+   4,
+   [
+    "zhao2022"
+   ]
+  ],
+  "neglected": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "neither": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "net": [
+   9,
+   [
+    "zhao2022"
+   ]
+  ],
+  "networks": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "new": [
+   5,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "news": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "newtonian": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "newton’s": [
+   8,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "no": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "noisy": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "non": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "non-equilibrium": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "none": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "normal": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "normalised": [
+   3,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "norway": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "not": [
+   6,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "not-for-profit": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "notably": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "note": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "notes": [
+   2,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "now": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "number": [
+   2,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "numbers": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "obtain": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "obtained": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "obtains": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "occur": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "occurs": [
+   4,
+   [
+    "zhao2022"
+   ]
+  ],
+  "of": [
+   98,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "off": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "omnipresent": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "on": [
+   17,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "one": [
+   6,
+   [
+    "zhao2022"
+   ]
+  ],
+  "only": [
+   7,
+   [
+    "zhao2022"
+   ]
+  ],
+  "open": [
+   12,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "opens": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "opposite": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "or": [
+   11,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "organisations": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "organisers": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "original": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "originally": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "oslo": [
+   2,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "other": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "others": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "our": [
+   4,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "out": [
+   4,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "outlet": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "outward": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "over": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "overbar": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "owing": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "owned": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "p": [
+   7,
+   [
+    "zhao2022"
+   ]
+  ],
+  "page": [
+   6,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "painted": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "paper": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "parameters": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "part": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "partnerspartner": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "pathways": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "pdf": [
+   3,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "pedagogical": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "peer": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "peer-reviewed": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "pending": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "per": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "performed": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "period": [
+   2,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "permeable": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "perspective": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "phase": [
+   16,
+   [
+    "zhao2022"
+   ]
+  ],
+  "phase-change": [
+   6,
+   [
+    "zhao2022"
+   ]
+  ],
+  "phenomena": [
+   3,
+   [
+    "zhao2022"
+   ]
+  ],
+  "photograph": [
+   2,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "phys": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "physical": [
+   8,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "physicists": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "physics": [
+   11,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "plain": [
+   6,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "platform": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "please": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "plots": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "plotted": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "plus": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "pointing": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "policy": [
+   5,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "polystyrene": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "porous": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "post": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "potential": [
+   3,
+   [
+    "zhao2022"
+   ]
+  ],
+  "practical": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "practice": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "present": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "pressure": [
+   6,
+   [
+    "zhao2022"
+   ]
+  ],
+  "previous": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "privacy": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "problems": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "proceedings": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "process": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "processes": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "product": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "profit": [
+   2,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "promote": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "propagated": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "properties": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "property": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "proportional": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "proposed": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "provides": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "providing": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "publications": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "publish": [
+   2,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "published": [
+   4,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "publisher": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "publishing": [
+   18,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "purpose": [
+   2,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "purpose-led": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "purposes": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "pushed": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "python": [
+   2,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "q": [
+   23,
+   [
+    "zhao2022"
+   ]
+  ],
+  "qr": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "quality": [
+   2,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "quantifies": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "quarter": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "r": [
+   4,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "radial": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "radiation": [
+   3,
+   [
+    "zhao2022"
+   ]
+  ],
+  "random": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "rarely": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "rate": [
+   20,
+   [
+    "zhao2022"
+   ]
+  ],
+  "rates": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "rather": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "ratio": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "raw": [
+   3,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "reasonable": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "reasoning": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "recast": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "recasting": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "recognition": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "recommend": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "reduce": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "reference": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "references": [
+   3,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "referred": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "refers": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "regard": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "region": [
+   3,
+   [
+    "zhao2022"
+   ]
+  ],
+  "related": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "relating": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "relation": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "relationship": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "remain": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "render": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "reported": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "reports": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "represent": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "representative": [
+   3,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "represents": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "request": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "research": [
+   7,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "reset": [
+   3,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "residual": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "residuals": [
+   6,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "resolution": [
+   3,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "respectively": [
+   10,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "resultant": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "results": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "revealed": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "revealing": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "reveals": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "reviewed": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "reviewers": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "rigid": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "rocket": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "rss": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "run": [
+   6,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "runs": [
+   7,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "s": [
+   11,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "same": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "save": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "saved": [
+   3,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "science": [
+   4,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "sciences": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "scientific": [
+   4,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "scientists": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "search": [
+   3,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "second": [
+   4,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "secondary": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "section": [
+   10,
+   [
+    "zhao2022"
+   ]
+  ],
+  "sectional": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "sections": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "see": [
+   3,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "seen": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "sensible": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "sensor": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "september": [
+   2,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "sequence": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "series": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "seriesread": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "serves": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "set": [
+   3,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "shaft": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "should": [
+   3,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "show": [
+   3,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "shown": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "sign": [
+   2,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "similar": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "since": [
+   2,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "single": [
+   10,
+   [
+    "zhao2022"
+   ]
+  ],
+  "single-phase": [
+   9,
+   [
+    "zhao2022"
+   ]
+  ],
+  "site": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "six": [
+   2,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "size": [
+   4,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "skip": [
+   4,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "so": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "societies": [
+   2,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "society": [
+   4,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "society-owned": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "some": [
+   3,
+   [
+    "zhao2022"
+   ]
+  ],
+  "soon": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "sound": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "source": [
+   3,
+   [
+    "zhao2022"
+   ]
+  ],
+  "specific": [
+   13,
+   [
+    "zhao2022"
+   ]
+  ],
+  "speed": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "spots": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "stagnation": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "standard": [
+   3,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "start": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "stationary": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "steady": [
+   5,
+   [
+    "zhao2022"
+   ]
+  ],
+  "stilts": [
+   5,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "stored": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "stream": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "strengthen": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "structure": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "structured": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "structures": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "student": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "students": [
+   2,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "studies": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "study": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "styles": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "subject": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "subjects": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "substituting": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "such": [
+   3,
+   [
+    "zhao2022"
+   ]
+  ],
+  "sum": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "summary": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "superposition": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "support": [
+   4,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "surface": [
+   23,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "surfaces": [
+   3,
+   [
+    "zhao2022"
+   ]
+  ],
+  "sweden": [
+   3,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "system": [
+   22,
+   [
+    "zhao2022"
+   ]
+  ],
+  "systems": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "t": [
+   20,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "tab": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "table": [
+   9,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "tables": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "taken": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "tc": [
+   10,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "teaching": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "technology": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "temperature": [
+   31,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "temperatures": [
+   3,
+   [
+    "zhao2022"
+   ]
+  ],
+  "term": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "terms": [
+   4,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "text": [
+   4,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "th": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "than": [
+   5,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "thank": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "that": [
+   16,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "the": [
+   247,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "then": [
+   5,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "theoretical": [
+   3,
+   [
+    "zhao2022"
+   ]
+  ],
+  "theoretically": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "theory": [
+   6,
+   [
+    "zhao2022"
+   ]
+  ],
+  "there": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "therefore": [
+   3,
+   [
+    "zhao2022"
+   ]
+  ],
+  "thermal": [
+   22,
+   [
+    "zhao2022"
+   ]
+  ],
+  "thermocouple": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "thermodynamic": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "thermodynamics": [
+   3,
+   [
+    "zhao2022"
+   ]
+  ],
+  "thermometer": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "these": [
+   5,
+   [
+    "zhao2022"
+   ]
+  ],
+  "third": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "this": [
+   11,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "threads": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "three": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "three-dimensional": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "through": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "thus": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "ties": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "time": [
+   10,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "time-mean": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "times": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "titles": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "tm": [
+   4,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "to": [
+   57,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "top": [
+   2,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "total": [
+   6,
+   [
+    "zhao2022"
+   ]
+  ],
+  "transfer": [
+   64,
+   [
+    "zhao2022"
+   ]
+  ],
+  "transferred": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "transient": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "transitions": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "transport": [
+   4,
+   [
+    "zhao2022"
+   ]
+  ],
+  "treated": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "trusted": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "tube": [
+   4,
+   [
+    "zhao2022"
+   ]
+  ],
+  "turbulent": [
+   3,
+   [
+    "zhao2022"
+   ]
+  ],
+  "turn": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "two": [
+   9,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "u": [
+   17,
+   [
+    "zhao2022"
+   ]
+  ],
+  "unambiguous": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "unambiguously": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "uncertainties": [
+   2,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "uncertainty": [
+   2,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "unclear": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "under": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "undergraduate": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "underlying": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "unified": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "uniform": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "unit": [
+   3,
+   [
+    "zhao2022"
+   ]
+  ],
+  "universal": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "university": [
+   4,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "unlike": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "unlimited": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "unpainted": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "unweighted": [
+   3,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "up": [
+   6,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "us": [
+   2,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "use": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "used": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "using": [
+   6,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "uw": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "v": [
+   5,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "validate": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "validated": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "validity": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "value": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "values": [
+   2,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "variables": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "variations": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "various": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "vector": [
+   14,
+   [
+    "zhao2022"
+   ]
+  ],
+  "vectorial": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "vectors": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "vehicles": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "velocity": [
+   8,
+   [
+    "zhao2022"
+   ]
+  ],
+  "velocity-dependent": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "version": [
+   5,
+   [
+    "zhao2022"
+   ]
+  ],
+  "very": [
+   2,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "via": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "view": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "viewed": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "viscous": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "visibility": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "visible": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "visiting": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "visual": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "volume": [
+   11,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "volumes": [
+   2,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "volumetric": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "w": [
+   3,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "wait": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "wall": [
+   6,
+   [
+    "zhao2022"
+   ]
+  ],
+  "warm": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "was": [
+   7,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "water": [
+   3,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "we": [
+   12,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "wechat": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "weibo": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "weighted": [
+   4,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "well": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "were": [
+   3,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "where": [
+   13,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "whether": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "which": [
+   6,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "while": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "white": [
+   4,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "whom": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "whose": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "will": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "with": [
+   23,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "within": [
+   5,
+   [
+    "zhao2022"
+   ]
+  ],
+  "without": [
+   4,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "work": [
+   6,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "workshop": [
+   2,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "worldwide": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "would": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "x": [
+   7,
+   [
+    "zhao2022"
+   ]
+  ],
+  "yellow": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "yet": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "yields": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "you": [
+   5,
+   [
+    "zhao2022",
+    "dunnett2025"
+   ]
+  ],
+  "youtube": [
+   1,
+   [
+    "dunnett2025"
+   ]
+  ],
+  "zero": [
+   2,
+   [
+    "zhao2022"
+   ]
+  ],
+  "zhao": [
+   1,
+   [
+    "zhao2022"
+   ]
+  ],
+  "zoom": [
+   6,
+   [
+    "dunnett2025"
+   ]
+  ]
+ },
+ "added": [],
+ "unresolved": []
+}

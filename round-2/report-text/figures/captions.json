@@ -1,0 +1,30 @@
+{
+  "fig_newton_trajectory": {
+    "title": "Newton's Law 30-minute Trajectory Error",
+    "caption": "Mean absolute temperature error of Newton's single-exponential model against observed cooling data at 5-minute intervals from 0 to 30 minutes, with 95% bootstrap confidence intervals (5000 draws, 16 split examples across 4 datasets). Error peaks at 6.02°C at 30 minutes (CI [4.61, 7.45]) with a non-monotonic pattern: 3.24°C at 5 min, 3.05°C at 10 min, 1.66°C at 15 min, 1.95°C at 20 min, 3.94°C at 25 min."
+  },
+  "fig_rmse_vs_bic": {
+    "title": "Model Trade-off: Heldout RMSE vs BIC",
+    "caption": "Scatter plot showing the trade-off between model fit (BIC, lower better) and out-of-sample prediction (RMSE, lower better) for five coffee cooling models. Newton baseline (BIC=24.3, RMSE=4.04°C) is Pareto-dominated. Piecewise two-exponential (BIC=-15.5, RMSE=2.65°C) and Flux-crossover tau=5.5 fixed (BIC=-15.2, RMSE=2.63°C) occupy the lower-left frontier. Bayesian change-point achieves lowest RMSE (1.66°C) but higher BIC (0.1). Coupled ODE (BIC=-5.2, RMSE=3.89°C) is intermediate."
+  },
+  "fig_bic": {
+    "title": "BIC by model and dataset",
+    "caption": "Bayesian Information Criterion for five cooling models across four datasets at 80% training split. Lower is better. C3 (flux-crossover) wins on 3 of 4 datasets; all multi-regime models substantially beat Newton's law (B0)."
+  },
+  "fig_rmse": {
+    "title": "Out-of-sample RMSE by model and dataset",
+    "caption": "Held-out root mean squared error for five cooling models across four datasets at 80% training split. C2 (changepoint) achieves lowest OOS RMSE on all 4 datasets; C3 is competitive on Kurzweg but worse on Manitoba and Ferreira."
+  },
+  "fig_t50": {
+    "title": "Predicted time to drinkable temperature (50°C)",
+    "caption": "Predicted crossing time for 50°C by model and dataset. All models agree within ~1-2 minutes. Observed crossing for Ferreira is 26.77 min (not shown), substantially later than any model prediction (17-18 min)."
+  },
+  "fig_eval_rmse": {
+    "title": "Heldout OOS RMSE by dataset and candidate (evaluation panel)",
+    "caption": "Held-out OOS RMSE for the 3-dataset evaluation panel. C3 achieves the lowest RMSE on 2/3 datasets (0.32-0.42°C) but fails the delta-BIC screen. B0 wins on Kurzweg (0.29°C)."
+  },
+  "fig_eval_tau": {
+    "title": "C3 in-sample OOS RMSE vs tau sweep",
+    "caption": "In-sample OOS RMSE for the flux-crossover model (C3) across tau values (3-8 min) for each dataset. RMSE decreases monotonically with tau; MLE hits the upper bound (8 min) on Ferreira and Kurzweg. Manitoba MLE at 5 min."
+  }
+}
