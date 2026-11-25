@@ -1,0 +1,22 @@
+{
+  "fig_bic": {
+    "title": "BIC by model and dataset",
+    "caption": "Bayesian Information Criterion for five cooling models across four datasets at 80% training split. Lower is better. C3 (flux-crossover) wins on 3 of 4 datasets; all multi-regime models substantially beat Newton's law (B0)."
+  },
+  "fig_rmse": {
+    "title": "Out-of-sample RMSE by model and dataset",
+    "caption": "Held-out root mean squared error for five cooling models across four datasets at 80% training split. C2 (changepoint) achieves lowest OOS RMSE on all 4 datasets; C3 is competitive on Kurzweg but worse on Manitoba and Ferreira."
+  },
+  "fig_t50": {
+    "title": "Predicted time to drinkable temperature (50°C)",
+    "caption": "Predicted crossing time for 50°C by model and dataset. All models agree within ~1-2 minutes. Observed crossing for Ferreira is 26.77 min (not shown), substantially later than any model prediction (17-18 min)."
+  },
+  "fig_eval_rmse": {
+    "title": "Heldout OOS RMSE by dataset and candidate (evaluation panel)",
+    "caption": "Held-out OOS RMSE for the 3-dataset evaluation panel. C3 achieves the lowest RMSE on 2/3 datasets (0.32-0.42°C) but fails the delta-BIC screen. B0 wins on Kurzweg (0.29°C)."
+  },
+  "fig_eval_tau": {
+    "title": "C3 in-sample OOS RMSE vs tau sweep",
+    "caption": "In-sample OOS RMSE for the flux-crossover model (C3) across tau values (3-8 min) for each dataset. RMSE decreases monotonically with tau; MLE hits the upper bound (8 min) on Ferreira and Kurzweg. Manitoba MLE at 5 min."
+  }
+}

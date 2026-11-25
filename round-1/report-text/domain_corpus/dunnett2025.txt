@@ -1,0 +1,414 @@
+Skip to content
+
+[IOP Science home](/)
+
+  * [Accessibility Help](/page/accessibility)
+  * Search
+
+Search all IOPscience contentSearch
+
+[Article Lookup](/findcontent)
+
+  * Journals
+    * [Journals list](/journalList)Browse more than 100 science journal titles
+    * [Subject collections](/page/subjects)Read the very best research published in IOP journals
+    * [Publishing partners](/journalList?type=partner#js-tab-pubpart)Partner organisations and publications
+    * [Open access](https://publishingsupport.iopscience.iop.org/open_access/)IOP Publishing open access policy guide
+    * [IOP Conference Series](/conference-series)Read open access proceedings from science conferences worldwide
+  * [Books](/booklistinfo/home)
+  * [Publishing Support](https://publishingsupport.iopscience.iop.org)
+  * Login
+    * [IOPscience login / Sign Up](https://myiopscience.iop.org/signin?origin=a0&idhub=true&return=https%3A%2F%2Fiopscience.iop.org%2Farticle%2F10.1088%2F1361-6404%2Fae0201)
+
+
+
+[European Journal of Physics](/journal/0143-0807)
+
+[The European Physical Society (EPS)](https://www.eps.org/) is a not for profit association whose members include 41 National Physical Societies in Europe, individuals from all fields of physics, and European research institutions.
+
+As a learned society, the EPS engages in activities that strengthen ties among the physicists in Europe. As a federation of National Physical Societies, the EPS studies issues of concern to all European countries relating to physics research, science policy and education.
+
+Paper • The following article is Open access
+
+# Using the structure of the residuals to evaluate the goodness of fit: a pedagogical case study with Newton’s law of cooling
+
+K Dunnett∗, Kim Cuong Le and T Holmqvist
+
+Published 24 September 2025 • © 2025 The Author(s). Published on behalf of the European Physical Society by IOP Publishing Ltd   
+[European Journal of Physics](/journal/0143-0807), [Volume 46](/volume/0143-0807/46), [Number 5](/issue/0143-0807/46/5)**Citation** K Dunnett _et al_ 2025 _Eur. J. Phys._ **46** 055104**DOI** 10.1088/1361-6404/ae0201
+
+[PDF Opens in a new tab.](/article/10.1088/1361-6404/ae0201/pdf)
+
+Authors
+
+K Dunnett
+    
+
+AFFILIATIONS
+
+Department of Geosciences, University of Oslo, Oslo, Norway
+
+Department of Physics, Lund University, Lund, Sweden
+
+EMAIL
+
+[k.dunnett@geo.uio.no](mailto:k.dunnett@geo.uio.no)
+
+## Author notes
+
+∗ Author to whom any correspondence should be addressed.
+
+[https://orcid.org/0000-0003-2486-5802](https://orcid.org/0000-0003-2486-5802)
+
+Kim Cuong Le
+    
+
+AFFILIATIONS
+
+Department of Physics, Lund University, Lund, Sweden
+
+T Holmqvist
+    
+
+AFFILIATIONS
+
+Department of Physics, Lund University, Lund, Sweden
+
+## Notes
+
+Figures
+
+Skip to each figure in the article
+
+
+
+
+Tables
+
+Skip to each table in the article
+
+
+
+
+References
+
+Citations
+
+Article data
+
+Skip to each data item in the article 
+
+
+
+
+[What is article data?](/journal/0143-0807/page/article-data)
+
+Open science
+
+## Authors
+
+K Dunnett
+    
+
+AFFILIATIONS
+
+Department of Geosciences, University of Oslo, Oslo, Norway
+
+Department of Physics, Lund University, Lund, Sweden
+
+EMAIL
+
+[k.dunnett@geo.uio.no](mailto:k.dunnett@geo.uio.no)
+
+## Author notes
+
+∗ Author to whom any correspondence should be addressed.
+
+[https://orcid.org/0000-0003-2486-5802](https://orcid.org/0000-0003-2486-5802)
+
+Kim Cuong Le
+    
+
+AFFILIATIONS
+
+Department of Physics, Lund University, Lund, Sweden
+
+T Holmqvist
+    
+
+AFFILIATIONS
+
+Department of Physics, Lund University, Lund, Sweden
+
+## Notes
+
+## Article metrics
+
+**708** Total downloads  
+**0** Video abstract views
+
+## Share this article
+
+  * [](mailto:?subject=Using the structure of the residuals to evaluate the goodness of fit: a pedagogical case study with Newton’s law of cooling&body=Using the structure of the residuals to evaluate the goodness of fit: a pedagogical case study with Newton’s law of cooling - https://doi.org/10.1088/1361-6404/ae0201)
+  * [](https://www.linkedin.com/sharing/share-offsite/?url=https%3A%2F%2Fiopscience.iop.org%2Farticle%2F10.1088%2F1361-6404%2Fae0201)
+  * [](https://www.facebook.com/sharer.php?u=https%3A%2F%2Fdoi.org%2F10.1088%2F1361-6404%2Fae0201)
+  * [](https://x.com/share?url=https%3A%2F%2Fdoi.org%2F10.1088%2F1361-6404%2Fae0201&text=Using+the+structure+of+the+residuals+to+evaluate+the+goodness+of+fit%3A+a+pedagogical+case+study+with+Newton%E2%80%99s+law+of+cooling&via=EducatePhysics)
+  * [](https://www.mendeley.com/import/?doi=10.1088%2F1361-6404%2Fae0201)
+  * [](https://bsky.app/intent/compose?text=Using+the+structure+of+the+residuals+to+evaluate+the+goodness+of+fit%3A+a+pedagogical+case+study+with+Newton%E2%80%99s+law+of+cooling%0Ahttps%3A%2F%2Fdoi.org%2F10.1088%2F1361-6404%2Fae0201%0Avia+%40ioppublishing.bsky.social)
+
+
+
+## Article information
+
+## Dates
+
+  1. Received 4 June 2025 
+  2. Revised 8 August 2025 
+  3. Accepted 1 September 2025 
+  4. Published 24 September 2025 
+
+
+
+[](https://crossmark.crossref.org/dialog/?doi=10.1088/1361-6404/ae0201&domain=pdf)
+
+[Buy this article in print](https://pod-iopscience.org?doi=10.1088/1361-6404/ae0201&UTCDate=31082026_100810)
+
+[Journal RSS](/journal/rss/0143-0807)
+
+[ Sign up for new issue notifications ](https://myiopscience.iop.org/signin?origin=a0&idhub=true&return=https%3A%2F%2Fiopscience.iop.org%2Fmyiopscience%2Falerts%2Fsubscribe%3Fjournal%3D0143-0807)
+
+0143-0807/46/5/055104
+
+## Abstract
+
+Introductions to data analysis in university physics often focus on fitting (typically to linearised functions) and uncertainty propagation, but residuals are less commonly introduced. Structured residuals indicate that the function (theoretical description) used to fit data does not capture all the relevant elements (i.e. the theoretical description is incomplete), and can be present even when the fit line is within the error bars of all data points. Residuals are therefore resilient to strategies such as forcing numerical agreement between data and theory (fit) through increasing uncertainty estimates. In this paper, we argue that introducing residuals alongside fitting could be an effective strategy for encouraging critical scientific thinking, particularly about trusting and understanding one’s data, and a useful tool for identifying—and realising—laboratory tasks that students can develop into genuine investigations. We illustrate this with a simple experiment of cooling water where the structured residuals of the fitted temperature data clearly indicate that the theoretical description (Newton’s Law of Cooling) is insufficient. This demonstrates the overlooked potential for residuals to be introduced as one of the earliest elements of data analysis.
+
+Export citation and abstract[BibTeX](/export?type=article&doi=10.1088/1361-6404/ae0201&exportFormat=iopexport_bib&exportType=abs&navsubmit=Export+abstract)[RIS](/export?type=article&doi=10.1088/1361-6404/ae0201&exportFormat=iopexport_ris&exportType=abs&navsubmit=Export+abstract)
+
+[**Previous** article in issue](/article/10.1088/1361-6404/adfbb1)
+
+[**Next** article in issue](/article/10.1088/1361-6404/adedd7)
+
+Original content from this work may be used under the terms of the [Creative Commons Attribution 4.0 licence](https://creativecommons.org/licenses/by/4.0/). Any further distribution of this work must maintain attribution to the author(s) and the title of the work, journal citation and DOI.
+
+## 1\. Introduction
+
+Many students taking introductory physics courses hold ‘model confirmation’ beliefs about the purpose of physics experiments [1–3], and will even reframe activities to this purpose [1, 4]. When faced with data that does not fit with the theoretical model provided with a data collection task (‘experiment’), they may engage in a range of ‘questionable research practices’ [1]. These can include ignoring or dismissing data that are not consistent with the model being used [1, 4, 5], uncritical satisfaction with unweighted linear fits on the basis of a ‘goodness of fit measure’ [4], and forcing data to fit a model by increasing the uncertainty estimates rather than concluding that the model is insufficient, for example if the difference between the measured result and model is greater than three standard deviations (3 _σ_) [1]. In this paper, we suggest that introducing residuals as one of the first methods of data analysis may be profitable for supporting students’ development of scientific scepticism and shifting focus away from achieving quantitative agreement. We illustrate this through a simple experiment in which structured residuals indicate the insufficiency of the theoretical description used, and report on a workshop using this experiment to introduce first year undergraduate students to residuals.
+
+## 2\. Residuals as a method to evaluate a fit
+
+Two common ways of evaluating whether data is well-fitted by a particular model are to consider whether the data points are close to—or far from—the model value (e.g. [1]), or how close the fit correlation coefficient is to 1 (e.g. [4]). However, these are not the only ways of evaluating whether a fit to data is ‘good’, and Ref. [6] specifies six criteria that a ‘good’ fit should satisfy. Five of these are numerical evaluations of quantities calculated from the data and the fit, the sixth (fourth in the list on page 111 of Ref. [6]) is that a visual inspection of the residuals shows no structure, a qualitative evaluation of the fit.
+
+For a linear fit _f_(_x_) and data (_y_ _i_ ,  _x_ _i_), raw (non-normalised) residuals are calculated for each data point as: 
+
+Normalised residuals are obtained by dividing the raw residual by the associated (propagated) uncertainty _α_ _i_ :  (see Ref. [6] for details on how to propagate uncertainties). Normalised residuals are highly appropriate in contexts where uncertainties are explicitly propagated (e.g. many introductory laboratory courses in the UK). Importantly, only the size of normalised residuals will be affected by increased uncertainty estimations (one strategy some students use to ensure that data matches theoretical descriptions [1]); any structure of the residuals will continue to be visible.
+
+If the theoretical model is accurate and appropriately specified, both raw and normalised residuals should be unstructured, meaning they should exhibit no systematic patterns. More precisely, unstructured residuals are randomly distributed around zero, and a histogram of the normalised residuals has a Gaussian distribution centred on zero and with a standard deviation of 1 [6]. Structured residuals, meanwhile, are those that one might be inclined to describe in functional form _R_(_x_), and typically indicate that the model is insufficient [6].
+
+‘Normal’ systematic errors that affect (constant) fitting parameters (e.g. through changed intercepts or gradients), will not result in structured residuals. That said, structured residuals could originate from beyond the system of interest, for example if the system is affected by environmental conditions that vary with time and introduce a time-varying systematic error. Nonlinear systematic errors in the equipment could also result in structured residuals, but these very specific variations are likely to be rare. Thus, residuals are not _a priori_ a tool for identifying systematic errors.
+
+The example introduced here was developed for a context that does not teach uncertainty analysis, and any evaluation requiring the propagation of uncertainties was therefore inappropriate. However, the students do linearise data and perform unweighted linear fits, and clearly had the mathematical background for calculating non-normalised (raw) residuals (i.e. equation (1)).
+
+## 3\. Newton’s law of cooling
+
+The example experiment conducted and analysed below is one commonly used to illustrate Newton’s law of cooling (NLC). NLC states that the rate of cooling for an object in air is proportional to the difference between the temperature of the object and the temperature of the surrounding air. Mathematically, this can be written as: 
+
+where  is the cooling rate, _t_ is the time, _T_ s is the temperature of the surroundings, _T_ is the temperature of the object, and _κ_ is the heat transfer coefficient, a constant that depends on the exact cooling conditions (e.g. sample material and geometry, surrounding temperature and air flow) [7]. NLC is a phenomenological description and does not distinguish between different heat transfer methods; moreover, the focus of this paper is on the use of residuals in physics teaching, not on energy transfer.
+
+The solution is a simple exponential, with a constant offset _T_(_t_) =  _T_ s \+ (_T_ 0 −  _T_ s)e− _κt_ , where _T_ 0 is the object’s temperature at _t_ = 0. The coefficient _κ_ can be obtained from experimental measurements, most simply as the gradient of the linear fit (equation _f_(_t_) = − _κt_ \+  _c_) to linearised data. To do so, one rearranges _T_(_t_) and takes the natural logarithm to obtain ( for later convenience): 
+
+The logarithm is plotted as the _y_ -values and the corresponding times as the _x_ -values; _κ_ is thus the gradient of the linear fit. Performing a weighted fit requires that any uncertainties (on the temperatures) are also propagated, which can be done algebraically, with two possible forms since . The propagated uncertainties have slightly different values depending on the starting form, with those calculated from the  form of equation (3) slightly larger than those obtained when the propagation starts from the  form (which also results in a more complicated expression for the propagated uncertainties). Starting from equation (3) one can follow Ref. [6] and derive the equation for propagating the uncertainty  on a temperature measurement _T_ _i_ as: 
+
+In this, _T_(_t_) has been replaced by _T_ _i_ since the calculation is performed for each temperature measurement taken. _T_ s is assumed constant, with corresponding uncertainty, though variable _T_ s through a run, leading to a _T_ s,_i_ corresponding to each _T_ _i_ is entirely possible; each run has a single _T_ 0.
+
+One commonly used experimental set up for ‘demonstrating’ NLC is a volume (e.g. beaker, flask) of hot water cooling in a room. Temperature measurements over a period of time can be made with variously sophisticated sensors [8, 9], but the most basic set up uses an alcohol thermometer (range to c. 120 °C) placed in the water, with pairs of temperatures and times (_T_ _i_ ,  _t_ _i_) recorded manually.
+
+## 4\. Residual surprises
+
+Two volumes of water were cooled with manual recording of data (time when centigrade mark was passed on an alcohol thermometer). The first (unpainted metal flask with minimum contact with solid surfaces, paying attention to the description of NLC as in contact with air) showed no deviation from the expected linear fit, with unstructured residuals (figure 1); the second (a coffee-cooling set up of an open beaker on a table), previously encountered in a two-stage (3 + 12 minutes) form [10], from which no particular expectation of deviation from the linear fit had been formed, showed distinctly structured residuals, plotted in figure 2. The residuals decrease monotonically from a positive value at early times (high temperatures), reach a minimum (negative) value at around 12 minutes, and then increase monotonically through to the end of the run. The rate at which the residuals change is clearly different for the decreasing and increasing parts of the run, and a visual inspection suggests that the structure within the two parts may have different forms (e.g. linear in one part and quadratic in the other). However, the details are not relevant for evaluating the goodness of the initial linear fit: what is shown unambiguously in figure 2(d) is that, despite the apparent good fit of figures 2(b) and (c), the residuals are structured; the fit—and theoretical description of equation (3)—is not a good one.
+
+Zoom In Zoom Out Reset image size 
+
+**Figure 1.** Data from run 1: Cooling unpainted metal flask of water with unstructured residuals. (a) Raw temperature versus time; (b) linearised according to equation (3), with unweighted fit; (c) as (b) but with uncertainties propagated according to equation (4); (d) raw residuals to unweighted fit calculated according to equation (1).
+
+Download figure:
+
+[Standard image ](https://content.cld.iop.org/journals/0143-0807/46/5/055104/revision1/ejpae0201f1_lr.jpg)[High-resolution image ](https://content.cld.iop.org/journals/0143-0807/46/5/055104/revision1/ejpae0201f1_hr.jpg)
+
+Zoom In Zoom Out Reset image size 
+
+**Figure 2.** Data from run 2: Cooling beaker of water with structured residuals. (a) Raw temperature versus time; (b) linearised according to equation (3), with unweighted fit; (c) as (b) but with uncertainties propagated according to equation (4); (d) raw residuals to unweighted fit calculated according to equation (1).
+
+Download figure:
+
+[Standard image ](https://content.cld.iop.org/journals/0143-0807/46/5/055104/revision1/ejpae0201f2_lr.jpg)[High-resolution image ](https://content.cld.iop.org/journals/0143-0807/46/5/055104/revision1/ejpae0201f2_hr.jpg)
+
+After being surprised by figure 2, the first step was to check its reproducibility and rule out the possibilities that this was an effect of the data collection method (suspended alcohol thermometer and recording the time a degree mark was passed), or an effect of the differences, other than the container used, between the two runs. NLC specifies that the object is surrounded by air, a condition that was met in the initial run (leading to figure 1), but broken in the second run where the beaker was placed directly on a table (leading to figure 2). A third run with the beaker elevated reproduced the structure in the residuals, confirming that the structured residuals are not due to the contact of the base of the beaker with a solid surface (later runs showed that it is independent of the surface material). This also indicated that it was not a measurement error associated with parallax, particularly since the temperature at which the residual reached a minimum (most negative) was the same as in the table-top run. Subsequent runs were therefore performed with the base of the container on the table top or floor, a more stable set up.
+
+A series of much longer runs with automated data recording using a Vernier data logger (Labquest 2) with a K-type thermocouple (for details of the analysis procedure, and a complete list of, and data from, all runs, see the Appendix) confirmed that the structured residuals appear for a range of volumes and different types of container. This included reducing and increasing emissivity and thereby radiative contributions to heat (energy) loss, through e.g. insulated and painted containers. In all runs, the sensor tip was approximately centred in the water volume (in the flasks, it could not be seen), and the water was never stirred. A long run for the unpainted can was also performed, the data from which indicate that the apparently unstructured residuals initially observed (figure 1) may be a feature of the limited length of the run. In the longer second and third runs, the minimum in the residuals occurred at 48 °C (95 and 90 minutes after the start of the run), while the initial run lasted just 55 minutes with a final temperature of 60 °C, and therefore finished before the structure in the residuals could become apparent. As well as demonstrating the robustness of the structured residuals, the following observations were made:
+
+  * All linear fits with error bars would be accepted on the basis of ‘two thirds of data points within one standard error of the fit’ [6], although there are clear regions where the data points are consistently above or below the fit line;
+  * The normalised residuals of the weighted fit have the same structure as the unnormalised residuals: increasing uncertainty estimates will not remove the feature;
+  * Deviation from NLC might be expected in the early part of the runs where (_T_ −  _T_ s) >  _T_ s °C, since NLC specifies small differences between the temperature of the object and its surroundings;
+  * The radiative contribution can be decreased through insulated (polystyrene) beakers, or increased with a black or white painted can, with a correspondingly change in the initial cooling rate (see also infrared (IR) images in the Appendix, figure A3);
+  * Most runs were conducted in an open-topped container, and the volume of water at the end of the run was typically 90%–95% of the initial volume;
+  * Other criteria for a ‘good fit’ in Ref. [6] are also not satisfied.
+
+
+
+These observations show that the structured residuals are resilient to potential manipulation of uncertainty estimates, and that this experiment also contains viable avenues for independent student investigations. Other potential lines of investigation not carried out so thoroughly, and which require additional analysis and potentially significant computational efforts, include examining the residuals on each side of the minimum point, or, for example, incorporate the radiative contribution into the theoretical description [11].
+
+## 5\. Example implementation
+
+In spring 2025, we used the experiment as part of a two hour workshop introducing first year undergraduate students to residuals. The students were in their second term of an undergraduate programme in physics, and the workshop was incorporated into their thermodynamics course. The first term of their degree had been in mathematics and students had good mathematical skills; most students were also comfortable performing a range of fits in Python. In this workshop, we did not introduce the linearised form of NLC, instead students calculated an exponential fit directly, using functions available in Excel or Python as they preferred.
+
+The workshop was two 45 minute teaching sessions. The first session introduced NLC as a description of the rate of cooling (equation (2)), and students then collected temperature data for a cooling volume of water. There were 42 students in the class, and seven set ups, so students collected data in groups of c. 6. Each group was provided with a container and a K-type thermocouple connected to a multimeter set to work as a thermometer. The groups had different containers, e.g. glass beakers, metal beakers, polystyrene beakers with and without a lid, and each received c. 200 ml of hot water (c. 85 °C). Temperature measurements of the surrounding room were taken by each group before hot water was distributed, with typical values between 20 °C and 23 °C. Students took a temperature reading once a minute with a run duration of 30 minutes, which required two or three students; in most groups, the majority of students recorded all the temperature measurements. The first part of the session closed with a comparison of the final water temperatures; depending on the container these were between c. 45 °C and 65 °C.
+
+The second half of the workshop opened with an introduction to residuals and their calculation. Students then performed the exponential fit to the data and calculated the residuals. In this part, students could work in smaller groups if they wished, but several groups continued to work in the larger groups, while others had considerable dialogue between subgroups. For many groups, that the residuals would be structured was clear from the fitted data (see e.g. figure 2(b) for a linearised equivalent), however, for the closed polystyrene beaker, a visual inspection of the fit gave no particular suggestion that the residuals would be structured, though they were on calculation (see the Appendix (run 7) where the magnitude of the residuals is very small, but still structured). In contrast to the data presented here, the residuals calculated by students showed a range of patterns, from apparently linear with a few very high-valued outliers, to a ‘w’ shape with noisy outer arms and a clear rounded upwards centre, and a vaguely sinusoidal structure. Since the purpose of the workshop was to introduce the concept of residuals, such variation is not considered important from a pedagogical perspective. The observation of the differences in the residual shape distributions sparked students’ curiosity and critical thinking; they questioned, anticipated, and engaged in discussions within their groups and with the teachers about the reasons behind the residual behaviour. ‘Exit tickets’ were collected from students at the end of the session asking what went well, what could be improved and what they learnt or would take with them from the session.
+
+While the large group size (c. 6 students) may be viewed as sub-optimal, it did not cause any particular problems, and the majority of students were ‘on topic’ for the entire data collection phase. Moreover, several student feedback comments suggest that such large groups may be valuable for both student learning and socialisation. Although an exponential fit was used because there is an existing theoretical description, a linear fit to the raw data also demonstrates how residuals will indicate whether a proposed fit (model) is (in)sufficient. A linear fit can be used with any example with a monotonic trend and may be useful in large classes where performing a more sophisticated fit may not be possible for all students in a limited time, and can also be used if some students struggle with the fit (the point is to illustrate the information one can gain from residuals).
+
+## 6\. Discussion and future work
+
+Above, we have described how the the simplicity of the measurement task can be leveraged in a workshop format where students are given few instructions. Here the activity simply introduced students to the concept of residuals and the information one may obtain from their analysis. While it may be considered desirable to introduce more accurate models, this may not be practical due to the mathematical complexity of the models then required [7, 11–15]. Moreover, modelling returns the emphasis to numerical agreement with a theoretical description. Extended models will probably require numerical modelling [11], which will only be appropriate if all students have a good level of programming.
+
+Using the residuals to review the ‘goodness of fit’, on the initial assumption of NLC, offers many opportunities to discuss the physics of cooling, and the nature of physics models encoded in mathematical descriptions. The presence of structured residuals can form the starting point for student investigations. Differences in the _T_ 4 radiative contribution at high temperatures [7, 11, 15, 16] for different containers can be visualised through IR imaging (see figure A3 of the Appendix; note, this gives the surface temperature while the values reported here are from the approximate centre of the volume of water), and the differences are especially clear if one uses unpainted and painted (black or white) metal flasks (see Appendix for an example image). Another area that can be investigated is the decrease in volume (due to evaporation) during the run. This can lead to the discussion of the distribution of molecular energies in a liquid (statistical physics) and evaporation below the boiling point (e.g., why puddles evaporate).
+
+Further empirical lines of investigation not pursued here include: changing heat loss and in-liquid transfer conditions through, e.g. placing insulation under or around the beaker, varying surface area to volume ratio (especially the top surface from which evaporation can occur), or periodic or continuous stirring [17]. The cooling behaviour of other liquids could also be investigated [17], but a layer of oil [12] or whipped cream [18] may significantly reduce evaporation, thus removing this contribution to heat loss. The closed styrofoam container reduced evaporation while all other runs were in open containers; however, the flasks, with their narrow tops, could also be closed through creating a styrofoam plug through which the thermometer or tlhermocouple is inserted.
+
+This investigation with its disagreement with the theoretical description also has the potential to be used as part of a structured introduction to experimental physics. Perhaps the most obvious are the importance of checking reproducibility and different conditions, and trusting one’s data. In addition, the decrease in volume was not recognised immediately, and the experiment can provide an opportunity for students to realise, on the basis of their own observations, the importance of keeping track of background conditions as well as the independent and dependent variables one will plot. Another important experimental habit that students can be supported to develop through encountering structured residuals is the importance of understanding the equipment used. For example, it was found that the two alcohol thermometers used to measure _T_(_t_) and _T_ s had a 2 °C difference at 20 °C, so there was potential for mis-calibration; strangely enough, they agreed at approximately 80 °C. Moreover, the uncertainty on the K-type thermocouple measurements is ±2.2 °C, as provided in documentation, which is larger than one would estimate the uncertainty of reading an alcohol thermometer by eye, and much less than the ±1 on the last digit of a digital display often assumed and taught in introductions to data analysis [6], but consistent with the 2 °C difference between thermometer measurements. In considering the thermocouple uncertainty and equilibration times, one comes to understand that the ‘noisy’ data as one approaches room temperature is partly because _αT_ ≈ 0.1 _T_ °C.
+
+## 7\. Conclusions
+
+Structured residuals are a robust feature of a simple NLC experiment that may be carried out in an undergraduate laboratory, though previous papers with a pedagogical focus, often describing a particular classroom set up or method, usually conclude that the linear fit is sufficient [8, 9, 19, 20]. However, a visual examination of the data plotted in these papers reveals that the marked, systematic high temperature deviation from the linear fit seen here is also present [8, 9, 19, 20]. This paper has explored how using residuals to evaluate the goodness of fit for this experiment provides an unambiguous indication that the theoretical description of NLC is insufficient. This can then provide opportunities for students to perform genuine investigations and explore other aspects important for physics experiments, perhaps with smaller groups contributing to a whole class effort [21].
+
+Compared to quantitative-based inquiry activities with a clear ‘correct’ answer to experimental inconsistencies (e.g. [4, 22]), there is no specific correct answer here beyond not ignoring the structured residuals. In addition, calculating non-normalised residuals of the unweighted linear fit is mathematically much simpler than propagating uncertainties, and the insufficiency of the theoretical model used quite clear. Recovering model confirmation through increasing uncertainty estimates [1, 4] is written out of the analysis, but is also an unviable strategy since the residuals retain their structure when normalised (see the Appendix). The presence of structured residuals can often be seen directly in the fitted data, emphasising the importance of a careful examination of raw data.
+
+Other experiments clearly have a similar potential for illustrating the use of residuals for evaluating the sufficiency of models (theoretical descriptions), or as part of introduction to data analysis. For example, a visual inspection of data fitted with linear fits indicates that there may also be structured residuals in measurements of the speed of light using a set up recently proposed for undergraduate classes—figure 6(b) of [23], with discontinuities every doubling of the laser modulation frequency (i.e. every period of the sinusoidal data that is linearised through taking the inverse cosine, and the jumps reflect where  requires that one changes the sign of the uncertainty _αF_). Another example where residuals are clearly structured (but quite possibly resolved by using a two-part fit) is in the analysis of the motion of a thrown beach ball where the data points lie above or below a single straight line fit depending on the ball’s direction of travel [4].
+
+## Ethics approval:
+
+The work reported in this paper required no ethical approval. Student feedback data was collected anonymously and contains no personal information; students were also informed that the data would be used in publication.
+
+## Conflicts of interest:
+
+The authors have no competing interests to declare.
+
+## Data availability statement
+
+All data that support the findings of this study are included within the article (and any supplementary files).
+
+## Appendix: 
+
+The data collected in the detailed investigation reported here, confirming the consistently structured residuals, the analysis was more involved than used in the student workshop. Data was stored in .csv format with the first column the time since the start of the run and the second the temperature. Analysis was performed using Python, and plots created using gnuplot (code available on reasonable request). The air temperature (before hot water added) and the initial (highest) temperature, were identified, uncertainties propagated, weighted and unweighted fits and raw and normalised residuals calculated. The analysed data was then saved into a new .csv file, figures 1 and 2 of the main text, and figures A1 and A2 here were then created using gnuplot. In the workshop, students could work directly with lists of data entered directly into Excel or Python.
+
+Zoom In Zoom Out Reset image size 
+
+**Figure A1.** Raw (column A) and analysed (column B) data and uncertainties (calculated using equation (4) of the main text), from the first six runs listed in table A1, along with raw residuals (equation (1) of the main text) from the unweighted fit (column C) and normalised residuals from the weighted fit (column D). In the second column (column B), the two fit lines are: uw = unweighted fit; _w_ = weighted fit.
+
+Download figure:
+
+[Standard image ](https://content.cld.iop.org/journals/0143-0807/46/5/055104/revision1/ejpae0201f3_lr.jpg)[High-resolution image ](https://content.cld.iop.org/journals/0143-0807/46/5/055104/revision1/ejpae0201f3_hr.jpg)
+
+Zoom In Zoom Out Reset image size 
+
+**Figure A2.** As figure A1 but for the last six runs listed in table A1.
+
+Download figure:
+
+[Standard image ](https://content.cld.iop.org/journals/0143-0807/46/5/055104/revision1/ejpae0201f4_lr.jpg)[High-resolution image ](https://content.cld.iop.org/journals/0143-0807/46/5/055104/revision1/ejpae0201f4_hr.jpg)
+
+Zoom In Zoom Out Reset image size 
+
+**Figure A3.** Top: Infrared (IR) photograph of representative conditions for the majority of the examples, taken soon after hot water was added to all containers. The colour bar in the IR image runs from 17.8 °C to 76.3 °C with dark blue cool and yellow–white hot. The two circular spots mark the white flask as ‘hottest’ with a surface temperature of 77.8 °C, and that the black flask has a surface temperature of 74.5 °C. Bottom: corresponding visible light photograph. The numbers below each set up indicate which of the runs listed in table A1 it is representative of. The volumes marked with * in table A1 are from this set of volumes. Runs 1 and 12 (plain flask on stilts) are the combination of run 9 (the plain flask), with the set up of run 3 (beaker on stilts); run 4 is identical to 2 and 5 but with less water.
+
+Download figure:
+
+[Standard image ](https://content.cld.iop.org/journals/0143-0807/46/5/055104/revision1/ejpae0201f5_lr.jpg)[High-resolution image ](https://content.cld.iop.org/journals/0143-0807/46/5/055104/revision1/ejpae0201f5_hr.jpg)
+
+**Table A1.** Summary of all runs. The data from the first two runs are plotted in figures 1 and 2 respectively. ‘Insulated’ is a large polystyrene beaker; the ‘flask’ material is metal, either painted (black, white) or unpainted (plain); see figure A3 for representative images. The uncertainty on the volume measurement, _αV_ is 10 ml ∀ _V_.
+
+Run| container| on| sensor| length /min|  _T_ 0 /°C|  _T_ _f_ /°C|  _T_ s /°C|  _V_ 0 /ml|  _V_ end /ml|  /°C|  /min  
+---|---|---|---|---|---|---|---|---|---|---|---  
+1| plain flask| stilts| TM| 55| 85| 60| 21.5| 405| 380| n/a| n/a  
+2| beaker| table| TM| 23| 85| 50| 22| ?| 175| 65| 10  
+3| beaker| stilts| TM| 30| 84| 44| 21.5| ?| 170| 64| 10  
+4| beaker| table| TC| 90| 88.5| 21.0| 16.4| ?| 145| 45| 30  
+5| beaker| table| TC| 198| 86.8| 17.3| 16.0| ?, 300*| 270, 275*| 46| 45  
+6| large beaker| floor| TC| 257| 83.9| 18.1| 14.7| ?, 960*| 890, 855*| 50| 50  
+7| closed insulated| floor| TC| 300| 87.0| 37.5| 15.5| 400| 390, 385*| 65| 150**  
+8| open insulated| floor| TC| 300| 90.6| 19.8| 14.7| 400| 360, 355*| 46| 80  
+9| plain flask| floor| TC| 299| 89.8| 19.4| 15.1| 405| 390*| 48| 95  
+10| white flask| floor| TC| 299| 82.6| 19.4| 17.2| 405| 390*| 40| 65  
+11| black flask| floor| TC| 300| 85.5| 18.1| 16.0| 405| 380, 390*| 40| 50  
+12| plain flask| stilts| TC| 338| 88.1| 20.2| 15.2| 405| 385| 48| 90  
+  
+TM = manual measurements with alcohol thermometer; TC = automated data logging with thermocouple; _V_ with *are reference values from a 306 min cooling period without temperature measurements; length = run duration/length (5th column); _T_(min(_r_)) = approximate temperature of minimum normalised residual with weighted fit (visual estimation, focus on where gradient inverts). **The data from the closed insulated beaker was very noisy; residuals had values −0.3 ≲ _r_ ≲ 0.1 for the central third of the measurement period 100 ≲ _t_(min) ≲ 200.
+
+## Show References
+
+Please wait… references are loading.
+
+
+Back to top
+
+10.1088/1361-6404/ae0201
+
+## You may also like
+
+### Journal articles
+
+  * [The Modelling Framework for Experimental Physics: description, development, and applications](/article/10.1088/1361-6404/aae3ce)
+  * [Undergraduate students’ reasoning about the quality of experimental measurements of covarying secondary data](/article/10.1088/1361-6404/abfd27)
+  * [An integrated sequence of laboratory activities to promote modelling and graphical analysis in introductory physics](/article/10.1088/1361-6552/ae5eb6)
+  * [Teaching measurement uncertainty in physics: aligning classroom practice with the modern GUM framework](/article/10.1088/1361-6552/ae3935)
+  * [Introducing practical work post-16](/article/10.1088/0031-9120/33/6/013)
+
+
+
+## IOPscience
+
+  * [Journals](/journalList)
+  * [Books](/booklistinfo/home)
+  * [IOP Conference Series](/conference-series)
+  * [About IOPscience](/page/aboutiopscience)
+  * [Contact Us](https://ioppublishing.org/about-us/contact-us/)
+  * [Developing countries access](/info/page/developing-countries-access)
+  * [IOP Publishing open access policy](https://publishingsupport.iopscience.iop.org/open_access/)
+  * [Accessibility](/page/accessibility)
+
+
+
+## IOP Publishing
+
+  * [Copyright 2024 IOP Publishing](https://ioppublishing.org/legal/copyright/)
+  * [Terms and Conditions](/page/terms)
+  * [Disclaimer](/page/disclaimer)
+  * [Privacy and Cookie Policy](https://ioppublishing.org/legal/privacy-cookies-policy/)
+  * [Text and Data mining policy](https://ioppublishing.org/legal/textanddataminingpolicy/)
+
+
+
+## Publishing Support
+
+  * [Authors](https://publishingsupport.iopscience.iop.org/)
+  * [Reviewers](https://publishingsupport.iopscience.iop.org/publishing-support/reviewers/)
+  * [Conference Organisers](https://publishingsupport.iopscience.iop.org/publishing-support/organisers/)
+
+
+
+## About IOP Publishing
+
+IOP Publishing, the publishing arm of the Institute of Physics, is a purpose-led, not-for-profit, society-owned scientific publisher. We publish high-quality, trusted, peer-reviewed research in over 100 scientific journals on our IOPscience platform, providing visibility, recognition, and impact for work across the physical sciences. 
+
+[](https://ioppublishing.org/)
+
+  * [IOP Publishing Facebook page](https://www.facebook.com/ioppublishing/)
+  * [IOP Publishing LinkedIn page](https://www.linkedin.com/company/iop-publishing/)
+  * [IOP Publishing Youtube page](https://www.youtube.com/channel/UC6sGrQTcmY8NpmfGEfRqRrg)
+  * [IOP Publishing WeChat QR code](https://ioppublishing.org/wp-content/uploads/2020/11/WeChat-QR-Code.png)
+  * [IOP Publishing Weibo page](https://www.weibo.com/u/2931886367)
+  * [IOP Publishing Bluesky page](https://bsky.app/profile/ioppublishing.bsky.social)
+  * [IOP Publishing Threads page](https://www.threads.com/@iop.publishing)
+
+

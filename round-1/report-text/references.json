@@ -1,0 +1,26 @@
+{
+  "Dunnett2025": {
+    "source": "semantic_scholar",
+    "title": "Using the structure of the residuals to evaluate the goodness of fit: a pedagogical case study with Newton’s law of cooling",
+    "first_author": "Dunnett",
+    "year": 2025,
+    "s2_paper_id": "72dde6cec4c1f8a90f8f9a6d96e3e39c0333ef58",
+    "doi": "10.1088/1361-6404/ae0201"
+  },
+  "Arii2017": {
+    "source": "semantic_scholar",
+    "title": "Espresso coffee foam delays cooling of the liquid phase",
+    "first_author": "Arii",
+    "year": 2017,
+    "s2_paper_id": "f161aaa020da6e3ddc347a53fd7d3cf8e8eeface",
+    "doi": "10.1080/09168451.2017.1280662"
+  },
+  "Rees1988": {
+    "source": "semantic_scholar",
+    "title": "On cooling tea and coffee",
+    "first_author": "Rees",
+    "year": 1988,
+    "s2_paper_id": "e900acf8324a15b1df39e7bc3b82d989ff2b7695",
+    "doi": "10.1119/1.15572"
+  }
+}
