@@ -1,0 +1,213 @@
+{
+  "metadata": {
+    "evaluation_name": "Parsimonious Crema-Breakdown Cooling Evaluation",
+    "description": "Evaluates crema-breakdown switching model with fixed tau (5.5 min) on coffee cooling datasets, comparing against Newton baseline and free-transition models using out-of-sample RMSE, BIC, and drinkable-temperature crossing error with bootstrap CIs.",
+    "models": [
+      "B0_newton",
+      "B1_piecewise",
+      "C1_coupled_ode",
+      "C2_bayesian_changepoint",
+      "C3_flux_crossover"
+    ],
+    "reference_model": "B0_newton",
+    "n_datasets": 4,
+    "drinkable_temp_C": 50.0,
+    "tau_fixed_min": 5.5,
+    "n_bootstrap": 5000,
+    "per_candidate_summary": {
+      "B0_newton": {
+        "mean_heldout_rmse": 4.043408642662118,
+        "std_heldout_rmse": 1.757476539490618,
+        "mean_bic": 24.25652970864516,
+        "std_bic": 9.95577431319087,
+        "mean_cross_time_error": 1.0884794557599209,
+        "std_cross_time_error": 0.7034080514083942,
+        "n_rmse": 16,
+        "n_bic": 16,
+        "n_cross_valid": 16
+      },
+      "B1_piecewise": {
+        "mean_heldout_rmse": 2.6500863971032054,
+        "std_heldout_rmse": 1.0626996426266901,
+        "mean_bic": -15.536835968029575,
+        "std_bic": 3.358820331271141,
+        "mean_cross_time_error": 0.5624245478742991,
+        "std_cross_time_error": 0.537535443650715,
+        "n_rmse": 16,
+        "n_bic": 16,
+        "n_cross_valid": 16
+      },
+      "C1_coupled_ode": {
+        "mean_heldout_rmse": 3.8926909488648502,
+        "std_heldout_rmse": 1.377484400009155,
+        "mean_bic": -5.244983870698976,
+        "std_bic": 6.36551975318919,
+        "mean_cross_time_error": 0.9485948803561485,
+        "std_cross_time_error": 0.786332174852318,
+        "n_rmse": 16,
+        "n_bic": 16,
+        "n_cross_valid": 16
+      },
+      "C2_bayesian_changepoint": {
+        "mean_heldout_rmse": 1.6609892468914378,
+        "std_heldout_rmse": 0.8751828433525389,
+        "mean_bic": 0.08932634119027355,
+        "std_bic": 3.1990831188338804,
+        "mean_cross_time_error": 0.5390979813993361,
+        "std_cross_time_error": 0.43631850279788514,
+        "n_rmse": 16,
+        "n_bic": 16,
+        "n_cross_valid": 16
+      },
+      "C3_flux_crossover": {
+        "mean_heldout_rmse": 2.626119265624303,
+        "std_heldout_rmse": 0.9475704537146306,
+        "mean_bic": -15.176745377417864,
+        "std_bic": 6.169884143745389,
+        "mean_cross_time_error": 0.6728227601558143,
+        "std_cross_time_error": 0.5560367043188191,
+        "n_rmse": 16,
+        "n_bic": 16,
+        "n_cross_valid": 16
+      }
+    },
+    "bootstrap_cis": {
+      "rmse_B1_piecewise_vs_B0_newton": {
+        "mean_diff": -1.3933222455589123,
+        "ci_lower": -1.853448420215136,
+        "ci_upper": -0.9650146375199374,
+        "n_pairs": 16
+      },
+      "cross_B1_piecewise_vs_B0_newton": {
+        "mean_diff": -0.5260549078856219,
+        "ci_lower": -0.7866247236314977,
+        "ci_upper": -0.2777132894476869,
+        "n_pairs": 16
+      },
+      "rmse_C1_coupled_ode_vs_B0_newton": {
+        "mean_diff": -0.15071769379726713,
+        "ci_lower": -0.3754899633715933,
+        "ci_upper": 0.06778768475356636,
+        "n_pairs": 16
+      },
+      "cross_C1_coupled_ode_vs_B0_newton": {
+        "mean_diff": -0.13988457540377253,
+        "ci_lower": -0.534537997808868,
+        "ci_upper": 0.23539628982258148,
+        "n_pairs": 16
+      },
+      "rmse_C2_bayesian_changepoint_vs_B0_newton": {
+        "mean_diff": -2.38241939577068,
+        "ci_lower": -2.8957813794830707,
+        "ci_upper": -1.863633762295065,
+        "n_pairs": 16
+      },
+      "cross_C2_bayesian_changepoint_vs_B0_newton": {
+        "mean_diff": -0.5493814743605849,
+        "ci_lower": -0.8700325257069139,
+        "ci_upper": -0.21301102241831496,
+        "n_pairs": 16
+      },
+      "rmse_C3_flux_crossover_vs_B0_newton": {
+        "mean_diff": -1.4172893770378148,
+        "ci_lower": -1.9586520951439612,
+        "ci_upper": -0.9235710049254857,
+        "n_pairs": 16
+      },
+      "cross_C3_flux_crossover_vs_B0_newton": {
+        "mean_diff": -0.4156566956041067,
+        "ci_lower": -0.7206988924724926,
+        "ci_upper": -0.1234713838144327,
+        "n_pairs": 16
+      }
+    },
+    "newton_trajectory_error": {
+      "0": {
+        "mean": 0.0,
+        "ci_lower": 0.0,
+        "ci_upper": 0.0,
+        "n": 16
+      },
+      "5": {
+        "mean": 3.2447854214030425,
+        "ci_lower": 2.7420973919401,
+        "ci_upper": 3.8506233843054205,
+        "n": 16
+      },
+      "10": {
+        "mean": 3.052174115031044,
+        "ci_lower": 2.5578677707554363,
+        "ci_upper": 3.589456085930937,
+        "n": 16
+      },
+      "15": {
+        "mean": 1.6606624379764257,
+        "ci_lower": 1.1969144248913015,
+        "ci_upper": 2.146951862641696,
+        "n": 16
+      },
+      "20": {
+        "mean": 1.9472249306997278,
+        "ci_lower": 1.0800885840440808,
+        "ci_upper": 2.9685388772973145,
+        "n": 16
+      },
+      "25": {
+        "mean": 3.944767753887617,
+        "ci_lower": 2.76452713906397,
+        "ci_upper": 5.19798707047895,
+        "n": 16
+      },
+      "30": {
+        "mean": 6.0216708519132505,
+        "ci_lower": 4.608995797295102,
+        "ci_upper": 7.447014591420468,
+        "n": 16
+      }
+    },
+    "per_dataset": [
+      {
+        "dataset": "kurzweg_1988",
+        "n_points": 16,
+        "t_env": 21.0,
+        "t0": 88.0,
+        "t_obs_cross_min": 14.666666666666666,
+        "n_splits": 4
+      },
+      {
+        "dataset": "manitoba_workshop",
+        "n_points": 18,
+        "t_env": 21.0,
+        "t0": 95.0,
+        "t_obs_cross_min": 17.0,
+        "n_splits": 4
+      },
+      {
+        "dataset": "ferreira_2024_cup",
+        "n_points": 13,
+        "t_env": 22.0,
+        "t0": 90.0,
+        "t_obs_cross_min": 17.0,
+        "n_splits": 4
+      },
+      {
+        "dataset": "lomen_lovelock",
+        "n_points": 13,
+        "t_env": 20.0,
+        "t0": 93.33333333333333,
+        "t_obs_cross_min": 19.333333333333332,
+        "n_splits": 4
+      }
+    ]
+  },
+  "datasets": [
+    {
+      "dataset": "kurzweg_1988",
+      "n_points": 16,
+      "t_env": 21.0,
+      "t0": 88.0,
+      "t_obs_cross_min": 14.666666666666666,
+      "n_splits": 4
+    }
+  ]
+}
