@@ -1,0 +1,17 @@
+{
+  "type": "line",
+  "title": "Newton's Law 30-minute Trajectory Error",
+  "xlabel": "Time (min)",
+  "ylabel": "Absolute Temperature Error (°C)",
+  "ylim": [0, 7.5],
+  "aspect": "16:9",
+  "color_map": {"Newton Trajectory Error": "#0173B2"},
+  "series": [
+    {
+      "label": "Newton Trajectory Error",
+      "x": [0, 5, 10, 15, 20, 25, 30],
+      "values": [0.00, 3.245, 3.052, 1.661, 1.947, 3.945, 6.022],
+      "band": [0.0, 0.554, 0.516, 0.475, 0.944, 1.217, 1.419]
+    }
+  ]
+}

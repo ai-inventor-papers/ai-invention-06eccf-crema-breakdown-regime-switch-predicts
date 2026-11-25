@@ -1,0 +1,67 @@
+{
+  "type": "bar",
+  "title": "Out-of-sample RMSE by model and dataset",
+  "xlabel": "Dataset",
+  "ylabel": "OOS RMSE (°C)",
+  "aspect": "16:9",
+  "categories": [
+    "Kurzweg",
+    "Manitoba",
+    "Ferreira",
+    "Lomen-Lovelock"
+  ],
+  "series": [
+    {
+      "label": "B0 Newton",
+      "values": [
+        1.526,
+        5.620,
+        3.838,
+        4.126
+      ]
+    },
+    {
+      "label": "B1 Piecewise",
+      "values": [
+        1.364,
+        2.933,
+        2.162,
+        2.760
+      ]
+    },
+    {
+      "label": "C1 Coupled ODE",
+      "values": [
+        1.855,
+        5.065,
+        4.141,
+        3.889
+      ]
+    },
+    {
+      "label": "C2 Changepoint",
+      "values": [
+        0.643,
+        2.050,
+        0.874,
+        2.059
+      ]
+    },
+    {
+      "label": "C3 Flux-crossover",
+      "values": [
+        1.284,
+        2.544,
+        3.086,
+        2.731
+      ]
+    }
+  ],
+  "color_map": {
+    "C2 Changepoint": "#0173B2",
+    "B0 Newton": "#949494",
+    "B1 Piecewise": "#DE8F05",
+    "C1 Coupled ODE": "#029E73",
+    "C3 Flux-crossover": "#CC78BC"
+  }
+}

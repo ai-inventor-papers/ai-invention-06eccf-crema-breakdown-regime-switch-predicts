@@ -1,0 +1,49 @@
+{
+  "type": "scatter",
+  "title": "Model Trade-off: Heldout RMSE vs BIC",
+  "xlabel": "Mean BIC (lower better)",
+  "ylabel": "Mean Heldout OOS RMSE (°C, lower better)",
+  "aspect": "16:9",
+  "fit": false,
+  "xlim": [-20, 25],
+  "ylim": [1.5, 4.5],
+  "color_map": {
+    "Newton Baseline": "#949494",
+    "Piecewise Two-Exponential": "#0173B2",
+    "Coupled Mass-Energy ODE": "#DE8F05",
+    "Bayesian Change-Point": "#029E73",
+    "Flux-Crossover tau=5.5 fixed": "#CC78BC"
+  },
+  "series": [
+    {
+      "label": "Newton Baseline",
+      "x": [24.26],
+      "values": [4.04],
+      "marker": "o"
+    },
+    {
+      "label": "Piecewise Two-Exponential",
+      "x": [-15.54],
+      "values": [2.65],
+      "marker": "s"
+    },
+    {
+      "label": "Coupled Mass-Energy ODE",
+      "x": [-5.24],
+      "values": [3.89],
+      "marker": "^"
+    },
+    {
+      "label": "Bayesian Change-Point",
+      "x": [0.09],
+      "values": [1.66],
+      "marker": "D"
+    },
+    {
+      "label": "Flux-Crossover tau=5.5 fixed",
+      "x": [-15.18],
+      "values": [2.63],
+      "marker": "v"
+    }
+  ]
+}

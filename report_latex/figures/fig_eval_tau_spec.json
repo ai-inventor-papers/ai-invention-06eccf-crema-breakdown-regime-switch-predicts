@@ -1,0 +1,35 @@
+{
+  "type": "line",
+  "title": "C3 in-sample OOS RMSE vs tau sweep",
+  "xlabel": "Tau (min)",
+  "ylabel": "In-sample OOS RMSE (°C)",
+  "aspect": "16:9",
+  "color_map": {
+    "Ferreira cup 2024": "#0173B2",
+    "Kurzweg UFL 2017": "#DE8F05",
+    "Manitoba": "#029E73"
+  },
+  "series": [
+    {
+      "label": "Ferreira cup 2024",
+      "x": [3, 4, 5, 6, 7, 8],
+      "values": [2.042, 1.853, 1.690, 1.549, 1.427, 1.322],
+      "marker": "o",
+      "linestyle": "-"
+    },
+    {
+      "label": "Kurzweg UFL 2017",
+      "x": [3, 4, 5, 6, 7, 8],
+      "values": [1.986, 1.800, 1.652, 1.527, 1.420, 1.322],
+      "marker": "s",
+      "linestyle": "--"
+    },
+    {
+      "label": "Manitoba",
+      "x": [3, 4, 5, 6, 7, 8],
+      "values": [3.453, 3.181, 2.942, 2.731, 2.547, 2.388],
+      "marker": "^",
+      "linestyle": ":"
+    }
+  ]
+}

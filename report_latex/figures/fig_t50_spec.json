@@ -1,0 +1,22 @@
+{
+  "type": "bar",
+  "title": "Predicted time to drinkable temperature (50°C)",
+  "xlabel": "Dataset",
+  "ylabel": "Time to 50°C (min)",
+  "aspect": "16:9",
+  "categories": ["Kurzweg", "Manitoba", "Ferreira", "Lomen-Lovelock"],
+  "series": [
+    {"label": "B0 Newton", "values": [15.92, 16.23, 18.24, 18.70]},
+    {"label": "B1 Piecewise", "values": [14.88, 16.47, 17.31, 18.72]},
+    {"label": "C1 Coupled ODE", "values": [14.93, 15.43, 17.04, 18.21]},
+    {"label": "C2 Changepoint", "values": [14.91, 17.35, 18.42, 19.29]},
+    {"label": "C3 Flux-crossover", "values": [14.87, 16.11, 17.14, 18.57]}
+  ],
+  "color_map": {
+    "B0 Newton": "#0173B2",
+    "B1 Piecewise": "#949494",
+    "C1 Coupled ODE": "#DE8F05",
+    "C2 Changepoint": "#029E73",
+    "C3 Flux-crossover": "#CC78BC"
+  }
+}

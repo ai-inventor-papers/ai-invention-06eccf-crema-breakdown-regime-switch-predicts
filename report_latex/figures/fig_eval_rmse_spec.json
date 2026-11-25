@@ -1,0 +1,41 @@
+{
+  "type": "bar",
+  "title": "Heldout OOS RMSE by dataset and candidate",
+  "xlabel": "Dataset",
+  "ylabel": "Heldout OOS RMSE (°C)",
+  "aspect": "16:9",
+  "categories": [
+    "Ferreira cup 2024",
+    "Kurzweg UFL 2017",
+    "Manitoba"
+  ],
+  "color_map": {
+    "B0 Newton": "#949494",
+    "B1 Piecewise": "#DE8F05",
+    "C1 Coupled ODE": "#029E73",
+    "C2 Changepoint": "#CC78BC",
+    "C3 Flux-crossover": "#0173B2"
+  },
+  "series": [
+    {
+      "label": "B0 Newton",
+      "values": [1.787, 0.286, 1.921]
+    },
+    {
+      "label": "B1 Piecewise",
+      "values": [5.026, 2.458, 5.099]
+    },
+    {
+      "label": "C1 Coupled ODE",
+      "values": [3.083, 1.259, 1.725]
+    },
+    {
+      "label": "C2 Changepoint",
+      "values": [8.591, 1.793, 7.910]
+    },
+    {
+      "label": "C3 Flux-crossover",
+      "values": [0.418, 0.320, 0.254]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "bar",
+  "title": "BIC by model and dataset",
+  "xlabel": "Dataset",
+  "ylabel": "BIC",
+  "aspect": "16:9",
+  "categories": ["Kurzweg", "Manitoba", "Ferreira", "Lomen-Lovelock"],
+  "series": [
+    {"label": "B0 Newton", "values": [20.36, 43.03, 25.09, 20.95]},
+    {"label": "B1 Piecewise", "values": [-21.54, -14.37, -10.60, -15.98]},
+    {"label": "C1 Coupled ODE", "values": [-13.16, 4.41, 2.07, -6.30]},
+    {"label": "C2 Changepoint", "values": [-3.26, 4.77, 2.92, -2.67]},
+    {"label": "C3 Flux-crossover", "values": [-24.55, -9.65, -4.96, -16.15]}
+  ],
+  "color_map": {
+    "B0 Newton": "#949494",
+    "B1 Piecewise": "#DE8F05",
+    "C1 Coupled ODE": "#029E73",
+    "C2 Changepoint": "#CC78BC",
+    "C3 Flux-crossover": "#0173B2"
+  }
+}

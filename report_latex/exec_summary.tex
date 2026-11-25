@@ -1,0 +1,67 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\usepackage{amsmath}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{hyperref}
+
+\title{Newton's Law of Cooling Deviates by 6°C After 30 Minutes of Coffee Cooling}
+\author{Internal Research Team}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+
+\section{Headline}
+\textbf{Finding:} Newton's law of cooling deviates systematically from measured coffee temperature trajectories, with absolute error reaching 6.02\textdegree C (95\% CI [4.61, 7.45]) at 30 minutes across four published datasets (Kurzweg 1988/2017, Manitoba workshop, Ferreira 2024 cup, Lomen \& Lovelock Stata coffee.dta). Multi-regime models reduce this error, but temperature data alone do not uniquely identify the physical mechanism driving the transition.
+
+\textbf{Evidence grade:} Genuine positive (iteration 2, review score 8). The finding is the headline measurement of the run, sourced from artifact \\
+\texttt{gen\_art\_evaluation\_2} (parsimonious evaluation). The round record grades it as a robust, executed finding.
+
+\textbf{Scope:} 4 published datasets, 30-minute window, bootstrap CIs from 5000 draws, 16 independent model fits per time point.
+
+\section{Goal}
+The run investigated whether Newton's single-exponential law of cooling fails for coffee because it conflates an early evaporation-dominated regime (suppressed by crema coverage) with a late convection-dominated regime. The hypothesis proposed that a physics-based switching criterion (crema breakdown) should predict the full 30-minute cooling trajectory and drinkable-temperature crossing (50\textdegree C ± 5\textdegree C) with lower error than single-exponential models.
+
+\section{What was tried}
+\textbf{Iteration 1:} Executed a five-model comparison across four published datasets (experiment artifact) and applied a pre-registered survival rule on three datasets (evaluation artifact). Models: B0 (Newton baseline, 2 params), B1 (piecewise two-exponential, 5 params), C1 (coupled mass-energy ODE, 3 params), C2 (Bayesian change-point, 3 params), C3 (flux-crossover with tau sweep 3--8 min, 3 params). The survival rule required lowest heldout RMSE on $\geq$80\% of datasets AND mean delta-BIC > 10 over Newton. Result: no survivors at N=3 (degenerates to unanimity).
+
+\textbf{Iteration 2:} Tested a parsimonious flux-crossover model with tau fixed at 5.5 min (literature midpoint) on four datasets with bootstrap CIs for Newton's trajectory error at 5-minute intervals. Also conducted a systematic web search for additional coffee cooling datasets to expand the validation panel.
+
+\section{Key results}
+\begin{table}[!htbp]
+\centering
+\footnotesize
+\caption{Key results by artifact}
+\label{tab:key_results}
+\begin{tabular}{p{2.2cm}p{2.2cm}p{2.2cm}p{2.2cm}}
+\toprule
+Metric & Value & Source & Grade \\
+\midrule
+Newton 30-min error & 6.02\textdegree C [4.61, 7.45] & gen\_art\_evaluation\_2 (iter 2) & Genuine positive \\
+Bayesian changepoint OOS RMSE & 1.66\textdegree C & gen\_art\_evaluation\_2 (iter 2) & Genuine positive \\
+Flux-crossover (tau=5.5) OOS RMSE & 2.63\textdegree C & gen\_art\_evaluation\_2 (iter 2) & Genuine positive \\
+Flux-crossover (swept tau) OOS RMSE & 0.33\textdegree C & gen\_art\_evaluation\_1 (iter 1) & Genuine positive \\
+Survivors (pre-registered rule) & 0/5 & gen\_art\_evaluation\_1 (iter 1) & Null (underpowered) \\
+New usable datasets found & 2 & gen\_art\_research\_1 (iter 2) & Null \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\section{What failed}
+\begin{itemize}
+    \item \textbf{Pre-registered survival rule:} No survivors at N=3 (requires 3/3 wins on RMSE and delta-BIC > 10). The flux-crossover model won RMSE on 2/3 datasets but had negative delta-BIC (-29.8), failing the BIC screen. The panel is underpowered (MDE ~2\textdegree C at 95\% power).
+    \item \textbf{Crema-breakdown mechanism uniquely identified:} The Bayesian change-point on residuals achieves the best OOS RMSE (1.66\textdegree C) without invoking crema physics. Temperature data alone do not discriminate between a crema-breakdown switching mechanism and a free transition time.
+    \item \textbf{Panel expansion:} Systematic search found only 2 passing candidates (UP.edu 14 min, UGA boiling water), neither fully usable as 30-minute coffee data. Even counting UGA as proxy, only 2 of 6 datasets are fully usable.
+    \item \textbf{Fixed-tau parsimonious flux-crossover:} RMSE degrades from 0.33\textdegree C (swept tau) to 2.63\textdegree C (fixed tau=5.5), confirming tau is a free parameter the data constrain, not a known constant from literature.
+\end{itemize}
+
+\section{Open questions}
+\begin{itemize}
+    \item Whether independent crema thickness measurements (e.g., high-speed imaging of crema decay) would ground the switching criterion and allow the crema hypothesis to be tested.
+    \item Whether the non-monotonic Newton error pattern (3.24\textdegree C at 5 min → 1.66\textdegree C at 15 min → 6.02\textdegree C at 30 min) generalizes beyond these four datasets.
+    \item Whether a more parsimonious formulation of the crema-breakdown model could survive the pre-registered screen.
+\end{itemize}
+
+\end{document}
